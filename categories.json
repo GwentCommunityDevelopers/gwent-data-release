@@ -237,7 +237,7 @@
     "pt-BR": "Cl\u00e3 Drummond",
     "ru-RU": "\u041a\u043b\u0430\u043d \u0414\u0440\u0443\u043c\u043c\u043e\u043d\u0434",
     "zh-CN": "\u5fb7\u62c9\u8499\u5bb6\u65cf",
-    "zh-TW": "\u5fb7\u62c9\u8499"
+    "zh-TW": "\u5fb7\u62c9\u8499\u5bb6\u65cf"
   },
   "card_category_24": {
     "de-DE": "Erscheinung",
@@ -327,7 +327,7 @@
     "pt-BR": "Cl\u00e3 Tuirseach",
     "ru-RU": "\u041a\u043b\u0430\u043d \u0422\u0438\u0440\u0448\u0430\u0445",
     "zh-CN": "\u56fe\u5c14\u8d5b\u514b\u5bb6\u65cf",
-    "zh-TW": "\u5716\u723e\u5e0c\u66f2"
+    "zh-TW": "\u5716\u723e\u5e0c\u66f2\u5bb6\u65cf"
   },
   "card_category_3": {
     "de-DE": "Clan Tordarroch",
@@ -342,7 +342,7 @@
     "pt-BR": "Cl\u00e3 Tordarroch",
     "ru-RU": "\u041a\u043b\u0430\u043d \u0422\u043e\u0440\u0434\u0430\u0440\u0440\u043e\u0445",
     "zh-CN": "\u6258\u8fbe\u6d1b\u514b\u5bb6\u65cf",
-    "zh-TW": "\u6258\u9054\u6d1b\u66f2"
+    "zh-TW": "\u6258\u9054\u6d1b\u66f2\u5bb6\u65cf"
   },
   "card_category_30": {
     "de-DE": "Clan Dimun",
@@ -357,7 +357,7 @@
     "pt-BR": "Cl\u00e3 Dimun",
     "ru-RU": "\u041a\u043b\u0430\u043d \u0414\u0438\u043c\u0443\u043d",
     "zh-CN": "\u8fea\u95e8\u5bb6\u65cf",
-    "zh-TW": "\u8fea\u9580"
+    "zh-TW": "\u8fea\u9580\u5bb6\u65cf"
   },
   "card_category_31": {
     "de-DE": "Hexer",
@@ -387,7 +387,7 @@
     "pt-BR": "Cultista",
     "ru-RU": "\u0421\u0435\u043a\u0442\u0430\u043d\u0442",
     "zh-CN": "\u5453\u8bed",
-    "zh-TW": "\u65af\u74e6\u73bb\u5fb7"
+    "zh-TW": "\u90aa\u6559\u5f92"
   },
   "card_category_33": {
     "de-DE": "Alchemie",
@@ -432,7 +432,7 @@
     "pt-BR": "Cl\u00e3 Heymaey",
     "ru-RU": "\u041a\u043b\u0430\u043d \u0425\u044d\u0439\u043c\u044d\u0439",
     "zh-CN": "\u6d77\u73ab\u5bb6\u65cf",
-    "zh-TW": "\u6d77\u73ab"
+    "zh-TW": "\u6d77\u73ab\u5bb6\u65cf"
   },
   "card_category_36": {
     "de-DE": "Blitz",
@@ -582,22 +582,7 @@
     "pt-BR": "Cl\u00e3 an Craite",
     "ru-RU": "\u041a\u043b\u0430\u043d \u0430\u043d \u041a\u0440\u0430\u0439\u0442",
     "zh-CN": "\u594e\u7279\u5bb6\u65cf",
-    "zh-TW": "\u594e\u7279"
-  },
-  "card_category_46": {
-    "de-DE": "Furchtsam",
-    "en-US": "Timid",
-    "es-ES": "T\u00edmido",
-    "es-MX": "T\u00edmido",
-    "fr-FR": "Timide",
-    "it-IT": "Esitante",
-    "ja-JP": "\u81c6\u75c5",
-    "ko-KR": "\uc18c\uc2ec",
-    "pl-PL": "Tch\u00f3rz",
-    "pt-BR": "T\u00edmido",
-    "ru-RU": "\u0420\u043e\u0431\u043a\u0430\u044f",
-    "zh-CN": "\u602f\u61e6",
-    "zh-TW": "\u7f9e\u602f"
+    "zh-TW": "\u594e\u7279\u5bb6\u65cf"
   },
   "card_category_47": {
     "de-DE": "Zwerg",
@@ -1031,7 +1016,8 @@
     "pl-PL": "Agent",
     "pt-BR": "Agente",
     "ru-RU": "\u0410\u0433\u0435\u043d\u0442",
-    "zh-CN": "\u5bc6\u63a2"
+    "zh-CN": "\u5bc6\u63a2",
+    "zh-TW": "\u9593\u8adc"
   },
   "card_category_8": {
     "de-DE": "Clan Brokvar",
@@ -1046,7 +1032,7 @@
     "pt-BR": "Cl\u00e3 Brokvar",
     "ru-RU": "\u041a\u043b\u0430\u043d \u0411\u0440\u043e\u043a\u0432\u0430\u0440",
     "zh-CN": "\u5e03\u6d1b\u514b\u74e6\u5c14\u5bb6\u65cf",
-    "zh-TW": "\u5e03\u6d1b\u514b\u4f10"
+    "zh-TW": "\u5e03\u6d1b\u514b\u4f10\u5bb6\u65cf"
   },
   "card_category_9": {
     "de-DE": "Test",
