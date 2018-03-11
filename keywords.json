@@ -49,8 +49,8 @@
       "text": "\u4f0f\u51fb\uff1a\u6253\u51fa\u540e\u80cc\u9762\u5411\u4e0a\u3002\u82e5\u88ab\u9501\u5b9a\uff0c\u5219\u5931\u53bb\u80fd\u529b\u5e76\u968f\u5373\u7ffb\u5f00\u3002"
     },
     "zh-TW": {
-      "raw": "<b><#BDBDBD>\u4f0f\u64ca\uff1a</color></b>\u8986\u84cb\u51fa\u724c\u3002",
-      "text": "\u4f0f\u64ca\uff1a\u8986\u84cb\u51fa\u724c\u3002"
+      "raw": "<b><#BDBDBD>\u4f0f\u64ca\uff1a</color></b>\u8986\u84cb\u51fa\u724c\u3002\u7576\u88ab\u300c\u9396\u5b9a\u300d\u6642\uff0c\u5c07\u7121\u6548\u4e14\u88ab\u7ffb\u9762\u3002",
+      "text": "\u4f0f\u64ca\uff1a\u8986\u84cb\u51fa\u724c\u3002\u7576\u88ab\u300c\u9396\u5b9a\u300d\u6642\uff0c\u5c07\u7121\u6548\u4e14\u88ab\u7ffb\u9762\u3002"
     }
   },
   "armor": {
@@ -103,8 +103,8 @@
       "text": "\u62a4\u7532\uff1a\u4e3a\u5355\u4f4d\u5438\u6536\u4e00\u5b9a\u6570\u989d\u7684\u4f24\u5bb3\uff0c\u968f\u540e\u79fb\u9664\u76f8\u5e94\u7684\u62a4\u7532\u5c42\u6570\u3002"
     },
     "zh-TW": {
-      "raw": "<b><#BDBDBD>\u8b77\u7532\uff1a</color></b>\u55ae\u4f4d\u724c\u82e5\u53d7\u5230\u50b7\u5bb3\uff0c\u8b77\u7532\u53ef\u5438\u6536\u5b9a\u91cf\u50b7\u5bb3\u503c\u3002",
-      "text": "\u8b77\u7532\uff1a\u55ae\u4f4d\u724c\u82e5\u53d7\u5230\u50b7\u5bb3\uff0c\u8b77\u7532\u53ef\u5438\u6536\u5b9a\u91cf\u50b7\u5bb3\u503c\u3002"
+      "raw": "<b><#BDBDBD>\u8b77\u7532\uff1a</color></b>\u53ef\u5438\u6536\u5b9a\u91cf\u50b7\u5bb3\u503c\uff0c\u96a8\u5f8c\u4fbf\u79fb\u9664\u3002",
+      "text": "\u8b77\u7532\uff1a\u53ef\u5438\u6536\u5b9a\u91cf\u50b7\u5bb3\u503c\uff0c\u96a8\u5f8c\u4fbf\u79fb\u9664\u3002"
     }
   },
   "aura": {
@@ -163,56 +163,56 @@
   },
   "banish": {
     "de-DE": {
-      "raw": "<b><#BDBDBD>Verbannen:</color></b> Entferne eine Karte aus dem Spiel.",
-      "text": "Verbannen: Entferne eine Karte aus dem Spiel."
+      "raw": "<b><#BDBDBD>Verbannen:</color></b> Entferne eine Karte aus dem Spiel. Etwaige Todeswunsch-F\u00e4higkeiten werden nicht ausgel\u00f6st.",
+      "text": "Verbannen: Entferne eine Karte aus dem Spiel. Etwaige Todeswunsch-F\u00e4higkeiten werden nicht ausgel\u00f6st."
     },
     "en-US": {
-      "raw": "<b><#BDBDBD>Banish:</color></b> Remove from the game.",
-      "text": "Banish: Remove from the game."
+      "raw": "<b><#BDBDBD>Banish:</color></b> Remove from the game. Does not trigger Deathwish abilities.",
+      "text": "Banish: Remove from the game. Does not trigger Deathwish abilities."
     },
     "es-ES": {
-      "raw": "<b><#BDBDBD>Desterrar:</color></b> eliminar de la partida.",
-      "text": "Desterrar: eliminar de la partida."
+      "raw": "<b><#BDBDBD>Desterrar:</color></b> eliminar de la partida. No activa las habilidades de sue\u00f1o mortal.",
+      "text": "Desterrar: eliminar de la partida. No activa las habilidades de sue\u00f1o mortal."
     },
     "es-MX": {
-      "raw": "<b><#BDBDBD>Destierra:</color></b> Qu\u00edtala del juego.",
-      "text": "Destierra: Qu\u00edtala del juego."
+      "raw": "<b><#BDBDBD>Desterrar:</color></b> elimina de la partida. No activa las habilidades de Agon\u00eda.",
+      "text": "Desterrar: elimina de la partida. No activa las habilidades de Agon\u00eda."
     },
     "fr-FR": {
-      "raw": "<b><#BDBDBD>Bannir\u00a0:</color></b> retirer de la partie.",
-      "text": "Bannir\u00a0: retirer de la partie."
+      "raw": "<b><#BDBDBD>Bannir\u00a0:</color></b> retirer de la partie. Ne d\u00e9clenche pas les capacit\u00e9s du Baroud d'honneur.",
+      "text": "Bannir\u00a0: retirer de la partie. Ne d\u00e9clenche pas les capacit\u00e9s du Baroud d'honneur."
     },
     "it-IT": {
-      "raw": "<b><#BDBDBD>Bandire:</color></b> rimuovere la carta dal gioco.",
-      "text": "Bandire: rimuovere la carta dal gioco."
+      "raw": "<b><#BDBDBD>Bandire:</color></b> rimuovere la carta dal gioco. Non attiva abilit\u00e0 Ultimo desiderio.",
+      "text": "Bandire: rimuovere la carta dal gioco. Non attiva abilit\u00e0 Ultimo desiderio."
     },
     "ja-JP": {
-      "raw": "<b><#BDBDBD>\u6d88\u6ec5\uff1a</color></b>\u30b2\u30fc\u30e0\u304b\u3089\u53d6\u308a\u9664\u304f",
-      "text": "\u6d88\u6ec5\uff1a\u30b2\u30fc\u30e0\u304b\u3089\u53d6\u308a\u9664\u304f"
+      "raw": "<b><#BDBDBD>\u6d88\u6ec5\uff1a</color></b>\u30b2\u30fc\u30e0\u304b\u3089\u53d6\u308a\u9664\u304f\uff08\u300c\u907a\u8a00\u300d\u30a2\u30d3\u30ea\u30c6\u30a3\u306e\u5f15\u304d\u91d1\u3068\u306f\u306a\u3089\u306a\u3044\uff09",
+      "text": "\u6d88\u6ec5\uff1a\u30b2\u30fc\u30e0\u304b\u3089\u53d6\u308a\u9664\u304f\uff08\u300c\u907a\u8a00\u300d\u30a2\u30d3\u30ea\u30c6\u30a3\u306e\u5f15\u304d\u91d1\u3068\u306f\u306a\u3089\u306a\u3044\uff09"
     },
     "ko-KR": {
-      "raw": "<b><#BDBDBD>\ucd94\ubc29:</color></b> \uac8c\uc784\uc5d0\uc11c \uc81c\uac70\ud569\ub2c8\ub2e4.",
-      "text": "\ucd94\ubc29: \uac8c\uc784\uc5d0\uc11c \uc81c\uac70\ud569\ub2c8\ub2e4."
+      "raw": "<b><#BDBDBD>\ucd94\ubc29:</color></b> \uac8c\uc784\uc5d0\uc11c \uc81c\uac70\ud569\ub2c8\ub2e4. \uc720\uc5b8 \ub2a5\ub825\uc740 \ubc1c\ub3d9\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
+      "text": "\ucd94\ubc29: \uac8c\uc784\uc5d0\uc11c \uc81c\uac70\ud569\ub2c8\ub2e4. \uc720\uc5b8 \ub2a5\ub825\uc740 \ubc1c\ub3d9\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4."
     },
     "pl-PL": {
-      "raw": "<b><#BDBDBD>Wygnaj:</color></b> Usu\u0144 kart\u0119 z gry.",
-      "text": "Wygnaj: Usu\u0144 kart\u0119 z gry."
+      "raw": "<b><#BDBDBD>Wygnaj:</color></b> Usu\u0144 kart\u0119 z gry. Nie aktywuje umiej\u0119tno\u015bci zemsty.",
+      "text": "Wygnaj: Usu\u0144 kart\u0119 z gry. Nie aktywuje umiej\u0119tno\u015bci zemsty."
     },
     "pt-BR": {
-      "raw": "<b><#BDBDBD>Banir:</color></b> remove do jogo.",
-      "text": "Banir: remove do jogo."
+      "raw": "<b><#BDBDBD>Banir:</color></b> remove do jogo. N\u00e3o aciona habilidades de Desejo de Morte.",
+      "text": "Banir: remove do jogo. N\u00e3o aciona habilidades de Desejo de Morte."
     },
     "ru-RU": {
-      "raw": "<b><#BDBDBD>\u0423\u0434\u0430\u043b\u0438\u0442\u044c:</color></b> \u0443\u0431\u0440\u0430\u0442\u044c \u0438\u0437 \u0438\u0433\u0440\u044b.",
-      "text": "\u0423\u0434\u0430\u043b\u0438\u0442\u044c: \u0443\u0431\u0440\u0430\u0442\u044c \u0438\u0437 \u0438\u0433\u0440\u044b."
+      "raw": "<b><#BDBDBD>\u0423\u0434\u0430\u043b\u0438\u0442\u044c:</color></b> \u0443\u0431\u0440\u0430\u0442\u044c \u0438\u0437 \u0438\u0433\u0440\u044b. \u041f\u0440\u0438 \u044d\u0442\u043e\u043c \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \u0417\u0430\u0432\u0435\u0449\u0430\u043d\u0438\u0435 \u043d\u0435 \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f.",
+      "text": "\u0423\u0434\u0430\u043b\u0438\u0442\u044c: \u0443\u0431\u0440\u0430\u0442\u044c \u0438\u0437 \u0438\u0433\u0440\u044b. \u041f\u0440\u0438 \u044d\u0442\u043e\u043c \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \u0417\u0430\u0432\u0435\u0449\u0430\u043d\u0438\u0435 \u043d\u0435 \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f."
     },
     "zh-CN": {
-      "raw": "<b><#BDBDBD>\u653e\u9010\uff1a</color></b>\u4ece\u5bf9\u5c40\u4e2d\u79fb\u51fa\u3002",
-      "text": "\u653e\u9010\uff1a\u4ece\u5bf9\u5c40\u4e2d\u79fb\u51fa\u3002"
+      "raw": "<b><#BDBDBD>\u653e\u9010\uff1a</color></b>\u4ece\u5bf9\u5c40\u4e2d\u79fb\u51fa\u3002\u4e0d\u4f1a\u89e6\u53d1\u201c\u9057\u613f\u201d\u80fd\u529b\u3002",
+      "text": "\u653e\u9010\uff1a\u4ece\u5bf9\u5c40\u4e2d\u79fb\u51fa\u3002\u4e0d\u4f1a\u89e6\u53d1\u201c\u9057\u613f\u201d\u80fd\u529b\u3002"
     },
     "zh-TW": {
-      "raw": "<b><#BDBDBD>\u9a45\u9010\uff1a</color></b>\u5f9e\u724c\u5c40\u4e2d\u79fb\u9664\u3002",
-      "text": "\u9a45\u9010\uff1a\u5f9e\u724c\u5c40\u4e2d\u79fb\u9664\u3002"
+      "raw": "<b><#BDBDBD>\u9a45\u9010\uff1a</color></b>\u5f9e\u724c\u5c40\u4e2d\u79fb\u9664\u3002\u4e0d\u6703\u89f8\u767c\u300c\u6c42\u6b7b\u300d\u80fd\u529b\u3002",
+      "text": "\u9a45\u9010\uff1a\u5f9e\u724c\u5c40\u4e2d\u79fb\u9664\u3002\u4e0d\u6703\u89f8\u767c\u300c\u6c42\u6b7b\u300d\u80fd\u529b\u3002"
     }
   },
   "banish_in_graveyard": {
@@ -373,8 +373,8 @@
       "text": "\u6069\u6cfd\uff1a\u4f5c\u7528\u4e8e\u6574\u6392\u7684\u589e\u76ca\u6548\u679c\u3002\u53ef\u88ab\u5176\u4ed6\u6574\u6392\u6548\u679c\u8986\u76d6\uff0c\u5c0f\u5c40\u7ed3\u675f\u540e\u79fb\u9664\u3002"
     },
     "zh-TW": {
-      "raw": "<b><#BDBDBD>\u52a9\u76ca\uff1a</color></b>\u6b63\u9762\u5168\u5217\u6548\u679c\u3002\u53ef\u900f\u904e\u90e8\u5206\u5361\u724c\u6e05\u9664\uff0c\u4e5f\u53ef\u88ab\u5176\u4ed6\u52a9\u76ca\u6216\u707d\u5bb3\u8986\u84cb\u3002",
-      "text": "\u52a9\u76ca\uff1a\u6b63\u9762\u5168\u5217\u6548\u679c\u3002\u53ef\u900f\u904e\u90e8\u5206\u5361\u724c\u6e05\u9664\uff0c\u4e5f\u53ef\u88ab\u5176\u4ed6\u52a9\u76ca\u6216\u707d\u5bb3\u8986\u84cb\u3002"
+      "raw": "<b><#BDBDBD>\u52a9\u76ca\uff1a</color></b>\u6b63\u9762\u5168\u5217\u6548\u679c\u3002\u53ef\u88ab\u5176\u4ed6\u5168\u5217\u6548\u679c\u8986\u84cb\u4e26\u65bc\u56de\u5408\u7d50\u675f\u6642\u6e05\u9664\u3002",
+      "text": "\u52a9\u76ca\uff1a\u6b63\u9762\u5168\u5217\u6548\u679c\u3002\u53ef\u88ab\u5176\u4ed6\u5168\u5217\u6548\u679c\u8986\u84cb\u4e26\u65bc\u56de\u5408\u7d50\u675f\u6642\u6e05\u9664\u3002"
     }
   },
   "boost": {
@@ -697,8 +697,8 @@
       "text": "\u9690\u533f\uff1a\u7ffb\u8f6c 1 \u5f20\u6b63\u9762\u671d\u4e0a\u7684\u624b\u724c\u3002"
     },
     "zh-TW": {
-      "raw": "<b><#BDBDBD>\u96b1\u85cf\uff1a</color></b>\u8986\u84cb 1 1\u5f35\u88ab\u7ffb\u958b\u7684\u5361\u724c\u3002",
-      "text": "\u96b1\u85cf\uff1a\u8986\u84cb 1 1\u5f35\u88ab\u7ffb\u958b\u7684\u5361\u724c\u3002"
+      "raw": "<b><#BDBDBD>\u96b1\u85cf\uff1a</color></b>\u4f7f 1 \u5f35\u6b63\u9762\u7684\u624b\u724c\u7ffb\u9762\u3002",
+      "text": "\u96b1\u85cf\uff1a\u4f7f 1 \u5f35\u6b63\u9762\u7684\u624b\u724c\u7ffb\u9762\u3002"
     }
   },
   "consume": {
@@ -751,8 +751,8 @@
       "text": "\u541e\u566c\uff1a\u541e\u566c\u4e00\u5f20\u5361\u724c\u3002\u82e5\u5176\u4f4d\u4e8e\u5893\u573a\uff0c\u5219\u5c06\u5176\u79fb\u51fa\u5bf9\u5c40\u3002"
     },
     "zh-TW": {
-      "raw": "<b><#BDBDBD>\u541e\u566c\uff1a</color></b>\u541e\u566c 1 \u5f35\u55ae\u4f4d\u724c\uff0c\u5c07\u5176\u6467\u6bc0\u3002",
-      "text": "\u541e\u566c\uff1a\u541e\u566c 1 \u5f35\u55ae\u4f4d\u724c\uff0c\u5c07\u5176\u6467\u6bc0\u3002"
+      "raw": "<b><#BDBDBD>\u541e\u566c\uff1a</color></b>\u541e\u566c 1 \u5f35\u55ae\u4f4d\u724c\uff0c\u5c07\u5176\u6467\u6bc0\u3002\u82e5\u8a72\u724c\u4f4d\u65bc\u5893\u5834\uff0c\u5247\u5c07\u5176\u79fb\u51fa\u724c\u5c40\u3002",
+      "text": "\u541e\u566c\uff1a\u541e\u566c 1 \u5f35\u55ae\u4f4d\u724c\uff0c\u5c07\u5176\u6467\u6bc0\u3002\u82e5\u8a72\u724c\u4f4d\u65bc\u5893\u5834\uff0c\u5247\u5c07\u5176\u79fb\u51fa\u724c\u5c40\u3002"
     }
   },
   "counter": {
@@ -913,8 +913,8 @@
       "text": "\u521b\u9020\uff1a\u4ece\u81ea\u8eab\u9635\u8425\u6216\u4e2d\u7acb\u5361\u724c\uff08\u9664\u975e\u53e6\u4f5c\u8bf4\u660e\uff09\u4e2d\u968f\u673a\u751f\u6210 3 \u5f20\u5361\u724c\uff08\u201c\u5bc6\u63a2\u201d\u5355\u4f4d\u9664\u5916\uff09\uff0c\u968f\u540e\u9009\u62e9 1 \u5f20\u6253\u51fa\u3002"
     },
     "zh-TW": {
-      "raw": "<b><#BDBDBD>\u88fd\u9020\uff1a</color></b>\u5f9e 3 \u500b\u9663\u71df\u6216\u4e2d\u7acb\u724c\u4e2d\u9078\u64c7 1 \u5f35\u724c\uff0c\u4e26\u52a0\u4ee5\u751f\u6210\u3002",
-      "text": "\u88fd\u9020\uff1a\u5f9e 3 \u500b\u9663\u71df\u6216\u4e2d\u7acb\u724c\u4e2d\u9078\u64c7 1 \u5f35\u724c\uff0c\u4e26\u52a0\u4ee5\u751f\u6210\u3002"
+      "raw": "<b><#BDBDBD>\u88fd\u9020\uff1a</color></b>\u5f9e\u81ea\u8eab\u9663\u71df\u53ca\u4e2d\u7acb\u5361\u724c\uff08\u9664\u975e\u53e6\u5916\u8aaa\u660e\uff09\u4e2d\uff0c\u5c07\u96a8\u6a5f\u6311\u51fa 3 \u5f35\u724c\u4e26\u751f\u6210\u5176\u4e2d 1 \u5f35\uff08\u300c\u9593\u8adc\u300d\u9664\u5916\uff09\u3002",
+      "text": "\u88fd\u9020\uff1a\u5f9e\u81ea\u8eab\u9663\u71df\u53ca\u4e2d\u7acb\u5361\u724c\uff08\u9664\u975e\u53e6\u5916\u8aaa\u660e\uff09\u4e2d\uff0c\u5c07\u96a8\u6a5f\u6311\u51fa 3 \u5f35\u724c\u4e26\u751f\u6210\u5176\u4e2d 1 \u5f35\uff08\u300c\u9593\u8adc\u300d\u9664\u5916\uff09\u3002"
     }
   },
   "crew": {
@@ -967,8 +967,8 @@
       "text": "\u64cd\u63a7\uff1a\u201c\u9a71\u52a8\u201d\u5355\u4f4d\u6253\u51fa\u5728\u81ea\u8eab\u76f8\u90bb\u4f4d\u7f6e\u65f6\uff0c\u89e6\u53d1\u5176\u80fd\u529b\u3002"
     },
     "zh-TW": {
-      "raw": "<b><#BDBDBD>\u64cd\u63a7\uff1a</color></b>\u53ef\u7d66\u4e88\u300c\u5718\u53cb\u300d\u55ae\u4f4d\u724c\u52a0\u6210\u3002",
-      "text": "\u64cd\u63a7\uff1a\u53ef\u7d66\u4e88\u300c\u5718\u53cb\u300d\u55ae\u4f4d\u724c\u52a0\u6210\u3002"
+      "raw": "<b><#BDBDBD>\u64cd\u63a7\uff1a</color></b>\u300c\u53d7\u63a7\u300d\u55ae\u4f4d\u724c\u6253\u5728\u6b64\u724c\u7684\u76f8\u9130\u4f4d\u7f6e\u6642\u4fbf\u53ef\u767c\u52d5\u5176\u80fd\u529b\u3002",
+      "text": "\u64cd\u63a7\uff1a\u300c\u53d7\u63a7\u300d\u55ae\u4f4d\u724c\u6253\u5728\u6b64\u724c\u7684\u76f8\u9130\u4f4d\u7f6e\u6642\u4fbf\u53ef\u767c\u52d5\u5176\u80fd\u529b\u3002"
     }
   },
   "crewed": {
@@ -1021,8 +1021,8 @@
       "text": "\u9a71\u52a8\uff1a\u6253\u51fa\u540e\uff0c\u6bcf\u6709\u4e00\u4e2a\u201c\u64cd\u63a7\u201d\u5355\u4f4d\u4e0e\u4e4b\u76f8\u90bb\uff0c\u4fbf\u89e6\u53d1\u6b64\u80fd\u529b\u4e00\u6b21\u3002"
     },
     "zh-TW": {
-      "raw": "<b><#BDBDBD>\u53d7\u63a7\uff1a</color></b>\u7576\u5e36\u6709\u300c\u53d7\u63a7\u300d\u80fd\u529b\u7684\u55ae\u4f4d\u724c\u6253\u5728\u300c\u64cd\u63a7\u300d\u55ae\u4f4d\u724c\u65c1\u908a\u6642\uff0c\u6703\u7372\u5f97\u984d\u5916\u52a0\u6210\u6548\u679c\u3002",
-      "text": "\u53d7\u63a7\uff1a\u7576\u5e36\u6709\u300c\u53d7\u63a7\u300d\u80fd\u529b\u7684\u55ae\u4f4d\u724c\u6253\u5728\u300c\u64cd\u63a7\u300d\u55ae\u4f4d\u724c\u65c1\u908a\u6642\uff0c\u6703\u7372\u5f97\u984d\u5916\u52a0\u6210\u6548\u679c\u3002"
+      "raw": "<b><#BDBDBD>\u53d7\u63a7\uff1a</color></b>\u88ab\u6253\u51fa\u5f8c\uff0c\u6bcf\u6709 1 \u5f35\u76f8\u9130\u7684\u300c\u64cd\u63a7\u300d\u55ae\u4f4d\u724c\uff0c\u4fbf\u767c\u52d5 1 \u6b21\u6b64\u80fd\u529b\u3002",
+      "text": "\u53d7\u63a7\uff1a\u88ab\u6253\u51fa\u5f8c\uff0c\u6bcf\u6709 1 \u5f35\u76f8\u9130\u7684\u300c\u64cd\u63a7\u300d\u55ae\u4f4d\u724c\uff0c\u4fbf\u767c\u52d5 1 \u6b21\u6b64\u80fd\u529b\u3002"
     }
   },
   "damage": {
@@ -1189,56 +1189,56 @@
   },
   "deathwish": {
     "de-DE": {
-      "raw": "<b><#BDBDBD>Todeswunsch:</color></b> Wird ausgel\u00f6st, wenn eine Karte zerst\u00f6rt wird.",
-      "text": "Todeswunsch: Wird ausgel\u00f6st, wenn eine Karte zerst\u00f6rt wird."
+      "raw": "<b><#BDBDBD>Todeswunsch:</color></b> Diese F\u00e4higkeit wird ausgel\u00f6st, wenn die Einheit vom Schlachtfeld auf den Friedhof verschoben wird. Hinweis: Verbannte und geschw\u00e4chte Einheiten werden nicht auf den Friedhof verschoben.",
+      "text": "Todeswunsch: Diese F\u00e4higkeit wird ausgel\u00f6st, wenn die Einheit vom Schlachtfeld auf den Friedhof verschoben wird. Hinweis: Verbannte und geschw\u00e4chte Einheiten werden nicht auf den Friedhof verschoben."
     },
     "en-US": {
-      "raw": "<b><#BDBDBD>Deathwish:</color></b> Trigger this ability when destroyed during a round.",
-      "text": "Deathwish: Trigger this ability when destroyed during a round."
+      "raw": "<b><#BDBDBD>Deathwish:</color></b> Trigger this ability when moved from board to graveyard. Note: Banished and Weakened units are not sent to the graveyard.",
+      "text": "Deathwish: Trigger this ability when moved from board to graveyard. Note: Banished and Weakened units are not sent to the graveyard."
     },
     "es-ES": {
-      "raw": "<b><#BDBDBD>Sue\u00f1o mortal:</color></b> activa esta habilidad cuando se destruye durante una ronda.",
-      "text": "Sue\u00f1o mortal: activa esta habilidad cuando se destruye durante una ronda."
+      "raw": "<b><#BDBDBD>Sue\u00f1o mortal:</color></b> activa esta habilidad cuando se env\u00eda del tablero al cementerio. Atenci\u00f3n: las unidades desterradas y debilitadas no se env\u00edan al cementerio.",
+      "text": "Sue\u00f1o mortal: activa esta habilidad cuando se env\u00eda del tablero al cementerio. Atenci\u00f3n: las unidades desterradas y debilitadas no se env\u00edan al cementerio."
     },
     "es-MX": {
-      "raw": "<b><#BDBDBD>Agon\u00eda:</color></b>activa esta habilidad cuando la carta se destruye durante una ronda.",
-      "text": "Agon\u00eda:activa esta habilidad cuando la carta se destruye durante una ronda."
+      "raw": "<b><#BDBDBD>Agon\u00eda:</color></b> activa esta habilidad cuando la carta pasa del tablero al cementerio. Nota: las unidades desterradas y debilitadas no van al cementerio.",
+      "text": "Agon\u00eda: activa esta habilidad cuando la carta pasa del tablero al cementerio. Nota: las unidades desterradas y debilitadas no van al cementerio."
     },
     "fr-FR": {
-      "raw": "<b><#BDBDBD>Baroud d'honneur\u00a0:</color></b> d\u00e9clencher cette capacit\u00e9 lorsque la carte est d\u00e9truite durant une manche.",
-      "text": "Baroud d'honneur\u00a0: d\u00e9clencher cette capacit\u00e9 lorsque la carte est d\u00e9truite durant une manche."
+      "raw": "<b><#BDBDBD>Baroud d'honneur\u00a0:</color></b> d\u00e9clencher cette capacit\u00e9 lorsque la carte est d\u00e9plac\u00e9e du plateau vers le cimeti\u00e8re. Remarque\u00a0: les unit\u00e9s bannies ou affaiblies ne sont pas envoy\u00e9es au cimeti\u00e8re.",
+      "text": "Baroud d'honneur\u00a0: d\u00e9clencher cette capacit\u00e9 lorsque la carte est d\u00e9plac\u00e9e du plateau vers le cimeti\u00e8re. Remarque\u00a0: les unit\u00e9s bannies ou affaiblies ne sont pas envoy\u00e9es au cimeti\u00e8re."
     },
     "it-IT": {
-      "raw": "<b><#BDBDBD>Ultimo desiderio:</color></b> l'abilit\u00e0 si attiva quando la carta viene distrutta nel corso del round.",
-      "text": "Ultimo desiderio: l'abilit\u00e0 si attiva quando la carta viene distrutta nel corso del round."
+      "raw": "<b><#BDBDBD>Ultimo desiderio:</color></b> l'abilit\u00e0 si attiva quando la carta viene trasferita dal campo di gioco al cimitero. Nota: le unit\u00e0 Bandite e Indebolite non vengono mandate al cimitero.",
+      "text": "Ultimo desiderio: l'abilit\u00e0 si attiva quando la carta viene trasferita dal campo di gioco al cimitero. Nota: le unit\u00e0 Bandite e Indebolite non vengono mandate al cimitero."
     },
     "ja-JP": {
-      "raw": "<b><#BDBDBD>\u907a\u8a00\uff1a</color></b>\u300c\u907a\u8a00\u300d\u30a2\u30d3\u30ea\u30c6\u30a3\u306f\u3001\u30e9\u30a6\u30f3\u30c9\u4e2d\u306b\u30ab\u30fc\u30c9\u304c\u7834\u58ca\u3055\u308c\u308b\u3068\u5b9f\u884c\u3055\u308c\u308b",
-      "text": "\u907a\u8a00\uff1a\u300c\u907a\u8a00\u300d\u30a2\u30d3\u30ea\u30c6\u30a3\u306f\u3001\u30e9\u30a6\u30f3\u30c9\u4e2d\u306b\u30ab\u30fc\u30c9\u304c\u7834\u58ca\u3055\u308c\u308b\u3068\u5b9f\u884c\u3055\u308c\u308b"
+      "raw": "<b><#BDBDBD>\u907a\u8a00\uff1a</color></b>\u300c\u907a\u8a00\u300d\u30a2\u30d3\u30ea\u30c6\u30a3\u306f\u3001\u30e9\u30a6\u30f3\u30c9\u4e2d\u306b\u30ab\u30fc\u30c9\u304c\u76e4\u9762\u304b\u3089\u5893\u5730\u306b\u79fb\u52d5\u3059\u308b\u3068\u5b9f\u884c\u3055\u308c\u308b\uff08\u4f46\u3057\u3001\u6d88\u6ec5\u3057\u305f\u304b\u3001\u30d9\u30fc\u30b9\u30c0\u30a6\u30f3\u306b\u3088\u3063\u3066\u30b2\u30fc\u30e0\u304b\u3089\u53d6\u308a\u9664\u304b\u308c\u305f\u5834\u5408\u306f\u5b9f\u884c\u3055\u308c\u306a\u3044\uff09",
+      "text": "\u907a\u8a00\uff1a\u300c\u907a\u8a00\u300d\u30a2\u30d3\u30ea\u30c6\u30a3\u306f\u3001\u30e9\u30a6\u30f3\u30c9\u4e2d\u306b\u30ab\u30fc\u30c9\u304c\u76e4\u9762\u304b\u3089\u5893\u5730\u306b\u79fb\u52d5\u3059\u308b\u3068\u5b9f\u884c\u3055\u308c\u308b\uff08\u4f46\u3057\u3001\u6d88\u6ec5\u3057\u305f\u304b\u3001\u30d9\u30fc\u30b9\u30c0\u30a6\u30f3\u306b\u3088\u3063\u3066\u30b2\u30fc\u30e0\u304b\u3089\u53d6\u308a\u9664\u304b\u308c\u305f\u5834\u5408\u306f\u5b9f\u884c\u3055\u308c\u306a\u3044\uff09"
     },
     "ko-KR": {
-      "raw": "<b><#BDBDBD>\uc720\uc5b8:</color></b> \ub77c\uc6b4\ub4dc\ub97c \uc9c4\ud589\ud558\ub294 \ub3d9\uc548 \ud30c\uad34\ub418\uba74 \uc774 \ub2a5\ub825\uc744 \ubc1c\ub3d9\ud569\ub2c8\ub2e4.",
-      "text": "\uc720\uc5b8: \ub77c\uc6b4\ub4dc\ub97c \uc9c4\ud589\ud558\ub294 \ub3d9\uc548 \ud30c\uad34\ub418\uba74 \uc774 \ub2a5\ub825\uc744 \ubc1c\ub3d9\ud569\ub2c8\ub2e4."
+      "raw": "<b><#BDBDBD>\uc720\uc5b8:</color></b> \ubcf4\ub4dc\uc5d0\uc11c \ubb34\ub364\uc73c\ub85c \uc774\ub3d9\ud560 \ub54c \uc774 \ub2a5\ub825\uc774 \ubc1c\ub3d9\ud569\ub2c8\ub2e4. \ucc38\uace0: \ucd94\ubc29\ub418\uac70\ub098 \uc57d\ud654\ub41c \uc720\ub2db\uc740 \ubb34\ub364\uc73c\ub85c \uac00\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
+      "text": "\uc720\uc5b8: \ubcf4\ub4dc\uc5d0\uc11c \ubb34\ub364\uc73c\ub85c \uc774\ub3d9\ud560 \ub54c \uc774 \ub2a5\ub825\uc774 \ubc1c\ub3d9\ud569\ub2c8\ub2e4. \ucc38\uace0: \ucd94\ubc29\ub418\uac70\ub098 \uc57d\ud654\ub41c \uc720\ub2db\uc740 \ubb34\ub364\uc73c\ub85c \uac00\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4."
     },
     "pl-PL": {
-      "raw": "<b><#BDBDBD>Zemsta:</color></b> Aktywuj t\u0119 umiej\u0119tno\u015b\u0107, gdy karta zostanie zniszczona podczas rundy.",
-      "text": "Zemsta: Aktywuj t\u0119 umiej\u0119tno\u015b\u0107, gdy karta zostanie zniszczona podczas rundy."
+      "raw": "<b><#BDBDBD>Zemsta:</color></b> Aktywuj t\u0119 umiej\u0119tno\u015b\u0107, gdy karta zostanie przeniesiona z pola walki na cmentarz. Uwaga: Wygnane i os\u0142abione jednostki nie s\u0105 wysy\u0142ane na cmentarz.",
+      "text": "Zemsta: Aktywuj t\u0119 umiej\u0119tno\u015b\u0107, gdy karta zostanie przeniesiona z pola walki na cmentarz. Uwaga: Wygnane i os\u0142abione jednostki nie s\u0105 wysy\u0142ane na cmentarz."
     },
     "pt-BR": {
-      "raw": "<b><#BDBDBD>Desejo de Morte:</color></b> habilidade ativada quando a carta \u00e9 destru\u00edda em uma rodada.",
-      "text": "Desejo de Morte: habilidade ativada quando a carta \u00e9 destru\u00edda em uma rodada."
+      "raw": "<b><#BDBDBD>Desejo de Morte:</color></b> esta habilidade \u00e9 ativada quando a carta \u00e9 movida do tabuleiro para a pilha de descarte. Observa\u00e7\u00e3o: unidades banidas e enfraquecidas n\u00e3o s\u00e3o enviadas para a pilha de descarte.",
+      "text": "Desejo de Morte: esta habilidade \u00e9 ativada quando a carta \u00e9 movida do tabuleiro para a pilha de descarte. Observa\u00e7\u00e3o: unidades banidas e enfraquecidas n\u00e3o s\u00e3o enviadas para a pilha de descarte."
     },
     "ru-RU": {
-      "raw": "<b><#BDBDBD>\u0417\u0430\u0432\u0435\u0449\u0430\u043d\u0438\u0435:</color></b> \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f, \u043a\u043e\u0433\u0434\u0430 \u043a\u0430\u0440\u0442\u0443 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0430\u044e\u0442 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u0440\u0430\u0443\u043d\u0434\u0430.",
-      "text": "\u0417\u0430\u0432\u0435\u0449\u0430\u043d\u0438\u0435: \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f, \u043a\u043e\u0433\u0434\u0430 \u043a\u0430\u0440\u0442\u0443 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0430\u044e\u0442 \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u0440\u0430\u0443\u043d\u0434\u0430."
+      "raw": "<b><#BDBDBD>\u0417\u0430\u0432\u0435\u0449\u0430\u043d\u0438\u0435:</color></b> \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f, \u043a\u043e\u0433\u0434\u0430 \u043a\u0430\u0440\u0442\u0430 \u0443\u0445\u043e\u0434\u0438\u0442 \u0441 \u043f\u043e\u043b\u044f \u0432 \u0441\u0431\u0440\u043e\u0441. \u0423\u0447\u0442\u0438\u0442\u0435, \u0447\u0442\u043e \u0443\u0434\u0430\u043b\u0435\u043d\u043d\u044b\u0435 \u0438 \u043e\u0441\u043b\u0430\u0431\u043b\u0435\u043d\u043d\u044b\u0435 \u043e\u0442\u0440\u044f\u0434\u044b \u0432 \u0441\u0431\u0440\u043e\u0441 \u043d\u0435 \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u044f\u044e\u0442\u0441\u044f.",
+      "text": "\u0417\u0430\u0432\u0435\u0449\u0430\u043d\u0438\u0435: \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f, \u043a\u043e\u0433\u0434\u0430 \u043a\u0430\u0440\u0442\u0430 \u0443\u0445\u043e\u0434\u0438\u0442 \u0441 \u043f\u043e\u043b\u044f \u0432 \u0441\u0431\u0440\u043e\u0441. \u0423\u0447\u0442\u0438\u0442\u0435, \u0447\u0442\u043e \u0443\u0434\u0430\u043b\u0435\u043d\u043d\u044b\u0435 \u0438 \u043e\u0441\u043b\u0430\u0431\u043b\u0435\u043d\u043d\u044b\u0435 \u043e\u0442\u0440\u044f\u0434\u044b \u0432 \u0441\u0431\u0440\u043e\u0441 \u043d\u0435 \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u044f\u044e\u0442\u0441\u044f."
     },
     "zh-CN": {
-      "raw": "<b><#BDBDBD>\u9057\u613f\uff1a</color></b>\u88ab\u6467\u6bc1\u65f6\u89e6\u53d1\u3002",
-      "text": "\u9057\u613f\uff1a\u88ab\u6467\u6bc1\u65f6\u89e6\u53d1\u3002"
+      "raw": "<b><#BDBDBD>\u9057\u613f\uff1a</color></b>\u4ece\u573a\u4e0a\u88ab\u7f6e\u5165\u5893\u573a\u65f6\u89e6\u53d1\u3002\u63d0\u793a\uff1a\u88ab\u201c\u653e\u9010\u201d\u6216\u6218\u529b\u88ab\u201c\u524a\u5f31\u201d\u81f3\u96f6\u7684\u5355\u4f4d\u4e0d\u4f1a\u7f6e\u5165\u5893\u573a\u3002",
+      "text": "\u9057\u613f\uff1a\u4ece\u573a\u4e0a\u88ab\u7f6e\u5165\u5893\u573a\u65f6\u89e6\u53d1\u3002\u63d0\u793a\uff1a\u88ab\u201c\u653e\u9010\u201d\u6216\u6218\u529b\u88ab\u201c\u524a\u5f31\u201d\u81f3\u96f6\u7684\u5355\u4f4d\u4e0d\u4f1a\u7f6e\u5165\u5893\u573a\u3002"
     },
     "zh-TW": {
-      "raw": "<b><#BDBDBD>\u6c42\u6b7b\uff1a</color></b>\u5361\u724c\u88ab\u6467\u6bc0\u6642\u89f8\u767c\u6b64\u80fd\u529b\u3002",
-      "text": "\u6c42\u6b7b\uff1a\u5361\u724c\u88ab\u6467\u6bc0\u6642\u89f8\u767c\u6b64\u80fd\u529b\u3002"
+      "raw": "<b><#BDBDBD>\u6c42\u6b7b\uff1a</color></b>\u5f9e\u5834\u4e0a\u79fb\u52d5\u81f3\u5893\u5834\u6642\u767c\u52d5\u6b64\u80fd\u529b\u3002\u6ce8\u610f\uff1a\u88ab\u300c\u9a45\u9010\u300d\u548c\u300c\u524a\u5f31\u300d\u7684\u55ae\u4f4d\u724c\u4e0d\u6703\u88ab\u9001\u81f3\u5893\u5834\u3002",
+      "text": "\u6c42\u6b7b\uff1a\u5f9e\u5834\u4e0a\u79fb\u52d5\u81f3\u5893\u5834\u6642\u767c\u52d5\u6b64\u80fd\u529b\u3002\u6ce8\u610f\uff1a\u88ab\u300c\u9a45\u9010\u300d\u548c\u300c\u524a\u5f31\u300d\u7684\u55ae\u4f4d\u724c\u4e0d\u6703\u88ab\u9001\u81f3\u5893\u5834\u3002"
     }
   },
   "demote": {
@@ -1453,8 +1453,8 @@
       "text": "\u4e22\u5f03\uff1a\u5c06\u5361\u724c\u4ece\u624b\u724c\u6216\u724c\u7ec4\u7f6e\u5165\u5893\u573a\u3002"
     },
     "zh-TW": {
-      "raw": "<b><#BDBDBD>\u4e1f\u68c4\uff1a</color></b>\u5c07\u8a72\u724c\u5f9e\u624b\u724c\u6216\u724c\u7d44\u79fb\u52d5\u81f3\u5893\u5834\u3002",
-      "text": "\u4e1f\u68c4\uff1a\u5c07\u8a72\u724c\u5f9e\u624b\u724c\u6216\u724c\u7d44\u79fb\u52d5\u81f3\u5893\u5834\u3002"
+      "raw": "<b><#BDBDBD>\u4e1f\u68c4\uff1a</color></b>\u5c07 1 \u5f35\u724c\u5f9e\u624b\u724c\u6216\u724c\u7d44\u79fb\u52d5\u81f3\u5893\u5834\u3002",
+      "text": "\u4e1f\u68c4\uff1a\u5c07 1 \u5f35\u724c\u5f9e\u624b\u724c\u6216\u724c\u7d44\u79fb\u52d5\u81f3\u5893\u5834\u3002"
     }
   },
   "doomed": {
@@ -1507,8 +1507,8 @@
       "text": "\u4f5a\u4ea1\uff1a\u7f6e\u5165\u5893\u573a\u540e\u79fb\u51fa\u5bf9\u5c40\u3002"
     },
     "zh-TW": {
-      "raw": "<b><#BDBDBD>\u6c23\u6578\u5df2\u76e1\uff1a</color></b>\u7121\u6cd5\u88ab\u5fa9\u6d3b\u3002",
-      "text": "\u6c23\u6578\u5df2\u76e1\uff1a\u7121\u6cd5\u88ab\u5fa9\u6d3b\u3002"
+      "raw": "<b><#BDBDBD>\u6c23\u6578\u5df2\u76e1\uff1a</color></b>\u88ab\u9001\u9032\u5893\u5834\u5f8c\u4fbf\u5f9e\u724c\u5c40\u4e2d\u79fb\u9664\u3002",
+      "text": "\u6c23\u6578\u5df2\u76e1\uff1a\u88ab\u9001\u9032\u5893\u5834\u5f8c\u4fbf\u5f9e\u724c\u5c40\u4e2d\u79fb\u9664\u3002"
     }
   },
   "drain": {
@@ -1561,8 +1561,8 @@
       "text": "\u6c72\u98df\uff1a\u9020\u6210\u4f24\u5bb3\uff0c\u81ea\u8eab\u83b7\u5f97\u7b49\u540c\u4e8e\u8be5\u4f24\u5bb3\u503c\u7684\u589e\u76ca\u3002"
     },
     "zh-TW": {
-      "raw": "<b><#BDBDBD>\u6c72\u53d6\uff1a</color></b>\u5077\u53d6 1 \u5f35\u55ae\u4f4d\u724c\u7684\u6230\u529b\u3002",
-      "text": "\u6c72\u53d6\uff1a\u5077\u53d6 1 \u5f35\u55ae\u4f4d\u724c\u7684\u6230\u529b\u3002"
+      "raw": "<b><#BDBDBD>\u6c72\u53d6\uff1a</color></b>\u4ee5\u76f8\u540c\u6578\u503c\u7d66\u4e88\u50b7\u5bb3\u53ca\u63d0\u5347\u81ea\u8eab\u3002",
+      "text": "\u6c72\u53d6\uff1a\u4ee5\u76f8\u540c\u6578\u503c\u7d66\u4e88\u50b7\u5bb3\u53ca\u63d0\u5347\u81ea\u8eab\u3002"
     }
   },
   "draw": {
@@ -1669,8 +1669,8 @@
       "text": "\u5bf9\u51b3\uff1a\u5355\u4f4d\u4e4b\u95f4\u7528\u81ea\u8eab\u6218\u529b\u4e92\u76f8\u4f24\u5bb3\uff0c\u76f4\u81f3\u4e00\u65b9\u88ab\u6467\u6bc1\u3002"
     },
     "zh-TW": {
-      "raw": "<b><#BDBDBD>\u55ae\u6311\uff1a</color></b>\u55ae\u4f4d\u724c\u4e92\u76f8\u4ee5\u6230\u529b\u50b7\u5bb3\u5f7c\u6b64\uff0c\u76f4\u5230\u5176\u4e2d\u4e00\u65b9\u88ab\u6467\u6bc0\u3002",
-      "text": "\u55ae\u6311\uff1a\u55ae\u4f4d\u724c\u4e92\u76f8\u4ee5\u6230\u529b\u50b7\u5bb3\u5f7c\u6b64\uff0c\u76f4\u5230\u5176\u4e2d\u4e00\u65b9\u88ab\u6467\u6bc0\u3002"
+      "raw": "<b><#BDBDBD>\u55ae\u6311\uff1a</color></b>\u55ae\u4f4d\u724c\u4e92\u76f8\u7d66\u4e88\u7b49\u540c\u65bc\u81ea\u8eab\u6230\u529b\u7684\u50b7\u5bb3\uff0c\u76f4\u5230\u5176\u4e2d\u4e00\u65b9\u88ab\u6467\u6bc0\u3002",
+      "text": "\u55ae\u6311\uff1a\u55ae\u4f4d\u724c\u4e92\u76f8\u7d66\u4e88\u7b49\u540c\u65bc\u81ea\u8eab\u6230\u529b\u7684\u50b7\u5bb3\uff0c\u76f4\u5230\u5176\u4e2d\u4e00\u65b9\u88ab\u6467\u6bc0\u3002"
     }
   },
   "enemy": {
@@ -1753,8 +1753,8 @@
       "text": "Monouso: l'abilit\u00e0 di questa carta pu\u00f2 essere usata una sola volta per partita."
     },
     "ja-JP": {
-      "raw": "<b><#BDBDBD>\u75b2\u52b4\uff1a</color></b>\u300c\u75b2\u52b4\u300d\u3092\u6301\u3064\u30e6\u30cb\u30c3\u30c8\u306e\u30a2\u30d3\u30ea\u30c6\u30a3\u306f\u3001\u30b2\u30fc\u30e0\u4e2d\u4e00\u5ea6\u3057\u304b\u5b9f\u884c\u3055\u308c\u306a\u3044",
-      "text": "\u75b2\u52b4\uff1a\u300c\u75b2\u52b4\u300d\u3092\u6301\u3064\u30e6\u30cb\u30c3\u30c8\u306e\u30a2\u30d3\u30ea\u30c6\u30a3\u306f\u3001\u30b2\u30fc\u30e0\u4e2d\u4e00\u5ea6\u3057\u304b\u5b9f\u884c\u3055\u308c\u306a\u3044"
+      "raw": "<b><#BDBDBD>\u75b2\u52b4\uff1a</color></b>\u300c\u75b2\u52b4\u300d\u30a2\u30d3\u30ea\u30c6\u30a3\u306f\u3001\u30b2\u30fc\u30e0\u4e2d\u4e00\u5ea6\u3057\u304b\u5b9f\u884c\u3055\u308c\u306a\u3044",
+      "text": "\u75b2\u52b4\uff1a\u300c\u75b2\u52b4\u300d\u30a2\u30d3\u30ea\u30c6\u30a3\u306f\u3001\u30b2\u30fc\u30e0\u4e2d\u4e00\u5ea6\u3057\u304b\u5b9f\u884c\u3055\u308c\u306a\u3044"
     },
     "ko-KR": {
       "raw": "<b><#BDBDBD>\ub2e8\ubc1c:</color></b> \uc774 \uce74\ub4dc\uc758 \ub2a5\ub825\uc740 \uac8c\uc784\uc744 \uc9c4\ud589\ud558\ub294 \ub3d9\uc548 \ud55c \ubc88\ub9cc \uc0ac\uc6a9\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.",
@@ -1775,6 +1775,10 @@
     "zh-CN": {
       "raw": "<b><#BDBDBD>\u529b\u7aed\uff1a</color></b>\u6b64\u5361\u724c\u7684\u80fd\u529b\u6bcf\u573a\u5bf9\u6218\u53ea\u80fd\u4f7f\u7528\u4e00\u6b21\u3002",
       "text": "\u529b\u7aed\uff1a\u6b64\u5361\u724c\u7684\u80fd\u529b\u6bcf\u573a\u5bf9\u6218\u53ea\u80fd\u4f7f\u7528\u4e00\u6b21\u3002"
+    },
+    "zh-TW": {
+      "raw": "<b><#BDBDBD>\u514d\u6d17\uff1a</color></b>\u6b64\u724c\u7684\u80fd\u529b\u6bcf\u5834\u5c0d\u6230\u53ea\u80fd\u767c\u52d5\u4e00\u6b21\u3002",
+      "text": "\u514d\u6d17\uff1a\u6b64\u724c\u7684\u80fd\u529b\u6bcf\u5834\u5c0d\u6230\u53ea\u80fd\u767c\u52d5\u4e00\u6b21\u3002"
     }
   },
   "friendly": {
@@ -1989,62 +1993,62 @@
       "text": "\u707e\u5384\uff1a\u4f5c\u7528\u4e8e\u6574\u6392\u7684\u8d1f\u9762\u6548\u679c\u3002\u53ef\u88ab\u5176\u4ed6\u6574\u6392\u6548\u679c\u8986\u76d6\uff0c\u5c0f\u5c40\u7ed3\u675f\u540e\u79fb\u9664\u3002"
     },
     "zh-TW": {
-      "raw": "<b><#BDBDBD>\u707d\u5bb3\uff1a</color></b>\u8ca0\u9762\u5168\u5217\u6548\u679c\u3002\u53ef\u900f\u904e\u90e8\u5206\u5361\u724c\u6e05\u9664\uff0c\u4e5f\u53ef\u88ab\u5176\u4ed6\u707d\u5bb3\u6216\u52a9\u76ca\u8986\u84cb\u3002",
-      "text": "\u707d\u5bb3\uff1a\u8ca0\u9762\u5168\u5217\u6548\u679c\u3002\u53ef\u900f\u904e\u90e8\u5206\u5361\u724c\u6e05\u9664\uff0c\u4e5f\u53ef\u88ab\u5176\u4ed6\u707d\u5bb3\u6216\u52a9\u76ca\u8986\u84cb\u3002"
+      "raw": "<b><#BDBDBD>\u707d\u5bb3\uff1a</color></b>\u8ca0\u9762\u5168\u5217\u6548\u679c\u3002\u53ef\u88ab\u5176\u4ed6\u5168\u5217\u6548\u679c\u8986\u84cb\u4e26\u65bc\u56de\u5408\u7d50\u675f\u6642\u6e05\u9664\u3002",
+      "text": "\u707d\u5bb3\uff1a\u8ca0\u9762\u5168\u5217\u6548\u679c\u3002\u53ef\u88ab\u5176\u4ed6\u5168\u5217\u6548\u679c\u8986\u84cb\u4e26\u65bc\u56de\u5408\u7d50\u675f\u6642\u6e05\u9664\u3002"
     }
   },
   "heal": {
     "de-DE": {
-      "raw": "<b><#BDBDBD>Heilen:</color></b> Stelle die Basisst\u00e4rke einer Einheit wieder her, wenn ihre aktuelle St\u00e4rke niedriger ist.",
-      "text": "Heilen: Stelle die Basisst\u00e4rke einer Einheit wieder her, wenn ihre aktuelle St\u00e4rke niedriger ist."
+      "raw": "<b><#BDBDBD>Heilen:</color></b> Wenn die aktuelle St\u00e4rke einer Einheit unter ihrer Basisst\u00e4rke liegt, setze sie entweder auf ihre Basisst\u00e4rke zur\u00fcck oder erh\u00f6he ihre St\u00e4rke um die genannte Menge.",
+      "text": "Heilen: Wenn die aktuelle St\u00e4rke einer Einheit unter ihrer Basisst\u00e4rke liegt, setze sie entweder auf ihre Basisst\u00e4rke zur\u00fcck oder erh\u00f6he ihre St\u00e4rke um die genannte Menge."
     },
     "en-US": {
-      "raw": "<b><#BDBDBD>Heal:</color></b> Restore a unit to its base power if its current power is lower.",
-      "text": "Heal: Restore a unit to its base power if its current power is lower."
+      "raw": "<b><#BDBDBD>Heal:</color></b> If a unit's current power is lower than its base power, restore it either to base power or by the amount specified.",
+      "text": "Heal: If a unit's current power is lower than its base power, restore it either to base power or by the amount specified."
     },
     "es-ES": {
-      "raw": "<b><#BDBDBD>Curar:</color></b> restaurar el poder base de una unidad, si su poder actual es inferior.",
-      "text": "Curar: restaurar el poder base de una unidad, si su poder actual es inferior."
+      "raw": "<b><#BDBDBD>Curar:</color></b> si el poder actual de una unidad es inferior a su poder base, restaurar su poder base o la cantidad especificada.",
+      "text": "Curar: si el poder actual de una unidad es inferior a su poder base, restaurar su poder base o la cantidad especificada."
     },
     "es-MX": {
-      "raw": "<b><#BDBDBD>Sanar:</color></b> restablece una unidad da\u00f1ada a su poder original si su poder actual es menor.",
-      "text": "Sanar: restablece una unidad da\u00f1ada a su poder original si su poder actual es menor."
+      "raw": "<b><#BDBDBD>Sanar:</color></b> si el poder actual de una unidad es menor que su poder base, restaura su poder base o la cantidad especificada.",
+      "text": "Sanar: si el poder actual de una unidad es menor que su poder base, restaura su poder base o la cantidad especificada."
     },
     "fr-FR": {
-      "raw": "<b><#BDBDBD>Soigner\u00a0:</color></b> r\u00e9tablir la force initiale d'une unit\u00e9 lorsque sa force actuelle est inf\u00e9rieure.",
-      "text": "Soigner\u00a0: r\u00e9tablir la force initiale d'une unit\u00e9 lorsque sa force actuelle est inf\u00e9rieure."
+      "raw": "<b><#BDBDBD>Soigner\u00a0:</color></b> si la force actuelle d'une unit\u00e9 est inf\u00e9rieure \u00e0 sa force initiale, r\u00e9tablir la force initiale ou restaurer un nombre de points donn\u00e9.",
+      "text": "Soigner\u00a0: si la force actuelle d'une unit\u00e9 est inf\u00e9rieure \u00e0 sa force initiale, r\u00e9tablir la force initiale ou restaurer un nombre de points donn\u00e9."
     },
     "it-IT": {
-      "raw": "<b><#BDBDBD>Curare:</color></b> ripristinare la forza base di un'unit\u00e0 nel caso in cui questa abbia un valore di forza inferiore.",
-      "text": "Curare: ripristinare la forza base di un'unit\u00e0 nel caso in cui questa abbia un valore di forza inferiore."
+      "raw": "<b><#BDBDBD>Curare:</color></b> se il valore di forza attuale di un'unit\u00e0 \u00e8 inferiore a quello base, il valore di forza viene ripristinato al valore base o dell'ammontare specificato.",
+      "text": "Curare: se il valore di forza attuale di un'unit\u00e0 \u00e8 inferiore a quello base, il valore di forza viene ripristinato al valore base o dell'ammontare specificato."
     },
     "ja-JP": {
-      "raw": "<b><#BDBDBD>\u56de\u5fa9\uff1a</color></b>\u30e6\u30cb\u30c3\u30c8\u306e\u6226\u529b\u5024\u3092\u30d9\u30fc\u30b9\u5024\u306b\u623b\u3059\uff08\u4f46\u3057\u73fe\u5728\u306e\u6226\u529b\u5024\u304c\u30d9\u30fc\u30b9\u5024\u3088\u308a\u9ad8\u3044\u5834\u5408\u3092\u9664\u304f\uff09",
-      "text": "\u56de\u5fa9\uff1a\u30e6\u30cb\u30c3\u30c8\u306e\u6226\u529b\u5024\u3092\u30d9\u30fc\u30b9\u5024\u306b\u623b\u3059\uff08\u4f46\u3057\u73fe\u5728\u306e\u6226\u529b\u5024\u304c\u30d9\u30fc\u30b9\u5024\u3088\u308a\u9ad8\u3044\u5834\u5408\u3092\u9664\u304f\uff09"
+      "raw": "<b><#BDBDBD>\u56de\u5fa9\uff1a</color></b>\u6226\u529b\u5024\u3092\u30d9\u30fc\u30b9\u5024\u306b\u623b\u3059\u304b\u3001\u6307\u5b9a\u3055\u308c\u305f\u5206\u306e\u6226\u529b\u5024\u3092\u52a0\u7b97\u3059\u308b\uff08\u4f46\u3057\u73fe\u5728\u306e\u6226\u529b\u5024\u304c\u30d9\u30fc\u30b9\u5024\u3088\u308a\u9ad8\u3044\u5834\u5408\u3092\u9664\u304f\uff09",
+      "text": "\u56de\u5fa9\uff1a\u6226\u529b\u5024\u3092\u30d9\u30fc\u30b9\u5024\u306b\u623b\u3059\u304b\u3001\u6307\u5b9a\u3055\u308c\u305f\u5206\u306e\u6226\u529b\u5024\u3092\u52a0\u7b97\u3059\u308b\uff08\u4f46\u3057\u73fe\u5728\u306e\u6226\u529b\u5024\u304c\u30d9\u30fc\u30b9\u5024\u3088\u308a\u9ad8\u3044\u5834\u5408\u3092\u9664\u304f\uff09"
     },
     "ko-KR": {
-      "raw": "<b><#BDBDBD>\uce58\uc720:</color></b> \ud574\ub2f9 \uce74\ub4dc\uc758 \ud604\uc7ac \uc804\ub825\uc774 \uae30\ubcf8 \uc804\ub825\ubcf4\ub2e4 \ub354 \ub0ae\uc740 \uacbd\uc6b0 \uc720\ub2db \ud558\ub098\ub97c \uae30\ubcf8 \uc804\ub825\uc73c\ub85c \ubcf5\uad6c\uc2dc\ud0b5\ub2c8\ub2e4.",
-      "text": "\uce58\uc720: \ud574\ub2f9 \uce74\ub4dc\uc758 \ud604\uc7ac \uc804\ub825\uc774 \uae30\ubcf8 \uc804\ub825\ubcf4\ub2e4 \ub354 \ub0ae\uc740 \uacbd\uc6b0 \uc720\ub2db \ud558\ub098\ub97c \uae30\ubcf8 \uc804\ub825\uc73c\ub85c \ubcf5\uad6c\uc2dc\ud0b5\ub2c8\ub2e4."
+      "raw": "<b><#BDBDBD>\uce58\uc720:</color></b> \ud604\uc7ac \uc804\ub825\uc774 \uae30\ubcf8 \uc804\ub825\ubcf4\ub2e4 \ub0ae\uc73c\uba74 \uae30\ubcf8 \uc804\ub825\uae4c\uc9c0 \ub610\ub294 \uc9c0\uc815\ud55c \uc804\ub825\ub9cc\ud07c \ud68c\ubcf5\ud569\ub2c8\ub2e4.",
+      "text": "\uce58\uc720: \ud604\uc7ac \uc804\ub825\uc774 \uae30\ubcf8 \uc804\ub825\ubcf4\ub2e4 \ub0ae\uc73c\uba74 \uae30\ubcf8 \uc804\ub825\uae4c\uc9c0 \ub610\ub294 \uc9c0\uc815\ud55c \uc804\ub825\ub9cc\ud07c \ud68c\ubcf5\ud569\ub2c8\ub2e4."
     },
     "pl-PL": {
-      "raw": "<b><#BDBDBD>Uzdr\u00f3w:</color></b> Przywr\u00f3\u0107 si\u0142\u0119 jednostki do warto\u015bci bazowej, je\u015bli obecnie jej si\u0142a jest ni\u017csza.",
-      "text": "Uzdr\u00f3w: Przywr\u00f3\u0107 si\u0142\u0119 jednostki do warto\u015bci bazowej, je\u015bli obecnie jej si\u0142a jest ni\u017csza."
+      "raw": "<b><#BDBDBD>Uzdr\u00f3w:</color></b> Je\u015bli obecna si\u0142a jednostki jest ni\u017csza od jej si\u0142y bazowej, przywr\u00f3\u0107 jej si\u0142\u0119 bazow\u0105 lub okre\u015blon\u0105 liczb\u0119 punkt\u00f3w si\u0142y.",
+      "text": "Uzdr\u00f3w: Je\u015bli obecna si\u0142a jednostki jest ni\u017csza od jej si\u0142y bazowej, przywr\u00f3\u0107 jej si\u0142\u0119 bazow\u0105 lub okre\u015blon\u0105 liczb\u0119 punkt\u00f3w si\u0142y."
     },
     "pt-BR": {
-      "raw": "<b><#BDBDBD>Curar:</color></b> restaura uma unidade para sua base de poder se o seu poder atual for menor.",
-      "text": "Curar: restaura uma unidade para sua base de poder se o seu poder atual for menor."
+      "raw": "<b><#BDBDBD>Cura:</color></b> se o poder atual de uma unidade estiver abaixo da sua base de poder, a recupera para a base de poder ou pelo valor especificado.",
+      "text": "Cura: se o poder atual de uma unidade estiver abaixo da sua base de poder, a recupera para a base de poder ou pelo valor especificado."
     },
     "ru-RU": {
-      "raw": "<b><#BDBDBD>\u0418\u0441\u0446\u0435\u043b\u0438\u0442\u044c:</color></b> \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0441\u0438\u043b\u0443 \u043e\u0442\u0440\u044f\u0434\u0430 \u0434\u043e \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e\u0439, \u0435\u0441\u043b\u0438 \u0432 \u0434\u0430\u043d\u043d\u044b\u0439 \u043c\u043e\u043c\u0435\u043d\u0442 \u0435\u0433\u043e \u0441\u0438\u043b\u0430 \u043c\u0435\u043d\u044c\u0448\u0435.",
-      "text": "\u0418\u0441\u0446\u0435\u043b\u0438\u0442\u044c: \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0441\u0438\u043b\u0443 \u043e\u0442\u0440\u044f\u0434\u0430 \u0434\u043e \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e\u0439, \u0435\u0441\u043b\u0438 \u0432 \u0434\u0430\u043d\u043d\u044b\u0439 \u043c\u043e\u043c\u0435\u043d\u0442 \u0435\u0433\u043e \u0441\u0438\u043b\u0430 \u043c\u0435\u043d\u044c\u0448\u0435."
+      "raw": "<b><#BDBDBD>\u0418\u0441\u0446\u0435\u043b\u0438\u0442\u044c:</color></b> \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0441\u0438\u043b\u0443 \u043e\u0442\u0440\u044f\u0434\u0430 \u043d\u0430 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0441\u0438\u043b\u044b \u0438\u043b\u0438 \u0434\u043e \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e\u0439, \u0435\u0441\u043b\u0438 \u0432 \u0434\u0430\u043d\u043d\u044b\u0439 \u043c\u043e\u043c\u0435\u043d\u0442 \u0435\u0433\u043e \u0441\u0438\u043b\u0430 \u043c\u0435\u043d\u044c\u0448\u0435.",
+      "text": "\u0418\u0441\u0446\u0435\u043b\u0438\u0442\u044c: \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0441\u0438\u043b\u0443 \u043e\u0442\u0440\u044f\u0434\u0430 \u043d\u0430 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0441\u0438\u043b\u044b \u0438\u043b\u0438 \u0434\u043e \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e\u0439, \u0435\u0441\u043b\u0438 \u0432 \u0434\u0430\u043d\u043d\u044b\u0439 \u043c\u043e\u043c\u0435\u043d\u0442 \u0435\u0433\u043e \u0441\u0438\u043b\u0430 \u043c\u0435\u043d\u044c\u0448\u0435."
     },
     "zh-CN": {
-      "raw": "<b><#BDBDBD>\u6cbb\u6108\uff1a</color></b>\u82e5\u4e00\u4e2a\u5355\u4f4d\u7684\u5f53\u524d\u6218\u529b\u4f4e\u4e8e\u5176\u57fa\u7840\u6218\u529b\uff0c\u5219\u5b8c\u5168\u6062\u590d\u5176\u6218\u529b\u3002",
-      "text": "\u6cbb\u6108\uff1a\u82e5\u4e00\u4e2a\u5355\u4f4d\u7684\u5f53\u524d\u6218\u529b\u4f4e\u4e8e\u5176\u57fa\u7840\u6218\u529b\uff0c\u5219\u5b8c\u5168\u6062\u590d\u5176\u6218\u529b\u3002"
+      "raw": "<b><#BDBDBD>\u6cbb\u6108\uff1a</color></b>\u82e5\u4e00\u4e2a\u5355\u4f4d\u7684\u5f53\u524d\u6218\u529b\u4f4e\u4e8e\u57fa\u7840\u6218\u529b\uff0c\u5219\u6062\u590d\u81f3\u57fa\u7840\u6218\u529b\uff0c\u9664\u975e\u53e6\u4f5c\u8bf4\u660e\u3002",
+      "text": "\u6cbb\u6108\uff1a\u82e5\u4e00\u4e2a\u5355\u4f4d\u7684\u5f53\u524d\u6218\u529b\u4f4e\u4e8e\u57fa\u7840\u6218\u529b\uff0c\u5219\u6062\u590d\u81f3\u57fa\u7840\u6218\u529b\uff0c\u9664\u975e\u53e6\u4f5c\u8bf4\u660e\u3002"
     },
     "zh-TW": {
-      "raw": "<b><#BDBDBD>\u6cbb\u7642\uff1a</color></b>\u5c07\u53d7\u5230\u50b7\u5bb3\u7684\u55ae\u4f4d\u724c\u6062\u5fa9\u81f3\u57fa\u790e\u6230\u529b\u3002",
-      "text": "\u6cbb\u7642\uff1a\u5c07\u53d7\u5230\u50b7\u5bb3\u7684\u55ae\u4f4d\u724c\u6062\u5fa9\u81f3\u57fa\u790e\u6230\u529b\u3002"
+      "raw": "<b><#BDBDBD>\u6cbb\u7642\uff1a</color></b>\u82e5\u67d0\u55ae\u4f4d\u724c\u7684\u7576\u524d\u6230\u529b\u4f4e\u65bc\u5176\u57fa\u790e\u6230\u529b\uff0c\u5247\u5c07\u5176\u6230\u529b\u6062\u5fa9\u81f3\u57fa\u790e\u6230\u529b\uff0c\u6216\u4ee5\u8a3b\u660e\u7684\u9ede\u6578\u6062\u5fa9\u4e4b\u3002",
+      "text": "\u6cbb\u7642\uff1a\u82e5\u67d0\u55ae\u4f4d\u724c\u7684\u7576\u524d\u6230\u529b\u4f4e\u65bc\u5176\u57fa\u790e\u6230\u529b\uff0c\u5247\u5c07\u5176\u6230\u529b\u6062\u5fa9\u81f3\u57fa\u790e\u6230\u529b\uff0c\u6216\u4ee5\u8a3b\u660e\u7684\u9ede\u6578\u6062\u5fa9\u4e4b\u3002"
     }
   },
   "highest": {
@@ -2259,8 +2263,8 @@
       "text": "\u9501\u5b9a\uff1a\u4e00\u79cd\u72b6\u6001\uff0c\u7981\u7528\u5361\u724c\u80fd\u529b\u5e76\u79fb\u9664\u5176\u4ed6\u72b6\u6001\uff1b\u53ef\u7ffb\u5f00\u80cc\u9762\u671d\u4e0a\u7684\u5361\u724c\u3002"
     },
     "zh-TW": {
-      "raw": "<b><#BDBDBD>\u9396\u5b9a\uff1a</color></b>\u4f7f 1 \u5f35\u5361\u724c\u7684\u80fd\u529b\u7121\u6548\u3002\u4f0f\u64ca\u724c\u5c07\u88ab\u7ffb\u958b\u4e14\u7121\u6548\u3002",
-      "text": "\u9396\u5b9a\uff1a\u4f7f 1 \u5f35\u5361\u724c\u7684\u80fd\u529b\u7121\u6548\u3002\u4f0f\u64ca\u724c\u5c07\u88ab\u7ffb\u958b\u4e14\u7121\u6548\u3002"
+      "raw": "<b><#BDBDBD>\u9396\u5b9a\uff1a</color></b>\u4e00\u7a2e\u72c0\u614b\uff0c\u53ef\u4f7f\u5361\u724c\u7684\u80fd\u529b\u7121\u6548\u4e26\u79fb\u9664\u5176\u4ed6\u72c0\u614b\u3002\u4f7f\u53cd\u9762\u7684\u55ae\u4f4d\u724c\u7ffb\u9762\u4e14\u7121\u6548\u3002",
+      "text": "\u9396\u5b9a\uff1a\u4e00\u7a2e\u72c0\u614b\uff0c\u53ef\u4f7f\u5361\u724c\u7684\u80fd\u529b\u7121\u6548\u4e26\u79fb\u9664\u5176\u4ed6\u72c0\u614b\u3002\u4f7f\u53cd\u9762\u7684\u55ae\u4f4d\u724c\u7ffb\u9762\u4e14\u7121\u6548\u3002"
     }
   },
   "lowest": {
@@ -2907,8 +2911,8 @@
       "text": "\u575a\u97e7\uff1a\u4e00\u79cd\u72b6\u6001\uff0c\u5c0f\u5c40\u7ed3\u675f\u540e\u7559\u573a\uff1b\u82e5\u53d7\u5230\u589e\u76ca\uff0c\u5219\u6218\u529b\u6062\u590d\u81f3\u57fa\u7840\u503c\u3002"
     },
     "zh-TW": {
-      "raw": "<b><#BDBDBD>\u5805\u6bc5\u4e0d\u62d4\uff1a</color></b>\u672c\u5c40\u7d50\u675f\u5f8c\u7559\u5728\u5834\u4e0a\u4e26\u91cd\u7f6e\u6210\u57fa\u790e\u6230\u529b\uff0c\u5982\u679c\u7372\u5f97\u63d0\u5347\uff0c\u5247\u91cd\u7f6e\u56de\u57fa\u790e\u6230\u529b\u3002",
-      "text": "\u5805\u6bc5\u4e0d\u62d4\uff1a\u672c\u5c40\u7d50\u675f\u5f8c\u7559\u5728\u5834\u4e0a\u4e26\u91cd\u7f6e\u6210\u57fa\u790e\u6230\u529b\uff0c\u5982\u679c\u7372\u5f97\u63d0\u5347\uff0c\u5247\u91cd\u7f6e\u56de\u57fa\u790e\u6230\u529b\u3002"
+      "raw": "<b><#BDBDBD>\u5805\u6bc5\uff1a</color></b>\u4e00\u7a2e\u72c0\u614b\uff0c\u53ef\u8b93\u55ae\u4f4d\u724c\u5728\u4e00\u5c40\u7d50\u675f\u5f8c\u7559\u5728\u5834\u4e0a\uff0c\u4e14\u82e5\u7372\u5f97\u63d0\u5347\uff0c\u5247\u53ef\u6062\u5fa9\u6210\u57fa\u790e\u6230\u529b\u3002",
+      "text": "\u5805\u6bc5\uff1a\u4e00\u7a2e\u72c0\u614b\uff0c\u53ef\u8b93\u55ae\u4f4d\u724c\u5728\u4e00\u5c40\u7d50\u675f\u5f8c\u7559\u5728\u5834\u4e0a\uff0c\u4e14\u82e5\u7372\u5f97\u63d0\u5347\uff0c\u5247\u53ef\u6062\u5fa9\u6210\u57fa\u790e\u6230\u529b\u3002"
     }
   },
   "resistant": {
@@ -3015,8 +3019,8 @@
       "text": "\u590d\u6d3b\uff1a\u4ece\u5df1\u65b9\u5893\u573a\u6253\u51fa\u3002"
     },
     "zh-TW": {
-      "raw": "<b><#BDBDBD>\u5fa9\u6d3b\uff1a</color></b>\u6253\u51fa\u5893\u5834\u88e1\u7684 1 \u5f35\u724c\u3002",
-      "text": "\u5fa9\u6d3b\uff1a\u6253\u51fa\u5893\u5834\u88e1\u7684 1 \u5f35\u724c\u3002"
+      "raw": "<b><#BDBDBD>\u5fa9\u6d3b\uff1a</color></b>\u5f9e\u5df1\u65b9\u5893\u5834\u6253\u51fa\u3002",
+      "text": "\u5fa9\u6d3b\uff1a\u5f9e\u5df1\u65b9\u5893\u5834\u6253\u51fa\u3002"
     }
   },
   "retaliation": {
@@ -3555,8 +3559,8 @@
       "text": "\u95f4\u8c0d\uff1a\u4e00\u79cd\u72b6\u6001\uff0c\u6307\u4ee3\u539f\u62e5\u6709\u8005\u6253\u51fa\u81f3\u5bf9\u65b9\u534a\u573a\u7684\u5355\u4f4d\u3002"
     },
     "zh-TW": {
-      "raw": "<b><#BDBDBD>\u81e5\u5e95\uff1a</color></b>\u539f\u6301\u6709\u8005\u6253\u51fa\u81f3\u5c0d\u624b\u5834\u4e0a\u7684\u55ae\u4f4d\u724c\u3002",
-      "text": "\u81e5\u5e95\uff1a\u539f\u6301\u6709\u8005\u6253\u51fa\u81f3\u5c0d\u624b\u5834\u4e0a\u7684\u55ae\u4f4d\u724c\u3002"
+      "raw": "<b><#BDBDBD>\u81e5\u5e95\uff1a</color></b>\u4e00\u7a2e\u72c0\u614b\uff0c\u6307\u6253\u5230\u5c0d\u65b9\u5834\u4e0a\u7684\u55ae\u4f4d\u724c\u3002",
+      "text": "\u81e5\u5e95\uff1a\u4e00\u7a2e\u72c0\u614b\uff0c\u6307\u6253\u5230\u5c0d\u65b9\u5834\u4e0a\u7684\u55ae\u4f4d\u724c\u3002"
     }
   },
   "strengthen": {
@@ -3879,8 +3883,8 @@
       "text": "\u9000\u573a\uff1a\u5355\u4f4d\u5728\u5c0f\u5c40\u7ed3\u675f\u65f6\u5c06\u88ab\u79fb\u51fa\u5bf9\u5c40\u3002"
     },
     "zh-TW": {
-      "raw": "<b><#BDBDBD>\u6253\u5361\u4e0b\u73ed</color></b>\uff1a\u4e00\u5c40\u7d50\u675f\u6642\u5f9e\u6230\u5c40\u4e2d\u79fb\u9664\u7684\u55ae\u4f4d\u724c\u3002",
-      "text": "\u6253\u5361\u4e0b\u73ed\uff1a\u4e00\u5c40\u7d50\u675f\u6642\u5f9e\u6230\u5c40\u4e2d\u79fb\u9664\u7684\u55ae\u4f4d\u724c\u3002"
+      "raw": "<b><#BDBDBD>\u6253\u5361\u4e0b\u73ed</color></b>\uff1a\u4e00\u5c40\u7d50\u675f\u6642\u5f9e\u5c0d\u6230\u4e2d\u79fb\u9664\u7684\u55ae\u4f4d\u724c\u3002",
+      "text": "\u6253\u5361\u4e0b\u73ed\uff1a\u4e00\u5c40\u7d50\u675f\u6642\u5f9e\u5c0d\u6230\u4e2d\u79fb\u9664\u7684\u55ae\u4f4d\u724c\u3002"
     }
   },
   "transform": {
@@ -4209,56 +4213,56 @@
   },
   "weaken": {
     "de-DE": {
-      "raw": "<b><#BDBDBD>Schw\u00e4chen:</color></b> Verringere die Basisst\u00e4rke einer Einheit. F\u00e4llt diese unter 1, wird sie aus dem Spiel entfernt.",
-      "text": "Schw\u00e4chen: Verringere die Basisst\u00e4rke einer Einheit. F\u00e4llt diese unter 1, wird sie aus dem Spiel entfernt."
+      "raw": "<b><#BDBDBD>Schw\u00e4chen:</color></b> Verringere die Basisst\u00e4rke einer Einheit. F\u00e4llt diese unter 1, wird sie aus dem Spiel entfernt. Etwaige Todeswunsch-F\u00e4higkeiten werden nicht ausgel\u00f6st.",
+      "text": "Schw\u00e4chen: Verringere die Basisst\u00e4rke einer Einheit. F\u00e4llt diese unter 1, wird sie aus dem Spiel entfernt. Etwaige Todeswunsch-F\u00e4higkeiten werden nicht ausgel\u00f6st."
     },
     "en-US": {
-      "raw": "<b><#BDBDBD>Weaken:</color></b> Decrease the base power of a unit. If it falls below 1, remove it from the game.",
-      "text": "Weaken: Decrease the base power of a unit. If it falls below 1, remove it from the game."
+      "raw": "<b><#BDBDBD>Weaken:</color></b> Decrease the base power of a unit. If it falls below 1, remove it from the game. Does not trigger Deathwish abilities.",
+      "text": "Weaken: Decrease the base power of a unit. If it falls below 1, remove it from the game. Does not trigger Deathwish abilities."
     },
     "es-ES": {
-      "raw": "<b><#BDBDBD>Debilitar:</color></b> disminuir el poder base de una unidad. Si se reduce por debajo de 1, se elimina de la partida.",
-      "text": "Debilitar: disminuir el poder base de una unidad. Si se reduce por debajo de 1, se elimina de la partida."
+      "raw": "<b><#BDBDBD>Debilitar:</color></b> disminuir el poder base de una unidad. Si se reduce por debajo de 1, se elimina de la partida. No activa las habilidades de sue\u00f1o mortal.",
+      "text": "Debilitar: disminuir el poder base de una unidad. Si se reduce por debajo de 1, se elimina de la partida. No activa las habilidades de sue\u00f1o mortal."
     },
     "es-MX": {
-      "raw": "<b><#BDBDBD>Debilitar:</color></b> disminuye el poder base de una unidad. Si es menor a 1, la elimina de la partida.",
-      "text": "Debilitar: disminuye el poder base de una unidad. Si es menor a 1, la elimina de la partida."
+      "raw": "<b><#BDBDBD>Debilitar:</color></b> disminuye el poder base de una unidad. Si disminuye por debajo de 1, la elimina de la partida. No activa las habilidades de Agon\u00eda.",
+      "text": "Debilitar: disminuye el poder base de una unidad. Si disminuye por debajo de 1, la elimina de la partida. No activa las habilidades de Agon\u00eda."
     },
     "fr-FR": {
-      "raw": "<b><#BDBDBD>Affaiblir\u00a0:</color></b> r\u00e9duire la force initiale d'une unit\u00e9. Si celle-ci devient inf\u00e9rieure \u00e0 1, l'unit\u00e9 est retir\u00e9e de la partie.",
-      "text": "Affaiblir\u00a0: r\u00e9duire la force initiale d'une unit\u00e9. Si celle-ci devient inf\u00e9rieure \u00e0 1, l'unit\u00e9 est retir\u00e9e de la partie."
+      "raw": "<b><#BDBDBD>Affaiblir\u00a0:</color></b> r\u00e9duire la force initiale d'une unit\u00e9. Si celle-ci devient inf\u00e9rieure \u00e0 1, l'unit\u00e9 est retir\u00e9e de la partie. Ne d\u00e9clenche pas les capacit\u00e9s du Baroud d'honneur.",
+      "text": "Affaiblir\u00a0: r\u00e9duire la force initiale d'une unit\u00e9. Si celle-ci devient inf\u00e9rieure \u00e0 1, l'unit\u00e9 est retir\u00e9e de la partie. Ne d\u00e9clenche pas les capacit\u00e9s du Baroud d'honneur."
     },
     "it-IT": {
-      "raw": "<b><#BDBDBD>Indebolire:</color></b> ridurre la forza base di un'unit\u00e0. Se scende al di sotto di 1, viene rimossa dal gioco.",
-      "text": "Indebolire: ridurre la forza base di un'unit\u00e0. Se scende al di sotto di 1, viene rimossa dal gioco."
+      "raw": "<b><#BDBDBD>Indebolire:</color></b> ridurre la forza base di un'unit\u00e0. Se il valore scende al di sotto di 1, la carta viene rimossa dal gioco senza che si attivino eventuali abilit\u00e0 Ultimo desiderio.",
+      "text": "Indebolire: ridurre la forza base di un'unit\u00e0. Se il valore scende al di sotto di 1, la carta viene rimossa dal gioco senza che si attivino eventuali abilit\u00e0 Ultimo desiderio."
     },
     "ja-JP": {
-      "raw": "<b><#BDBDBD>\u30d9\u30fc\u30b9\u30c0\u30a6\u30f3\uff1a</color></b>\u30e6\u30cb\u30c3\u30c8\u306e\u30d9\u30fc\u30b9\u6226\u529b\u5024\u3092\u6e1b\u3089\u3059\u3002\u30d9\u30fc\u30b9\u6226\u529b\u5024\u304c1\u672a\u6e80\u306b\u306a\u3063\u305f\u30e6\u30cb\u30c3\u30c8\u306f\u30b2\u30fc\u30e0\u304b\u3089\u53d6\u308a\u9664\u304b\u308c\u308b",
-      "text": "\u30d9\u30fc\u30b9\u30c0\u30a6\u30f3\uff1a\u30e6\u30cb\u30c3\u30c8\u306e\u30d9\u30fc\u30b9\u6226\u529b\u5024\u3092\u6e1b\u3089\u3059\u3002\u30d9\u30fc\u30b9\u6226\u529b\u5024\u304c1\u672a\u6e80\u306b\u306a\u3063\u305f\u30e6\u30cb\u30c3\u30c8\u306f\u30b2\u30fc\u30e0\u304b\u3089\u53d6\u308a\u9664\u304b\u308c\u308b"
+      "raw": "<b><#BDBDBD>\u30d9\u30fc\u30b9\u30c0\u30a6\u30f3\uff1a</color></b>\u30e6\u30cb\u30c3\u30c8\u306e\u30d9\u30fc\u30b9\u6226\u529b\u5024\u3092\u6e1b\u3089\u3059\u3002\u30d9\u30fc\u30b9\u6226\u529b\u5024\u304c1\u672a\u6e80\u306b\u306a\u3063\u305f\u30e6\u30cb\u30c3\u30c8\u306f\u30b2\u30fc\u30e0\u304b\u3089\u53d6\u308a\u9664\u304b\u308c\u308b\uff08\u300c\u907a\u8a00\u300d\u30a2\u30d3\u30ea\u30c6\u30a3\u306e\u5f15\u304d\u91d1\u3068\u306f\u306a\u3089\u306a\u3044\uff09",
+      "text": "\u30d9\u30fc\u30b9\u30c0\u30a6\u30f3\uff1a\u30e6\u30cb\u30c3\u30c8\u306e\u30d9\u30fc\u30b9\u6226\u529b\u5024\u3092\u6e1b\u3089\u3059\u3002\u30d9\u30fc\u30b9\u6226\u529b\u5024\u304c1\u672a\u6e80\u306b\u306a\u3063\u305f\u30e6\u30cb\u30c3\u30c8\u306f\u30b2\u30fc\u30e0\u304b\u3089\u53d6\u308a\u9664\u304b\u308c\u308b\uff08\u300c\u907a\u8a00\u300d\u30a2\u30d3\u30ea\u30c6\u30a3\u306e\u5f15\u304d\u91d1\u3068\u306f\u306a\u3089\u306a\u3044\uff09"
     },
     "ko-KR": {
-      "raw": "<b><#BDBDBD>\uc57d\ud654:</color></b> \uc720\ub2db\uc758 \uae30\ubcf8 \uc804\ub825\uc744 \ub0ae\ucda5\ub2c8\ub2e4. \uc804\ub825\uc774 1 \uc544\ub798\ub85c \ub5a8\uc5b4\uc9c0\uba74 \uac8c\uc784\uc5d0\uc11c \uc81c\uac70\ub429\ub2c8\ub2e4.",
-      "text": "\uc57d\ud654: \uc720\ub2db\uc758 \uae30\ubcf8 \uc804\ub825\uc744 \ub0ae\ucda5\ub2c8\ub2e4. \uc804\ub825\uc774 1 \uc544\ub798\ub85c \ub5a8\uc5b4\uc9c0\uba74 \uac8c\uc784\uc5d0\uc11c \uc81c\uac70\ub429\ub2c8\ub2e4."
+      "raw": "<b><#BDBDBD>\uc57d\ud654:</color></b> \uc720\ub2db\uc758 \uae30\ubcf8 \uc804\ub825\uc744 \ub0ae\ucda5\ub2c8\ub2e4. \uc804\ub825\uc774 1 \uc544\ub798\ub85c \ub5a8\uc5b4\uc9c0\uba74 \uac8c\uc784\uc5d0\uc11c \uc81c\uac70\ub429\ub2c8\ub2e4. \uc774\ub807\uac8c \uc81c\uac70\ub418\uba74 \uc720\uc5b8 \ub2a5\ub825\uc774 \ubc1c\ub3d9\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
+      "text": "\uc57d\ud654: \uc720\ub2db\uc758 \uae30\ubcf8 \uc804\ub825\uc744 \ub0ae\ucda5\ub2c8\ub2e4. \uc804\ub825\uc774 1 \uc544\ub798\ub85c \ub5a8\uc5b4\uc9c0\uba74 \uac8c\uc784\uc5d0\uc11c \uc81c\uac70\ub429\ub2c8\ub2e4. \uc774\ub807\uac8c \uc81c\uac70\ub418\uba74 \uc720\uc5b8 \ub2a5\ub825\uc774 \ubc1c\ub3d9\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4."
     },
     "pl-PL": {
-      "raw": "<b><#BDBDBD>Os\u0142ab:</color></b> Zmniejsz si\u0142\u0119 bazow\u0105 jednostki. Je\u015bli spadnie poni\u017cej 1, usu\u0144 j\u0105 z gry.",
-      "text": "Os\u0142ab: Zmniejsz si\u0142\u0119 bazow\u0105 jednostki. Je\u015bli spadnie poni\u017cej 1, usu\u0144 j\u0105 z gry."
+      "raw": "<b><#BDBDBD>Os\u0142ab:</color></b> Zmniejsz si\u0142\u0119 bazow\u0105 jednostki. Je\u015bli spadnie poni\u017cej 1, usu\u0144 j\u0105 z gry. Nie aktywuje umiej\u0119tno\u015bci zemsty.",
+      "text": "Os\u0142ab: Zmniejsz si\u0142\u0119 bazow\u0105 jednostki. Je\u015bli spadnie poni\u017cej 1, usu\u0144 j\u0105 z gry. Nie aktywuje umiej\u0119tno\u015bci zemsty."
     },
     "pt-BR": {
-      "raw": "<b><#BDBDBD>Enfraquecer:</color></b> diminui a base de poder de uma unidade. Se chegar a menos de 1, remove-a do jogo.",
-      "text": "Enfraquecer: diminui a base de poder de uma unidade. Se chegar a menos de 1, remove-a do jogo."
+      "raw": "<b><#BDBDBD>Enfraquecer:</color></b> diminui a base de poder de uma unidade. Se chegar a menos de 1, remove-a do jogo. N\u00e3o aciona habilidades de Desejo de Morte.",
+      "text": "Enfraquecer: diminui a base de poder de uma unidade. Se chegar a menos de 1, remove-a do jogo. N\u00e3o aciona habilidades de Desejo de Morte."
     },
     "ru-RU": {
-      "raw": "<b><#BDBDBD>\u041e\u0441\u043b\u0430\u0431\u0438\u0442\u044c:</color></b> \u0443\u043c\u0435\u043d\u044c\u0448\u0438\u0442\u044c \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u0443\u044e \u0441\u0438\u043b\u0443 \u043e\u0442\u0440\u044f\u0434\u0430. \u0415\u0441\u043b\u0438 \u0435\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0441\u0442\u0430\u043d\u0435\u0442 \u043c\u0435\u043d\u044c\u0448\u0435 1 \u0435\u0434., \u0443\u0431\u0435\u0440\u0438\u0442\u0435 \u043e\u0442\u0440\u044f\u0434 \u0438\u0437 \u0438\u0433\u0440\u044b.",
-      "text": "\u041e\u0441\u043b\u0430\u0431\u0438\u0442\u044c: \u0443\u043c\u0435\u043d\u044c\u0448\u0438\u0442\u044c \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u0443\u044e \u0441\u0438\u043b\u0443 \u043e\u0442\u0440\u044f\u0434\u0430. \u0415\u0441\u043b\u0438 \u0435\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0441\u0442\u0430\u043d\u0435\u0442 \u043c\u0435\u043d\u044c\u0448\u0435 1 \u0435\u0434., \u0443\u0431\u0435\u0440\u0438\u0442\u0435 \u043e\u0442\u0440\u044f\u0434 \u0438\u0437 \u0438\u0433\u0440\u044b."
+      "raw": "<b><#BDBDBD>\u041e\u0441\u043b\u0430\u0431\u0438\u0442\u044c:</color></b> \u0443\u043c\u0435\u043d\u044c\u0448\u0438\u0442\u044c \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u0443\u044e \u0441\u0438\u043b\u0443 \u043e\u0442\u0440\u044f\u0434\u0430. \u0415\u0441\u043b\u0438 \u0435\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0441\u0442\u0430\u043d\u0435\u0442 \u043c\u0435\u043d\u044c\u0448\u0435 1 \u0435\u0434., \u0443\u0431\u0435\u0440\u0438\u0442\u0435 \u043e\u0442\u0440\u044f\u0434 \u0438\u0437 \u0438\u0433\u0440\u044b. \u041f\u0440\u0438 \u044d\u0442\u043e\u043c \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \u0417\u0430\u0432\u0435\u0449\u0430\u043d\u0438\u0435 \u043d\u0435 \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f.",
+      "text": "\u041e\u0441\u043b\u0430\u0431\u0438\u0442\u044c: \u0443\u043c\u0435\u043d\u044c\u0448\u0438\u0442\u044c \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u0443\u044e \u0441\u0438\u043b\u0443 \u043e\u0442\u0440\u044f\u0434\u0430. \u0415\u0441\u043b\u0438 \u0435\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0441\u0442\u0430\u043d\u0435\u0442 \u043c\u0435\u043d\u044c\u0448\u0435 1 \u0435\u0434., \u0443\u0431\u0435\u0440\u0438\u0442\u0435 \u043e\u0442\u0440\u044f\u0434 \u0438\u0437 \u0438\u0433\u0440\u044b. \u041f\u0440\u0438 \u044d\u0442\u043e\u043c \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \u0417\u0430\u0432\u0435\u0449\u0430\u043d\u0438\u0435 \u043d\u0435 \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f."
     },
     "zh-CN": {
-      "raw": "<b><#BDBDBD>\u524a\u5f31\uff1a</color></b>\u964d\u4f4e\u5355\u4f4d\u7684\u57fa\u7840\u6218\u529b\u3002\u6218\u529b\u88ab\u524a\u5f31\u81f3\u96f6\u7684\u5355\u4f4d\u5c06\u88ab\u79fb\u51fa\u5bf9\u5c40\u3002",
-      "text": "\u524a\u5f31\uff1a\u964d\u4f4e\u5355\u4f4d\u7684\u57fa\u7840\u6218\u529b\u3002\u6218\u529b\u88ab\u524a\u5f31\u81f3\u96f6\u7684\u5355\u4f4d\u5c06\u88ab\u79fb\u51fa\u5bf9\u5c40\u3002"
+      "raw": "<b><#BDBDBD>\u524a\u5f31\uff1a</color></b>\u964d\u4f4e\u5355\u4f4d\u7684\u57fa\u7840\u6218\u529b\u3002\u6218\u529b\u88ab\u524a\u5f31\u81f3\u96f6\u7684\u5355\u4f4d\u5c06\u88ab\u79fb\u51fa\u5bf9\u5c40\u3002\u4e0d\u4f1a\u89e6\u53d1\u201c\u9057\u613f\u201d\u80fd\u529b\u3002",
+      "text": "\u524a\u5f31\uff1a\u964d\u4f4e\u5355\u4f4d\u7684\u57fa\u7840\u6218\u529b\u3002\u6218\u529b\u88ab\u524a\u5f31\u81f3\u96f6\u7684\u5355\u4f4d\u5c06\u88ab\u79fb\u51fa\u5bf9\u5c40\u3002\u4e0d\u4f1a\u89e6\u53d1\u201c\u9057\u613f\u201d\u80fd\u529b\u3002"
     },
     "zh-TW": {
-      "raw": "<b><#BDBDBD>\u524a\u5f31\uff1a</color></b>\u964d\u4f4e\u55ae\u4f4d\u724c\u7684\u57fa\u790e\u6230\u529b\u3002",
-      "text": "\u524a\u5f31\uff1a\u964d\u4f4e\u55ae\u4f4d\u724c\u7684\u57fa\u790e\u6230\u529b\u3002"
+      "raw": "<b><#BDBDBD>\u524a\u5f31\uff1a</color></b>\u964d\u4f4e\u55ae\u4f4d\u724c\u7684\u57fa\u790e\u6230\u529b\uff0c\u82e5\u6230\u529b\u503c\u4f4e\u65bc 1\uff0c\u5247\u5f9e\u724c\u5c40\u4e2d\u79fb\u9664\u3002\u4e0d\u6703\u89f8\u767c\u300c\u6c42\u6b7b\u300d\u80fd\u529b\u3002",
+      "text": "\u524a\u5f31\uff1a\u964d\u4f4e\u55ae\u4f4d\u724c\u7684\u57fa\u790e\u6230\u529b\uff0c\u82e5\u6230\u529b\u503c\u4f4e\u65bc 1\uff0c\u5247\u5f9e\u724c\u5c40\u4e2d\u79fb\u9664\u3002\u4e0d\u6703\u89f8\u767c\u300c\u6c42\u6b7b\u300d\u80fd\u529b\u3002"
     }
   }
 }
