@@ -35,7 +35,7 @@
     "es-ES": "T\u00e1ctica",
     "es-MX": "T\u00e1ctico",
     "fr-FR": "Tactique",
-    "it-IT": "Strategia",
+    "it-IT": "Tattiche",
     "ja-JP": "\u6226\u8853",
     "ko-KR": "\uc804\uc220",
     "pl-PL": "Taktyka",
@@ -162,7 +162,7 @@
     "pt-BR": "Vira-Latas",
     "ru-RU": "\u041a\u043e\u0431\u0435\u043b\u044c",
     "zh-CN": "\u6d41\u4ea1\u519b",
-    "zh-TW": "\u8ff7\u9014\u8005"
+    "zh-TW": "\u6d6a\u72ac"
   },
   "card_category_2": {
     "de-DE": "Konstrukt",
@@ -172,7 +172,7 @@
     "fr-FR": "Cr\u00e9ation",
     "it-IT": "Costrutto",
     "ja-JP": "\u30b4\u30fc\u30ec\u30e0",
-    "ko-KR": "\ucc3d\uc870\ubb3c",
+    "ko-KR": "\ud53c\uc870\ubb3c",
     "pl-PL": "Konstrukt",
     "pt-BR": "Construto",
     "ru-RU": "\u041a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442",
@@ -217,7 +217,7 @@
     "fr-FR": "Aide de si\u00e8ge",
     "it-IT": "Aiuto-assediante",
     "ja-JP": "\u653b\u57ce\u652f\u63f4",
-    "ko-KR": "\uacf5\uc131 \uc9c0\uc6d0\ubcd1",
+    "ko-KR": "\uacf5\uc131 \uc9c0\uc6d0",
     "pl-PL": "Wsparcie obl\u0119\u017cnicze",
     "pt-BR": "Refor\u00e7o de Cerco",
     "ru-RU": "\u041e\u0441\u0430\u0434\u043d\u0430\u044f \u043f\u043e\u0434\u043c\u043e\u0433\u0430",
@@ -717,7 +717,7 @@
     "pt-BR": "Perigo",
     "ru-RU": "\u0411\u0435\u0434\u0441\u0442\u0432\u0438\u0435",
     "zh-CN": "\u707e\u5384",
-    "zh-TW": "\u707d\u5bb3"
+    "zh-TW": "\u707d\u798d"
   },
   "card_category_56": {
     "de-DE": "Segen",
@@ -727,7 +727,7 @@
     "fr-FR": "Avantage",
     "it-IT": "Benedizione",
     "ja-JP": "\u6069\u6075",
-    "ko-KR": "\uc740\ud61c",
+    "ko-KR": "\ucd95\ubcf5",
     "pl-PL": "Korzy\u015b\u0107",
     "pt-BR": "D\u00e1diva",
     "ru-RU": "\u0411\u043b\u0430\u0433\u043e",
@@ -832,7 +832,7 @@
     "fr-FR": "D\u00e9voreur",
     "it-IT": "Divoratore",
     "ja-JP": "\u55b0\u7a2e",
-    "ko-KR": "\uc544\uadc0",
+    "ko-KR": "\ud3ec\uc2dd\uc790",
     "pl-PL": "Po\u017ceracz",
     "pt-BR": "Devorador",
     "ru-RU": "\u041f\u043e\u0436\u0438\u0440\u0430\u0442\u0435\u043b\u044c",
@@ -922,7 +922,7 @@
     "fr-FR": "Paysan",
     "it-IT": "Contadino",
     "ja-JP": "\u6c11\u8846",
-    "ko-KR": "\ub18d\ubd80",
+    "ko-KR": "\ub18d\ubbfc",
     "pl-PL": "Parobek",
     "pt-BR": "Campon\u00eas",
     "ru-RU": "\u041a\u0440\u0435\u0441\u0442\u044c\u044f\u043d\u0438\u043d",
@@ -937,7 +937,7 @@
     "fr-FR": "Potion",
     "it-IT": "Pozione",
     "ja-JP": "\u970a\u85ac",
-    "ko-KR": "\ud3ec\uc158",
+    "ko-KR": "\ubb3c\uc57d",
     "pl-PL": "Eliksir",
     "pt-BR": "Po\u00e7\u00e3o",
     "ru-RU": "\u0417\u0435\u043b\u044c\u0435",
@@ -972,7 +972,7 @@
     "pt-BR": "Regress\u00e3o",
     "ru-RU": "\u0420\u0435\u0433\u0440\u0435\u0441\u0441\u0438\u044f",
     "zh-CN": "\u56de\u6eaf",
-    "zh-TW": "\u5fa9\u539f"
+    "zh-TW": "\u56de\u6eaf"
   },
   "card_category_71": {
     "de-DE": "Doppler",
@@ -994,7 +994,7 @@
     "en-US": "Token",
     "es-ES": "Ficha",
     "es-MX": "Atributo",
-    "fr-FR": "Attribut",
+    "fr-FR": "\u00c9ph\u00e9m\u00e8re",
     "it-IT": "Pedina",
     "ja-JP": "\u30c8\u30fc\u30af\u30f3",
     "ko-KR": "\ud1a0\ud070",
@@ -1002,7 +1002,7 @@
     "pt-BR": "Ficha",
     "ru-RU": "\u0421\u0438\u043c\u0432\u043e\u043b",
     "zh-CN": "\u9000\u573a",
-    "zh-TW": "\u6253\u5361\u4e0b\u73ed"
+    "zh-TW": "\u53d7\u547d"
   },
   "card_category_75": {
     "de-DE": "Agent",
