@@ -2243,8 +2243,8 @@
       "text": "\u6700\u9ad8\u6226\u529b\u5024\uff1a\u540c\u4e00\u6226\u529b\u5024\u304c\u8907\u6570\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u5bfe\u8c61\u306f\u7121\u4f5c\u70ba\u306b\u9078\u629e\u3055\u308c\u308b"
     },
     "ko-KR": {
-      "raw": "<#600101>\uac00\uc7a5 \ub192\uc740</color>: \uac00\uc7a5 \ub192\uc740 \uc804\ub825\uc744 \ub73b\ud569\ub2c8\ub2e4. \ub611\uac19\uc740 \uc804\ub825\uc774\uba74 \ubb34\uc791\uc704\ub85c \uc120\ud0dd\ub429\ub2c8\ub2e4.",
-      "text": "\uac00\uc7a5 \ub192\uc740: \uac00\uc7a5 \ub192\uc740 \uc804\ub825\uc744 \ub73b\ud569\ub2c8\ub2e4. \ub611\uac19\uc740 \uc804\ub825\uc774\uba74 \ubb34\uc791\uc704\ub85c \uc120\ud0dd\ub429\ub2c8\ub2e4."
+      "raw": "<#600101>\uc804\ub825\uc774 \uac00\uc7a5 \ub192\uc740</color>: \uac00\uc7a5 \ub192\uc740 \uc804\ub825\uc744 \ub73b\ud569\ub2c8\ub2e4. \ub611\uac19\uc740 \uc804\ub825\uc774\uba74 \ubb34\uc791\uc704\ub85c \uc120\ud0dd\ub429\ub2c8\ub2e4.",
+      "text": "\uc804\ub825\uc774 \uac00\uc7a5 \ub192\uc740: \uac00\uc7a5 \ub192\uc740 \uc804\ub825\uc744 \ub73b\ud569\ub2c8\ub2e4. \ub611\uac19\uc740 \uc804\ub825\uc774\uba74 \ubb34\uc791\uc704\ub85c \uc120\ud0dd\ub429\ub2c8\ub2e4."
     },
     "pl-PL": {
       "raw": "<#600101>Najsilniejsze:</color> Najwy\u017csza si\u0142a, remisy rozwi\u0105zywane losowo.",
@@ -2377,52 +2377,52 @@
   },
   "immune": {
     "de-DE": {
-      "raw": "<#600101>Immun:</color> Kann nicht ins Ziel genommen werden.",
-      "text": "Immun: Kann nicht ins Ziel genommen werden."
+      "raw": "<#600101>Immun:</color> Statuseffekt, durch den diese Karte nicht von Hand ins Ziel genommen werden kann.",
+      "text": "Immun: Statuseffekt, durch den diese Karte nicht von Hand ins Ziel genommen werden kann."
     },
     "en-US": {
-      "raw": "<#600101>Immune:</color> Cannot be targeted.",
-      "text": "Immune: Cannot be targeted."
+      "raw": "<#600101>Immune:</color> Status whereby this card cannot be manually targeted.",
+      "text": "Immune: Status whereby this card cannot be manually targeted."
     },
     "es-ES": {
-      "raw": "<#600101>Inmune:</color> no puede servir de objetivo.",
-      "text": "Inmune: no puede servir de objetivo."
+      "raw": "<#600101>Inmune:</color> estado que impide que se fije esta carta como objetivo de forma manual.",
+      "text": "Inmune: estado que impide que se fije esta carta como objetivo de forma manual."
     },
     "es-MX": {
-      "raw": "<#600101>Inmune:</color> No puede ser objetivo.",
-      "text": "Inmune: No puede ser objetivo."
+      "raw": "<#600101>Inmune:</color> estado que impide que esta carta pueda seleccionarse como objetivo manualmente.",
+      "text": "Inmune: estado que impide que esta carta pueda seleccionarse como objetivo manualmente."
     },
     "fr-FR": {
-      "raw": "<#600101>Invuln\u00e9rable\u00a0:</color> l'unit\u00e9 ne peut pas \u00eatre cibl\u00e9e.",
-      "text": "Invuln\u00e9rable\u00a0: l'unit\u00e9 ne peut pas \u00eatre cibl\u00e9e."
+      "raw": "<#600101>Invuln\u00e9rable\u00a0:</color> attribut qui permet \u00e0 cette carte de ne pas \u00eatre cibl\u00e9e manuellement.",
+      "text": "Invuln\u00e9rable\u00a0: attribut qui permet \u00e0 cette carte de ne pas \u00eatre cibl\u00e9e manuellement."
     },
     "it-IT": {
-      "raw": "<#600101>Immune:</color> la carta non pu\u00f2 essere un bersaglio delle abilit\u00e0.",
-      "text": "Immune: la carta non pu\u00f2 essere un bersaglio delle abilit\u00e0."
+      "raw": "<#600101>Immune:</color> stato per cui la carta non pu\u00f2 essere bersagliata manualmente.",
+      "text": "Immune: stato per cui la carta non pu\u00f2 essere bersagliata manualmente."
     },
     "ja-JP": {
-      "raw": "<#600101>\u8010\u6027\uff1a</color>\u4efb\u610f\u306e\u30e6\u30cb\u30c3\u30c8\u3092\u5bfe\u8c61\u3068\u3059\u308b\u30a2\u30d3\u30ea\u30c6\u30a3\u306e\u5bfe\u8c61\u3068\u306a\u3089\u306a\u3044",
-      "text": "\u8010\u6027\uff1a\u4efb\u610f\u306e\u30e6\u30cb\u30c3\u30c8\u3092\u5bfe\u8c61\u3068\u3059\u308b\u30a2\u30d3\u30ea\u30c6\u30a3\u306e\u5bfe\u8c61\u3068\u306a\u3089\u306a\u3044"
+      "raw": "<#600101>\u8010\u6027\uff1a</color>\uff08\u72b6\u614b\uff09\u4efb\u610f\u306e\u30ab\u30fc\u30c9\u3092\u5bfe\u8c61\u3068\u3059\u308b\u30a2\u30d3\u30ea\u30c6\u30a3\u306e\u5bfe\u8c61\u3068\u306a\u3089\u306a\u3044",
+      "text": "\u8010\u6027\uff1a\uff08\u72b6\u614b\uff09\u4efb\u610f\u306e\u30ab\u30fc\u30c9\u3092\u5bfe\u8c61\u3068\u3059\u308b\u30a2\u30d3\u30ea\u30c6\u30a3\u306e\u5bfe\u8c61\u3068\u306a\u3089\u306a\u3044"
     },
     "ko-KR": {
       "raw": "<#600101>\uba74\uc5ed</color>: \ub300\uc0c1\uc73c\ub85c \uc9c0\uc815\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
       "text": "\uba74\uc5ed: \ub300\uc0c1\uc73c\ub85c \uc9c0\uc815\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4."
     },
     "pl-PL": {
-      "raw": "<#600101>Odporno\u015b\u0107:</color> Nie mo\u017ce by\u0107 celem.",
-      "text": "Odporno\u015b\u0107: Nie mo\u017ce by\u0107 celem."
+      "raw": "<#600101>Odporno\u015b\u0107:</color> Ten status uniemo\u017cliwia r\u0119czne wybranie tej karty jako cel.",
+      "text": "Odporno\u015b\u0107: Ten status uniemo\u017cliwia r\u0119czne wybranie tej karty jako cel."
     },
     "pt-BR": {
-      "raw": "<#600101>Imune:</color> n\u00e3o pode ser visada.",
-      "text": "Imune: n\u00e3o pode ser visada."
+      "raw": "<#600101>Imune:</color> status que impede que esta carta seja alvo manualmente.",
+      "text": "Imune: status que impede que esta carta seja alvo manualmente."
     },
     "ru-RU": {
-      "raw": "<#600101>\u041d\u0435\u0443\u044f\u0437\u0432\u0438\u043c\u043e\u0441\u0442\u044c:</color> \u043d\u0435\u043b\u044c\u0437\u044f \u0432\u044b\u0431\u0440\u0430\u0442\u044c \u043a\u0430\u043a \u0446\u0435\u043b\u044c.",
-      "text": "\u041d\u0435\u0443\u044f\u0437\u0432\u0438\u043c\u043e\u0441\u0442\u044c: \u043d\u0435\u043b\u044c\u0437\u044f \u0432\u044b\u0431\u0440\u0430\u0442\u044c \u043a\u0430\u043a \u0446\u0435\u043b\u044c."
+      "raw": "<#600101>\u041d\u0435\u0443\u044f\u0437\u0432\u0438\u043c\u043e\u0441\u0442\u044c:</color> \u043d\u0435\u043b\u044c\u0437\u044f \u0432\u0440\u0443\u0447\u043d\u0443\u044e \u0432\u044b\u0431\u0440\u0430\u0442\u044c \u043a\u0430\u043a \u0446\u0435\u043b\u044c.",
+      "text": "\u041d\u0435\u0443\u044f\u0437\u0432\u0438\u043c\u043e\u0441\u0442\u044c: \u043d\u0435\u043b\u044c\u0437\u044f \u0432\u0440\u0443\u0447\u043d\u0443\u044e \u0432\u044b\u0431\u0440\u0430\u0442\u044c \u043a\u0430\u043a \u0446\u0435\u043b\u044c."
     },
     "zh-CN": {
-      "raw": "<#600101>\u514d\u75ab\uff1a</color>\u65e0\u6cd5\u6210\u4e3a\u76ee\u6807\u3002",
-      "text": "\u514d\u75ab\uff1a\u65e0\u6cd5\u6210\u4e3a\u76ee\u6807\u3002"
+      "raw": "<#600101>\u514d\u75ab\uff1a</color>\u4e00\u79cd\u72b6\u6001\uff0c\u8be5\u5361\u724c\u65e0\u6cd5\u6210\u4e3a\u624b\u52a8\u6307\u5b9a\u6280\u80fd\u7684\u76ee\u6807\u3002",
+      "text": "\u514d\u75ab\uff1a\u4e00\u79cd\u72b6\u6001\uff0c\u8be5\u5361\u724c\u65e0\u6cd5\u6210\u4e3a\u624b\u52a8\u6307\u5b9a\u6280\u80fd\u7684\u76ee\u6807\u3002"
     },
     "zh-TW": {
       "raw": "<#600101>\u514d\u75ab\uff1a</color>\u7121\u6cd5\u7576\u4f5c\u76ee\u6a19\u3002",
@@ -2485,52 +2485,52 @@
   },
   "lock": {
     "de-DE": {
-      "raw": "<#600101>Block:</color> Statuseffekt, der die F\u00e4higkeiten einer Karte sperrt und andere Statuseffekte entfernt. Deaktiviert verdeckte Karten und dreht diese um.",
-      "text": "Block: Statuseffekt, der die F\u00e4higkeiten einer Karte sperrt und andere Statuseffekte entfernt. Deaktiviert verdeckte Karten und dreht diese um."
+      "raw": "<#600101>Block:</color> Statuseffekt, der die F\u00e4higkeiten einer Einheit sperrt und andere Statuseffekte entfernt.",
+      "text": "Block: Statuseffekt, der die F\u00e4higkeiten einer Einheit sperrt und andere Statuseffekte entfernt."
     },
     "en-US": {
-      "raw": "<#600101>Lock:</color> Status that disables a card\u2019s abilities and removes other statuses. Disables and flips over face-down cards.",
-      "text": "Lock: Status that disables a card\u2019s abilities and removes other statuses. Disables and flips over face-down cards."
+      "raw": "<#600101>Lock:</color> Status that disables a unit's abilities and removes other statuses.",
+      "text": "Lock: Status that disables a unit's abilities and removes other statuses."
     },
     "es-ES": {
-      "raw": "<#600101>Bloqueo:</color> estado que inhabilita las habilidades de una carta y elimina otros estados. Inhabilita y da la vuelta a las cartas boca abajo.",
-      "text": "Bloqueo: estado que inhabilita las habilidades de una carta y elimina otros estados. Inhabilita y da la vuelta a las cartas boca abajo."
+      "raw": "<#600101>Bloqueo:</color> estado que inhabilita las habilidades de una unidad y elimina otros estados.",
+      "text": "Bloqueo: estado que inhabilita las habilidades de una unidad y elimina otros estados."
     },
     "es-MX": {
-      "raw": "<#600101>Bloqueo:</color> estado que deshabilita las habilidades de una carta y elimina otros estados. Deshabilita y revela unidades boca abajo.",
-      "text": "Bloqueo: estado que deshabilita las habilidades de una carta y elimina otros estados. Deshabilita y revela unidades boca abajo."
+      "raw": "<#600101>Bloqueo:</color> estado que deshabilita las habilidades de una unidad y elimina otros estados.",
+      "text": "Bloqueo: estado que deshabilita las habilidades de una unidad y elimina otros estados."
     },
     "fr-FR": {
-      "raw": "<#600101>Verrouillage\u00a0:</color> attribut qui neutralise les capacit\u00e9s d'une carte et enl\u00e8ve les autres attributs. Neutralise et r\u00e9v\u00e8le les cartes face cach\u00e9e.",
-      "text": "Verrouillage\u00a0: attribut qui neutralise les capacit\u00e9s d'une carte et enl\u00e8ve les autres attributs. Neutralise et r\u00e9v\u00e8le les cartes face cach\u00e9e."
+      "raw": "<#600101>Verrouillage\u00a0:</color> attribut qui neutralise les capacit\u00e9s d'une unit\u00e9 et enl\u00e8ve les autres attributs.",
+      "text": "Verrouillage\u00a0: attribut qui neutralise les capacit\u00e9s d'une unit\u00e9 et enl\u00e8ve les autres attributs."
     },
     "it-IT": {
-      "raw": "<#600101>Blocco:</color> stato che disattiva le abilit\u00e0 di una carta e rimuove altri stati. Disattiva e scopre le carte coperte.",
-      "text": "Blocco: stato che disattiva le abilit\u00e0 di una carta e rimuove altri stati. Disattiva e scopre le carte coperte."
+      "raw": "<#600101>Blocco:</color> stato che disattiva le abilit\u00e0 dell'unit\u00e0 e rimuove gli altri stati.",
+      "text": "Blocco: stato che disattiva le abilit\u00e0 dell'unit\u00e0 e rimuove gli altri stati."
     },
     "ja-JP": {
-      "raw": "<#600101>\u5c01\u5370\uff1a</color>\uff08\u72b6\u614b\uff09\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u7121\u52b9\u5316\u3055\u308c\u3001\u4ed6\u306e\u72b6\u614b\u3092\u5931\u3046\uff08\u88cf\u5411\u304d\u306e\u30ab\u30fc\u30c9\u306f\u8868\u5411\u304d\u306b\u306a\u308b\uff09",
-      "text": "\u5c01\u5370\uff1a\uff08\u72b6\u614b\uff09\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u7121\u52b9\u5316\u3055\u308c\u3001\u4ed6\u306e\u72b6\u614b\u3092\u5931\u3046\uff08\u88cf\u5411\u304d\u306e\u30ab\u30fc\u30c9\u306f\u8868\u5411\u304d\u306b\u306a\u308b\uff09"
+      "raw": "<#600101>\u5c01\u5370\uff1a</color>\uff08\u72b6\u614b\uff09\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u7121\u52b9\u5316\u3055\u308c\u3001\u4ed6\u306e\u72b6\u614b\u3092\u5931\u3046",
+      "text": "\u5c01\u5370\uff1a\uff08\u72b6\u614b\uff09\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u7121\u52b9\u5316\u3055\u308c\u3001\u4ed6\u306e\u72b6\u614b\u3092\u5931\u3046"
     },
     "ko-KR": {
-      "raw": "<#600101>\uad6c\uc18d</color>: \uce74\ub4dc \ub2a5\ub825\uc744 \uc0ac\uc6a9\ud558\uc9c0 \ubabb\ud558\uac8c \ud558\uace0 \ub2e4\ub978 \uc0c1\ud0dc\ub97c \uc81c\uac70\ud569\ub2c8\ub2e4. \ub9e4\ubcf5 \uc0c1\ud0dc\uc778 \uce74\ub4dc\ub97c \ub4a4\uc9d1\uc5b4 \uc55e\uba74\uc744 \ub4dc\ub7ec\ub0b4\uace0 \ud574\ub2f9 \ub2a5\ub825\uc744 \uc0ac\uc6a9\ud558\uc9c0 \ubabb\ud558\uac8c \ud569\ub2c8\ub2e4.",
-      "text": "\uad6c\uc18d: \uce74\ub4dc \ub2a5\ub825\uc744 \uc0ac\uc6a9\ud558\uc9c0 \ubabb\ud558\uac8c \ud558\uace0 \ub2e4\ub978 \uc0c1\ud0dc\ub97c \uc81c\uac70\ud569\ub2c8\ub2e4. \ub9e4\ubcf5 \uc0c1\ud0dc\uc778 \uce74\ub4dc\ub97c \ub4a4\uc9d1\uc5b4 \uc55e\uba74\uc744 \ub4dc\ub7ec\ub0b4\uace0 \ud574\ub2f9 \ub2a5\ub825\uc744 \uc0ac\uc6a9\ud558\uc9c0 \ubabb\ud558\uac8c \ud569\ub2c8\ub2e4."
+      "raw": "<#600101>\uad6c\uc18d</color>: \uc720\ub2db\uc758 \ub2a5\ub825\uc744 \uc0ac\uc6a9\ud558\uc9c0 \ubabb\ud558\uac8c \ud558\uace0 \ub2e4\ub978 \uc0c1\ud0dc\ub97c \uc81c\uac70\ud569\ub2c8\ub2e4.",
+      "text": "\uad6c\uc18d: \uc720\ub2db\uc758 \ub2a5\ub825\uc744 \uc0ac\uc6a9\ud558\uc9c0 \ubabb\ud558\uac8c \ud558\uace0 \ub2e4\ub978 \uc0c1\ud0dc\ub97c \uc81c\uac70\ud569\ub2c8\ub2e4."
     },
     "pl-PL": {
-      "raw": "<#600101>Zablokuj:</color> Status dezaktywuj\u0105cy umiej\u0119tno\u015bci karty i usuwaj\u0105cy z niej inne efekty. Pozbawia umiej\u0119tno\u015bci i odkrywa zakryte karty.",
-      "text": "Zablokuj: Status dezaktywuj\u0105cy umiej\u0119tno\u015bci karty i usuwaj\u0105cy z niej inne efekty. Pozbawia umiej\u0119tno\u015bci i odkrywa zakryte karty."
+      "raw": "<#600101>Zablokuj:</color> Status dezaktywuj\u0105cy umiej\u0119tno\u015bci jednostki i usuwaj\u0105cy z niej inne efekty.",
+      "text": "Zablokuj: Status dezaktywuj\u0105cy umiej\u0119tno\u015bci jednostki i usuwaj\u0105cy z niej inne efekty."
     },
     "pt-BR": {
-      "raw": "<#600101>Bloqueio:</color> status que desativa as habilidades de uma carta e remove outros status. Desativa e vira para cima cartas viradas para baixo.",
-      "text": "Bloqueio: status que desativa as habilidades de uma carta e remove outros status. Desativa e vira para cima cartas viradas para baixo."
+      "raw": "<#600101>Bloqueio:</color> status que desativa as habilidades de uma unidade e remove outros status.",
+      "text": "Bloqueio: status que desativa as habilidades de uma unidade e remove outros status."
     },
     "ru-RU": {
-      "raw": "<#600101>\u0411\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430:</color> \u0443 \u043a\u0430\u0440\u0442\u044b \u0441 \u044d\u0442\u0438\u043c \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u043e\u0442\u043c\u0435\u043d\u044f\u044e\u0442\u0441\u044f \u0432\u0441\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0438 \u0443\u0431\u0438\u0440\u0430\u044e\u0442\u0441\u044f \u0434\u0440\u0443\u0433\u0438\u0435 \u0441\u0442\u0430\u0442\u0443\u0441\u044b. \u0411\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430 \u043f\u0435\u0440\u0435\u0432\u043e\u0440\u0430\u0447\u0438\u0432\u0430\u0435\u0442 \u043a\u0430\u0440\u0442\u044b, \u043b\u0435\u0436\u0430\u0449\u0438\u0435 \u0440\u0443\u0431\u0430\u0448\u043a\u043e\u0439 \u0432\u0432\u0435\u0440\u0445, \u0438 \u043e\u0442\u043c\u0435\u043d\u044f\u0435\u0442 \u0438\u0445 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435.",
-      "text": "\u0411\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430: \u0443 \u043a\u0430\u0440\u0442\u044b \u0441 \u044d\u0442\u0438\u043c \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u043e\u0442\u043c\u0435\u043d\u044f\u044e\u0442\u0441\u044f \u0432\u0441\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0438 \u0443\u0431\u0438\u0440\u0430\u044e\u0442\u0441\u044f \u0434\u0440\u0443\u0433\u0438\u0435 \u0441\u0442\u0430\u0442\u0443\u0441\u044b. \u0411\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430 \u043f\u0435\u0440\u0435\u0432\u043e\u0440\u0430\u0447\u0438\u0432\u0430\u0435\u0442 \u043a\u0430\u0440\u0442\u044b, \u043b\u0435\u0436\u0430\u0449\u0438\u0435 \u0440\u0443\u0431\u0430\u0448\u043a\u043e\u0439 \u0432\u0432\u0435\u0440\u0445, \u0438 \u043e\u0442\u043c\u0435\u043d\u044f\u0435\u0442 \u0438\u0445 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0435."
+      "raw": "<#600101>\u0411\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430:</color> \u0443 \u043e\u0442\u0440\u044f\u0434\u0430 \u0441 \u044d\u0442\u0438\u043c \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u043e\u0442\u043c\u0435\u043d\u044f\u044e\u0442\u0441\u044f \u0432\u0441\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0438 \u0443\u0431\u0438\u0440\u0430\u044e\u0442\u0441\u044f \u0434\u0440\u0443\u0433\u0438\u0435 \u0441\u0442\u0430\u0442\u0443\u0441\u044b.",
+      "text": "\u0411\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430: \u0443 \u043e\u0442\u0440\u044f\u0434\u0430 \u0441 \u044d\u0442\u0438\u043c \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u043e\u0442\u043c\u0435\u043d\u044f\u044e\u0442\u0441\u044f \u0432\u0441\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0438 \u0443\u0431\u0438\u0440\u0430\u044e\u0442\u0441\u044f \u0434\u0440\u0443\u0433\u0438\u0435 \u0441\u0442\u0430\u0442\u0443\u0441\u044b."
     },
     "zh-CN": {
-      "raw": "<#600101>\u9501\u5b9a\uff1a</color>\u4e00\u79cd\u72b6\u6001\uff0c\u7981\u7528\u5361\u724c\u80fd\u529b\u5e76\u79fb\u9664\u5176\u4ed6\u72b6\u6001\uff1b\u53ef\u7ffb\u5f00\u80cc\u9762\u671d\u4e0a\u7684\u5361\u724c\u3002",
-      "text": "\u9501\u5b9a\uff1a\u4e00\u79cd\u72b6\u6001\uff0c\u7981\u7528\u5361\u724c\u80fd\u529b\u5e76\u79fb\u9664\u5176\u4ed6\u72b6\u6001\uff1b\u53ef\u7ffb\u5f00\u80cc\u9762\u671d\u4e0a\u7684\u5361\u724c\u3002"
+      "raw": "<#600101>\u9501\u5b9a\uff1a</color>\u4e00\u79cd\u72b6\u6001\uff0c\u7981\u7528\u5361\u724c\u80fd\u529b\u5e76\u79fb\u9664\u5176\u4ed6\u72b6\u6001\u3002",
+      "text": "\u9501\u5b9a\uff1a\u4e00\u79cd\u72b6\u6001\uff0c\u7981\u7528\u5361\u724c\u80fd\u529b\u5e76\u79fb\u9664\u5176\u4ed6\u72b6\u6001\u3002"
     },
     "zh-TW": {
       "raw": "<#600101>\u5c01\u5370\uff1a</color>\u4e00\u7a2e\u72c0\u614b\uff0c\u53ef\u4f7f\u5361\u724c\u7684\u80fd\u529b\u5931\u6548\u4e26\u79fb\u9664\u5176\u4ed6\u72c0\u614b\uff0c\u4e14\u4f7f\u8986\u84cb\u7684\u5361\u724c\u5931\u6548\u4e26\u7ffb\u9762\u3002",
@@ -2567,8 +2567,8 @@
       "text": "\u6700\u4f4e\u6226\u529b\u5024\uff1a\u540c\u4e00\u6226\u529b\u5024\u304c\u8907\u6570\u5b58\u5728\u3059\u308b\u5834\u5408\u3001\u5bfe\u8c61\u306f\u7121\u4f5c\u70ba\u306b\u9078\u629e\u3055\u308c\u308b"
     },
     "ko-KR": {
-      "raw": "<#600101>\uac00\uc7a5 \ub0ae\uc740</color>: \uac00\uc7a5 \ub0ae\uc740 \uc804\ub825\uc744 \ub73b\ud569\ub2c8\ub2e4. \ub611\uac19\uc740 \uc804\ub825\uc774\uba74 \ubb34\uc791\uc704\ub85c \uc120\ud0dd\ub429\ub2c8\ub2e4.",
-      "text": "\uac00\uc7a5 \ub0ae\uc740: \uac00\uc7a5 \ub0ae\uc740 \uc804\ub825\uc744 \ub73b\ud569\ub2c8\ub2e4. \ub611\uac19\uc740 \uc804\ub825\uc774\uba74 \ubb34\uc791\uc704\ub85c \uc120\ud0dd\ub429\ub2c8\ub2e4."
+      "raw": "<#600101>\uc804\ub825\uc774 \uac00\uc7a5 \ub0ae\uc740</color>: \uac00\uc7a5 \ub0ae\uc740 \uc804\ub825\uc744 \ub73b\ud569\ub2c8\ub2e4. \ub611\uac19\uc740 \uc804\ub825\uc774\uba74 \ubb34\uc791\uc704\ub85c \uc120\ud0dd\ub429\ub2c8\ub2e4.",
+      "text": "\uc804\ub825\uc774 \uac00\uc7a5 \ub0ae\uc740: \uac00\uc7a5 \ub0ae\uc740 \uc804\ub825\uc744 \ub73b\ud569\ub2c8\ub2e4. \ub611\uac19\uc740 \uc804\ub825\uc774\uba74 \ubb34\uc791\uc704\ub85c \uc120\ud0dd\ub429\ub2c8\ub2e4."
     },
     "pl-PL": {
       "raw": "<#600101>Najs\u0142absze:</color> Najni\u017csza si\u0142a, remisy rozwi\u0105zywane losowo.",
@@ -3107,8 +3107,8 @@
       "text": "\u5c04\u7a0b\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306e\u30a2\u30d3\u30ea\u30c6\u30a3\u304c\u5bfe\u8c61\u306b\u53d6\u308c\u308b\u5217\u6570"
     },
     "ko-KR": {
-      "raw": "<#600101>\uc720\ud6a8\ubc94\uc704</color>: \ud574\ub2f9 \uce74\ub4dc\uac00 \uc788\ub294 \uc804\uc5f4\uacfc \ub300\uc0c1\uc73c\ub85c \uc9c0\uc815\ud560 \uc218 \uc788\ub294 \uc804\uc5f4\uae4c\uc9c0\uc758 \ucd5c\ub300 \uac70\ub9ac\uc785\ub2c8\ub2e4.",
-      "text": "\uc720\ud6a8\ubc94\uc704: \ud574\ub2f9 \uce74\ub4dc\uac00 \uc788\ub294 \uc804\uc5f4\uacfc \ub300\uc0c1\uc73c\ub85c \uc9c0\uc815\ud560 \uc218 \uc788\ub294 \uc804\uc5f4\uae4c\uc9c0\uc758 \ucd5c\ub300 \uac70\ub9ac\uc785\ub2c8\ub2e4."
+      "raw": "<#600101>\uc0ac\uc815\uac70\ub9ac</color>: \ud574\ub2f9 \uce74\ub4dc\uac00 \uc788\ub294 \uc804\uc5f4\uacfc \ub300\uc0c1\uc73c\ub85c \uc9c0\uc815\ud560 \uc218 \uc788\ub294 \uc804\uc5f4\uae4c\uc9c0\uc758 \ucd5c\ub300 \uac70\ub9ac\uc785\ub2c8\ub2e4.",
+      "text": "\uc0ac\uc815\uac70\ub9ac: \ud574\ub2f9 \uce74\ub4dc\uac00 \uc788\ub294 \uc804\uc5f4\uacfc \ub300\uc0c1\uc73c\ub85c \uc9c0\uc815\ud560 \uc218 \uc788\ub294 \uc804\uc5f4\uae4c\uc9c0\uc758 \ucd5c\ub300 \uac70\ub9ac\uc785\ub2c8\ub2e4."
     },
     "pl-PL": {
       "raw": "<#600101>Zasi\u0119g:</color> Maksymalna odleg\u0142o\u015b\u0107 celu w rz\u0119dach.",
@@ -3971,8 +3971,8 @@
       "text": "\u751f\u6210\uff1a\u30b2\u30fc\u30e0\u306b\u30ab\u30fc\u30c9\u3092\u8ffd\u52a0\u3059\u308b"
     },
     "ko-KR": {
-      "raw": "<#600101>\uc0dd\uc131</color>: \uac8c\uc784\uc5d0 \uce74\ub4dc\ub97c \uc790\ub3d9\uc73c\ub85c \ucd94\uac00\ud574\uc11c \ub0c5\ub2c8\ub2e4.",
-      "text": "\uc0dd\uc131: \uac8c\uc784\uc5d0 \uce74\ub4dc\ub97c \uc790\ub3d9\uc73c\ub85c \ucd94\uac00\ud574\uc11c \ub0c5\ub2c8\ub2e4."
+      "raw": "<#600101>\uc0dd\uc131</color>: \uac8c\uc784\uc5d0 \uce74\ub4dc\ub97c \ud55c \uc7a5 \ucd94\uac00\ud569\ub2c8\ub2e4.",
+      "text": "\uc0dd\uc131: \uac8c\uc784\uc5d0 \uce74\ub4dc\ub97c \ud55c \uc7a5 \ucd94\uac00\ud569\ub2c8\ub2e4."
     },
     "pl-PL": {
       "raw": "<#600101>Stw\u00f3rz:</color> Dodaj kart\u0119 do gry.",
