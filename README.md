@@ -1,6 +1,12 @@
 # gwent-data-release
 
-JSON produced by the script in gwent-data
+JSON produced by the script in gwent-data.
+
+## How long does it take this repo to get updated after a Gwent update?
+
+It usually takes a couple of days after a Gwent update for this repo to be updated. Card data can be collected from the game files immediately, however it takes a couple of days for CDPR to send over the card images and then for them to be uploaded to the Google Cloud Storage bucket.
+
+The script that generates this data is open source. If you need data quicker than this repo updates, then you can generate it yourself using the script in [gwent-data](https://github.com/GwentCommunityDevelopers/gwent-data).
 
 ## Usage
 
