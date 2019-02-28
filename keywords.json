@@ -107,6 +107,12 @@
       "text": "\u8b77\u7532\uff1a\u53ef\u5438\u6536\u5b9a\u91cf\u50b7\u5bb3\u503c\uff0c\u96a8\u5f8c\u4fbf\u79fb\u9664\u3002"
     }
   },
+  "assimilate": {
+    "en-US": {
+      "raw": "Boost self by 1 whenever you play a card that is not from your starting deck.",
+      "text": "Boost self by 1 whenever you play a card that is not from your starting deck."
+    }
+  },
   "aura": {
     "de-DE": {
       "raw": "<#600101>Aura:</color> Eine passive F\u00e4higkeit, die erlischt, sobald die Einheit zerst\u00f6rt oder geblockt wird.",
@@ -269,6 +275,12 @@
       "text": "\u6c23\u6578\u5df2\u76e1\uff1a\u55ae\u4f4d\u724c\uff1a\u7531\u5834\u4e0a\u88ab\u9001\u9032\u5893\u5730\u6642\uff0c\u5f9e\u724c\u5c40\u4e2d\u79fb\u9664\u3002\\n\u7279\u6b8a\u724c\uff1a\u767c\u52d5\u5361\u724c\u80fd\u529b\u5f8c\u5f9e\u724c\u5c40\u4e2d\u79fb\u9664\u3002"
     }
   },
+  "bleeding": {
+    "en-US": {
+      "raw": "<#600101>Bleeding:</color> Status that damages a unit by 1 on its turn end.",
+      "text": "Bleeding: Status that damages a unit by 1 on its turn end."
+    }
+  },
   "bloodthirst": {
     "de-DE": {
       "raw": "<#600101>Blutdurst:</color> Anzahl besch\u00e4digter gegnerischer Einheiten, die ben\u00f6tigt wird, um diese F\u00e4higkeit zu aktivieren.",
@@ -329,8 +341,8 @@
       "text": "Bindung: Diese F\u00e4higkeit wird immer dann ausgel\u00f6st, wenn eine Kopie dieser Einheit auf derselben Seite ausgespielt wird."
     },
     "en-US": {
-      "raw": "<#600101>Bond:</color> Trigger this ability each time a copy of this Unit is played on the same side.",
-      "text": "Bond: Trigger this ability each time a copy of this Unit is played on the same side."
+      "raw": "<#600101>Bonded:</color> Trigger this ability if you control a copy of this card.",
+      "text": "Bonded: Trigger this ability if you control a copy of this card."
     },
     "es-ES": {
       "raw": "<#600101>V\u00ednculo:</color> activa esta habilidad cada vez que se juegue una copia de esta unidad en el mismo lado.",
@@ -375,6 +387,12 @@
     "zh-TW": {
       "raw": "<#600101>\u60c5\u8abc\uff1a</color>\u6bcf\u7576\u6211\u65b9\u6253\u51fa\u6b64\u55ae\u4f4d\u724c\u7684\u540c\u540d\u724c\u6642\uff0c\u91cd\u65b0\u89f8\u767c\u4e00\u6b21\u80fd\u529b\u3002",
       "text": "\u60c5\u8abc\uff1a\u6bcf\u7576\u6211\u65b9\u6253\u51fa\u6b64\u55ae\u4f4d\u724c\u7684\u540c\u540d\u724c\u6642\uff0c\u91cd\u65b0\u89f8\u767c\u4e00\u6b21\u80fd\u529b\u3002"
+    }
+  },
+  "bonded": {
+    "en-US": {
+      "raw": "<#600101>Bonded:</color> If there is a copy of this unit on the battlefield.",
+      "text": "Bonded: If there is a copy of this unit on the battlefield."
     }
   },
   "boon": {
@@ -971,6 +989,60 @@
       "text": "\u8a08\u6578\uff1a\u6bcf\u6eff\u8db3\u4e00\u6b21\u6307\u5b9a\u689d\u4ef6\uff0c\u8a08\u6578\u5c31\u6703\u4e0b\u964d\u3002\u82e5\u55ae\u4f4d\u724c\u96e2\u958b\u5834\u4e0a\uff0c\u5247\u91cd\u65b0\u8a08\u6578\u3002"
     }
   },
+  "cover": {
+    "de-DE": {
+      "raw": "ignore",
+      "text": "ignore"
+    },
+    "en-US": {
+      "raw": "ignore",
+      "text": "ignore"
+    },
+    "es-ES": {
+      "raw": "ignore",
+      "text": "ignore"
+    },
+    "es-MX": {
+      "raw": "ignore",
+      "text": "ignore"
+    },
+    "fr-FR": {
+      "raw": "ignore",
+      "text": "ignore"
+    },
+    "it-IT": {
+      "raw": "ignore",
+      "text": "ignore"
+    },
+    "ja-JP": {
+      "raw": "ignore",
+      "text": "ignore"
+    },
+    "ko-KR": {
+      "raw": "ignore",
+      "text": "ignore"
+    },
+    "pl-PL": {
+      "raw": "ignore",
+      "text": "ignore"
+    },
+    "pt-BR": {
+      "raw": "ignore",
+      "text": "ignore"
+    },
+    "ru-RU": {
+      "raw": "ignore",
+      "text": "ignore"
+    },
+    "zh-CN": {
+      "raw": "ignore",
+      "text": "ignore"
+    },
+    "zh-TW": {
+      "raw": "ignore",
+      "text": "ignore"
+    }
+  },
   "craven": {
     "de-DE": {
       "raw": "<#600101>Feigling:</color> Diese F\u00e4higkeit wird ausgel\u00f6st, wenn dein Gegner die aktuelle Runde verliert.",
@@ -1027,52 +1099,52 @@
   },
   "create": {
     "de-DE": {
-      "raw": "<#600101>Erschaffen:</color> Generiere eine von drei zuf\u00e4llig ausgew\u00e4hlten Karten, die Karten einer bestimmten Fraktion und neutralen Karten sein k\u00f6nnen, sofern dies nicht anders angegeben ist.",
-      "text": "Erschaffen: Generiere eine von drei zuf\u00e4llig ausgew\u00e4hlten Karten, die Karten einer bestimmten Fraktion und neutralen Karten sein k\u00f6nnen, sofern dies nicht anders angegeben ist."
+      "raw": "<#600101>Erschaffen:</color> Generiere eine von drei zuf\u00e4llig ausgew\u00e4hlten Karten mit der festgelegten Herkunft und spiele sie aus.",
+      "text": "Erschaffen: Generiere eine von drei zuf\u00e4llig ausgew\u00e4hlten Karten mit der festgelegten Herkunft und spiele sie aus."
     },
     "en-US": {
-      "raw": "<#600101>Create:</color> Spawn one of three randomly chosen cards from a specified faction and from neutral cards, unless otherwise specified.",
-      "text": "Create: Spawn one of three randomly chosen cards from a specified faction and from neutral cards, unless otherwise specified."
+      "raw": "<#600101>Create:</color> Spawn and play one of three randomly selected cards from the specified source.",
+      "text": "Create: Spawn and play one of three randomly selected cards from the specified source."
     },
     "es-ES": {
-      "raw": "<#600101>Crear:</color> generar una de tres cartas elegidas al azar de una facci\u00f3n espec\u00edfica y de las cartas neutrales, a menos que se indique lo contrario.",
-      "text": "Crear: generar una de tres cartas elegidas al azar de una facci\u00f3n espec\u00edfica y de las cartas neutrales, a menos que se indique lo contrario."
+      "raw": "<#600101>Crear:</color> generar y jugar una de tres cartas elegidas al azar de la fuente indicada.",
+      "text": "Crear: generar y jugar una de tres cartas elegidas al azar de la fuente indicada."
     },
     "es-MX": {
-      "raw": "<#600101>Crear:</color> genera una de tres cartas elegidas al azar de la facci\u00f3n de la carta o las cartas neutrales, a menos que se indique lo contrario.",
-      "text": "Crear: genera una de tres cartas elegidas al azar de la facci\u00f3n de la carta o las cartas neutrales, a menos que se indique lo contrario."
+      "raw": "<#600101>Crea:</color> genera y juega una de tres cartas elegidas al azar de la fuente especificada.",
+      "text": "Crea: genera y juega una de tres cartas elegidas al azar de la fuente especificada."
     },
     "fr-FR": {
-      "raw": "<#600101>Cr\u00e9er\u00a0:</color> g\u00e9n\u00e9rer l'une des trois cartes choisies al\u00e9atoirement parmi une faction sp\u00e9cifi\u00e9e et les cartes neutres, sauf mention contraire.",
-      "text": "Cr\u00e9er\u00a0: g\u00e9n\u00e9rer l'une des trois cartes choisies al\u00e9atoirement parmi une faction sp\u00e9cifi\u00e9e et les cartes neutres, sauf mention contraire."
+      "raw": "<#600101>Cr\u00e9er\u00a0:</color> g\u00e9n\u00e9rer et jouer l'une des trois cartes choisies al\u00e9atoirement \u00e0 partir de l'endroit indiqu\u00e9.",
+      "text": "Cr\u00e9er\u00a0: g\u00e9n\u00e9rer et jouer l'une des trois cartes choisies al\u00e9atoirement \u00e0 partir de l'endroit indiqu\u00e9."
     },
     "it-IT": {
-      "raw": "<#600101>Creare:</color> evocare una fra tre carte scelte a caso da una fazione specifica e dalle carte neutrali, salvo diversamente specificato.",
-      "text": "Creare: evocare una fra tre carte scelte a caso da una fazione specifica e dalle carte neutrali, salvo diversamente specificato."
+      "raw": "<#600101>Creare:</color> evocare e giocare una fra tre carte scelte a caso dalla fonte specificata.",
+      "text": "Creare: evocare e giocare una fra tre carte scelte a caso dalla fonte specificata."
     },
     "ja-JP": {
-      "raw": "<#600101>\u5165\u624b\uff1a</color>\uff08\u5225\u6bb5\u306e\u5b9a\u3081\u304c\u306a\u3044\u9650\u308a\uff09\u7279\u5b9a\u306e\u52e2\u529b\u53c8\u306f\u30cb\u30e5\u30fc\u30c8\u30e9\u30eb\u306e\u30ab\u30fc\u30c9\u3092\u7121\u4f5c\u70ba\u306b3\u679a\u9078\u3073\u3001\u305d\u306e\u3046\u30611\u679a\u3092\u751f\u6210\u3059\u308b",
-      "text": "\u5165\u624b\uff1a\uff08\u5225\u6bb5\u306e\u5b9a\u3081\u304c\u306a\u3044\u9650\u308a\uff09\u7279\u5b9a\u306e\u52e2\u529b\u53c8\u306f\u30cb\u30e5\u30fc\u30c8\u30e9\u30eb\u306e\u30ab\u30fc\u30c9\u3092\u7121\u4f5c\u70ba\u306b3\u679a\u9078\u3073\u3001\u305d\u306e\u3046\u30611\u679a\u3092\u751f\u6210\u3059\u308b"
+      "raw": "<#600101>\u5165\u624b\uff1a</color>\u6307\u5b9a\u3055\u308c\u305f\u7bc4\u56f2\u5185\u306e\u30ab\u30fc\u30c9\u30d7\u30fc\u30eb\u304b\u3089\u7121\u4f5c\u70ba\u306b\u30ab\u30fc\u30c9\u30923\u679a\u9078\u3073\u3001\u305d\u306e\u3046\u30611\u679a\u3092\u751f\u6210\u3057\u3066\u30d7\u30ec\u30a4\u3059\u308b",
+      "text": "\u5165\u624b\uff1a\u6307\u5b9a\u3055\u308c\u305f\u7bc4\u56f2\u5185\u306e\u30ab\u30fc\u30c9\u30d7\u30fc\u30eb\u304b\u3089\u7121\u4f5c\u70ba\u306b\u30ab\u30fc\u30c9\u30923\u679a\u9078\u3073\u3001\u305d\u306e\u3046\u30611\u679a\u3092\u751f\u6210\u3057\u3066\u30d7\u30ec\u30a4\u3059\u308b"
     },
     "ko-KR": {
-      "raw": "<#600101>\ucc3d\uc870</color>: \ud2b9\uc815 \uc138\ub825 \ubc0f \uc911\ub9bd \uce74\ub4dc\uc5d0\uc11c \ubb34\uc791\uc704\ub85c \uc120\ud0dd\ub41c \uc138 \uc7a5 \uc911 \ud55c \uc7a5\uc744 \uc0dd\uc131\ud558\uac70\ub098, \ubcc4\ub3c4\ub85c \uc9c0\uc815\ub41c \uce74\ub4dc\ub97c \uc0dd\uc131.",
-      "text": "\ucc3d\uc870: \ud2b9\uc815 \uc138\ub825 \ubc0f \uc911\ub9bd \uce74\ub4dc\uc5d0\uc11c \ubb34\uc791\uc704\ub85c \uc120\ud0dd\ub41c \uc138 \uc7a5 \uc911 \ud55c \uc7a5\uc744 \uc0dd\uc131\ud558\uac70\ub098, \ubcc4\ub3c4\ub85c \uc9c0\uc815\ub41c \uce74\ub4dc\ub97c \uc0dd\uc131."
+      "raw": "<#600101>\ucc3d\uc870</color>: \ud574\ub2f9 \ubc94\uc704\uc758 \ubb34\uc791\uc704 \uce74\ub4dc 3\uac1c \uc911 \ud558\ub098\ub97c \uc120\ud0dd\ud558\uc5ec \uc0dd\uc131\ud558\uace0 \ub0b8\ub2e4.",
+      "text": "\ucc3d\uc870: \ud574\ub2f9 \ubc94\uc704\uc758 \ubb34\uc791\uc704 \uce74\ub4dc 3\uac1c \uc911 \ud558\ub098\ub97c \uc120\ud0dd\ud558\uc5ec \uc0dd\uc131\ud558\uace0 \ub0b8\ub2e4."
     },
     "pl-PL": {
-      "raw": "<#600101>Utw\u00f3rz:</color> Stw\u00f3rz jedn\u0105 spo\u015br\u00f3d trzech losowo wybranych kart z wybranej frakcji i kart neutralnych, chyba \u017ce zaznaczono inaczej.",
-      "text": "Utw\u00f3rz: Stw\u00f3rz jedn\u0105 spo\u015br\u00f3d trzech losowo wybranych kart z wybranej frakcji i kart neutralnych, chyba \u017ce zaznaczono inaczej."
+      "raw": "<#600101>Utw\u00f3rz:</color> Stw\u00f3rz i zagraj jedn\u0105 spo\u015br\u00f3d trzech losowo wybranych kart z okre\u015blonego \u017ar\u00f3d\u0142a.",
+      "text": "Utw\u00f3rz: Stw\u00f3rz i zagraj jedn\u0105 spo\u015br\u00f3d trzech losowo wybranych kart z okre\u015blonego \u017ar\u00f3d\u0142a."
     },
     "pt-BR": {
-      "raw": "<#600101>Criar:</color> faz surgir uma de tr\u00eas cartas escolhidas aleatoriamente de uma fac\u00e7\u00e3o espec\u00edfica e das cartas neutras, a menos que seja especificado de outra forma.",
-      "text": "Criar: faz surgir uma de tr\u00eas cartas escolhidas aleatoriamente de uma fac\u00e7\u00e3o espec\u00edfica e das cartas neutras, a menos que seja especificado de outra forma."
+      "raw": "<#600101>Criar:</color> faz surgir e usa uma das tr\u00eas cartas selecionadas aleatoriamente da origem especificada.",
+      "text": "Criar: faz surgir e usa uma das tr\u00eas cartas selecionadas aleatoriamente da origem especificada."
     },
     "ru-RU": {
-      "raw": "<#600101>\u0421\u043e\u0442\u0432\u043e\u0440\u0438\u0442\u044c:</color> \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u043e\u0434\u043d\u0443 \u0438\u0437 \u0442\u0440\u0435\u0445 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u043e \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u044b\u0445 \u043a\u0430\u0440\u0442 (\u0438\u0437 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u0439 \u0444\u0440\u0430\u043a\u0446\u0438\u0438 \u0438\u043b\u0438 \u043d\u0435\u0439\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0445, \u0435\u0441\u043b\u0438 \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u043e \u0438\u043d\u043e\u0435).",
-      "text": "\u0421\u043e\u0442\u0432\u043e\u0440\u0438\u0442\u044c: \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u043e\u0434\u043d\u0443 \u0438\u0437 \u0442\u0440\u0435\u0445 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u043e \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u044b\u0445 \u043a\u0430\u0440\u0442 (\u0438\u0437 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u0439 \u0444\u0440\u0430\u043a\u0446\u0438\u0438 \u0438\u043b\u0438 \u043d\u0435\u0439\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0445, \u0435\u0441\u043b\u0438 \u043d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u043e \u0438\u043d\u043e\u0435)."
+      "raw": "<#600101>\u0421\u043e\u0442\u0432\u043e\u0440\u0438\u0442\u044c</color>: \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0438 \u0441\u044b\u0433\u0440\u0430\u0442\u044c \u043e\u0434\u043d\u0443 \u0438\u0437 \u0442\u0440\u0435\u0445 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u043e \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u044b\u0445 \u043a\u0430\u0440\u0442 \u0438\u0437 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u0433\u043e \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430.",
+      "text": "\u0421\u043e\u0442\u0432\u043e\u0440\u0438\u0442\u044c: \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0438 \u0441\u044b\u0433\u0440\u0430\u0442\u044c \u043e\u0434\u043d\u0443 \u0438\u0437 \u0442\u0440\u0435\u0445 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u043e \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u044b\u0445 \u043a\u0430\u0440\u0442 \u0438\u0437 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u0433\u043e \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430."
     },
     "zh-CN": {
-      "raw": "<#600101>\u521b\u9020\uff1a</color>\u4ece\u7279\u5b9a\u9635\u8425\u6216\u4e2d\u7acb\u5361\u724c\uff08\u9664\u975e\u53e6\u4f5c\u8bf4\u660e\uff09\u4e2d\u968f\u673a\u9009\u62e9 3 \u5f20\u5361\u724c\uff0c\u968f\u540e\u751f\u6210\u5176\u4e2d 1 \u5f20\u3002",
-      "text": "\u521b\u9020\uff1a\u4ece\u7279\u5b9a\u9635\u8425\u6216\u4e2d\u7acb\u5361\u724c\uff08\u9664\u975e\u53e6\u4f5c\u8bf4\u660e\uff09\u4e2d\u968f\u673a\u9009\u62e9 3 \u5f20\u5361\u724c\uff0c\u968f\u540e\u751f\u6210\u5176\u4e2d 1 \u5f20\u3002"
+      "raw": "<#600101>\u521b\u9020\uff1a</color>\u4ece\u7279\u5b9a\u5361\u6c60\u4e2d\u968f\u673a\u9009\u62e9 3 \u5f20\u5361\u724c\uff0c\u968f\u540e\u751f\u6210\u5e76\u6253\u51fa\u5176\u4e2d 1 \u5f20\u3002",
+      "text": "\u521b\u9020\uff1a\u4ece\u7279\u5b9a\u5361\u6c60\u4e2d\u968f\u673a\u9009\u62e9 3 \u5f20\u5361\u724c\uff0c\u968f\u540e\u751f\u6210\u5e76\u6253\u51fa\u5176\u4e2d 1 \u5f20\u3002"
     },
     "zh-TW": {
       "raw": "<#600101>\u88fd\u9020\uff1a</color>\u5f9e\u7279\u5b9a\u9663\u71df\u53ca\u4e2d\u7acb\u5361\u724c\u4e2d\uff0c\u96a8\u6a5f\u6311\u51fa 3 \u5f35\u55ae\u4f4d\u724c\u4e26\u751f\u6210\u5176\u4e2d 1 \u5f35\uff08\u9664\u975e\u53e6\u5916\u8aaa\u660e\uff09\u3002",
@@ -1349,6 +1421,12 @@
       "text": "\u4ea4\u92d2\uff1a\u5982\u96d9\u65b9\u90fd\u672a\u653e\u68c4\u51fa\u724c\uff0c\u5247\u767c\u52d5\u6b64\u80fd\u529b\u3002"
     }
   },
+  "deathblow": {
+    "en-US": {
+      "raw": "<#600101>Deathblow:</color> Trigger this ability if this card destroys a unit.",
+      "text": "Deathblow: Trigger this ability if this card destroys a unit."
+    }
+  },
   "deathwish": {
     "de-DE": {
       "raw": "<#600101>Todeswunsch:</color> Diese F\u00e4higkeit wird ausgel\u00f6st, wenn die Einheit vom Schlachtfeld auf den Friedhof verschoben wird. Hinweis: Verbannte Einheiten werden nicht auf den Friedhof verschoben.",
@@ -1619,14 +1697,20 @@
       "text": "\u4e1f\u68c4\uff1a\u5c07\u6211\u65b9\u624b\u724c\u7684 1 \u5f35\u5361\u724c\u9001\u81f3\u5893\u5730\u3002\u6ce8\u610f\uff1a\u7576\u88ab\u624b\u52d5\u4e1f\u68c4\u6642\uff0c\u76f8\u95dc\u7684\u80fd\u529b\u4e0d\u6703\u767c\u52d5\u3002"
     }
   },
+  "dominance": {
+    "en-US": {
+      "raw": "<#600101>Dominance:</color> Trigger this ability if you control the highest unit.",
+      "text": "Dominance: Trigger this ability if you control the highest unit."
+    }
+  },
   "doomed": {
     "de-DE": {
       "raw": "<#600101>Verdammt:</color> Statuseffekt, der die Einheit aus dem Spiel entfernt, nachdem sie auf den Friedhof verschoben wurde.",
       "text": "Verdammt: Statuseffekt, der die Einheit aus dem Spiel entfernt, nachdem sie auf den Friedhof verschoben wurde."
     },
     "en-US": {
-      "raw": "<#600101>Doomed:</color> Status that removes the unit from the game after it moves to the graveyard.",
-      "text": "Doomed: Status that removes the unit from the game after it moves to the graveyard."
+      "raw": "<#600101>Doomed:</color> Status that removes the unit from the game when it leaves the battlefield.",
+      "text": "Doomed: Status that removes the unit from the game when it leaves the battlefield."
     },
     "es-ES": {
       "raw": "<#600101>Condenado:</color> estado que elimina a la unidad del juego si se mueve al cementerio.",
@@ -1943,6 +2027,12 @@
       "text": "\u514d\u6d17\uff1a\u6bcf\u5834\u5c0d\u6230\u53ea\u80fd\u767c\u52d5\u4e00\u6b21\u6b64\u724c\u7684\u80fd\u529b\u3002"
     }
   },
+  "formation": {
+    "en-US": {
+      "raw": "<#600101>Formation:</color> If played on the melee row, gain Zeal. If played on the ranged row, boost self by 1.",
+      "text": "Formation: If played on the melee row, gain Zeal. If played on the ranged row, boost self by 1."
+    }
+  },
   "friendly": {
     "de-DE": {
       "raw": "<#600101>Verb\u00fcndet:</color> Eine Einheit auf deiner Schlachtfeldseite.",
@@ -2103,6 +2193,12 @@
     "zh-TW": {
       "raw": "<#600101>\u514d\u75ab\uff1a</color>\u4e00\u7a2e\u72c0\u614b\uff0c\u6b64\u724c\u7121\u6cd5\u7576\u4f5c\u76ee\u6a19\u3002",
       "text": "\u514d\u75ab\uff1a\u4e00\u7a2e\u72c0\u614b\uff0c\u6b64\u724c\u7121\u6cd5\u7576\u4f5c\u76ee\u6a19\u3002"
+    }
+  },
+  "harmony": {
+    "en-US": {
+      "raw": "<#600101>Harmony:</color> Boost self by 1 whenever you play a Scoia'tael unit with a unique primary category.",
+      "text": "Harmony: Boost self by 1 whenever you play a Scoia'tael unit with a unique primary category."
     }
   },
   "hazard": {
@@ -2381,8 +2477,8 @@
       "text": "Immun: Statuseffekt, durch den diese Karte nicht von Hand ins Ziel genommen werden kann."
     },
     "en-US": {
-      "raw": "<#600101>Immune:</color> Status whereby this card cannot be manually targeted.",
-      "text": "Immune: Status whereby this card cannot be manually targeted."
+      "raw": "<#600101>Immunity:</color> Status whereby this card cannot be manually targeted.",
+      "text": "Immunity: Status whereby this card cannot be manually targeted."
     },
     "es-ES": {
       "raw": "<#600101>Inmune:</color> estado que impide que se fije esta carta como objetivo de forma manual.",
@@ -2489,8 +2585,8 @@
       "text": "Block: Statuseffekt, der die F\u00e4higkeiten einer Einheit sperrt und andere Statuseffekte entfernt."
     },
     "en-US": {
-      "raw": "<#600101>Lock:</color> Status that disables a unit's abilities and removes other statuses.",
-      "text": "Lock: Status that disables a unit's abilities and removes other statuses."
+      "raw": "<#600101>Lock:</color> Status that disables a unit's abilities.",
+      "text": "Lock: Status that disables a unit's abilities."
     },
     "es-ES": {
       "raw": "<#600101>Bloqueo:</color> estado que inhabilita las habilidades de una unidad y elimina otros estados.",
@@ -2969,6 +3065,12 @@
       "text": "\u6210\u96d9\uff1a\u5834\u4e0a\u6709 2 \u5f35\u8a72\u724c\u6642\u4fbf\u80fd\u767c\u52d5\u6b64\u80fd\u529b\u3002"
     }
   },
+  "poison": {
+    "en-US": {
+      "raw": "<#600101>Poison:</color> If a unit has two Poison statuses, destroy it.",
+      "text": "Poison: If a unit has two Poison statuses, destroy it."
+    }
+  },
   "promote": {
     "de-DE": {
       "raw": "<#600101>Bef\u00f6rdern:</color> Verwandle diese Karte in eine Goldkarte, bis die Runde endet.",
@@ -3021,6 +3123,12 @@
     "zh-TW": {
       "raw": "<#600101>\u5347\u7d1a\uff1a</color>\u8f49\u8b8a\u70ba\u91d1\u8272\u724c\uff0c\u6548\u679c\u6301\u7e8c\u5230\u8a72\u5c40\u7d50\u675f\u70ba\u6b62\u3002",
       "text": "\u5347\u7d1a\uff1a\u8f49\u8b8a\u70ba\u91d1\u8272\u724c\uff0c\u6548\u679c\u6301\u7e8c\u5230\u8a72\u5c40\u7d50\u675f\u70ba\u6b62\u3002"
+    }
+  },
+  "purify": {
+    "en-US": {
+      "raw": "<#600101>Purify:</color> Remove all statuses.",
+      "text": "Purify: Remove all statuses."
     }
   },
   "ranged": {
@@ -3299,8 +3407,8 @@
       "text": "Z\u00e4higkeit: Statuseffekt, der einer Einheit erlaubt, am Rundenende auf dem Schlachtfeld zu bleiben und in diesem Fall ihre Basisst\u00e4rke wiederherstellt, wenn sie vorher verbessert wurde."
     },
     "en-US": {
-      "raw": "<#600101>Resilience:</color> Status that allows a unit to remain on the board at round end, then restores it to base power if boosted.",
-      "text": "Resilience: Status that allows a unit to remain on the board at round end, then restores it to base power if boosted."
+      "raw": "<#600101>Resilience:</color> Status that allows a unit to remain on the board at round end, and if boosted restores it to its base power.",
+      "text": "Resilience: Status that allows a unit to remain on the board at round end, and if boosted restores it to its base power."
     },
     "es-ES": {
       "raw": "<#600101>Resistente:</color> estado que permite a una unidad permanecer en el tablero al final de la ronda y restablece su poder base si est\u00e1 potenciada.",
@@ -3839,8 +3947,8 @@
       "text": "Schild: Eine Schild-Marke besch\u00fctzt eine Einheit vor dem n\u00e4chsten Effekt, der ihr Schaden zuf\u00fcgen, sie schw\u00e4chen oder auf eine niedrigere St\u00e4rke setzen w\u00fcrde."
     },
     "en-US": {
-      "raw": "<#600101>Shield:</color> A Shield token protects a Unit from the next effect that Damages, Weakens or sets this Unit to a lower Power.",
-      "text": "Shield: A Shield token protects a Unit from the next effect that Damages, Weakens or sets this Unit to a lower Power."
+      "raw": "<#600101>Shield:</color> Status that blocks the next instance of damage dealt to a unit.",
+      "text": "Shield: Status that blocks the next instance of damage dealt to a unit."
     },
     "es-ES": {
       "raw": "<#600101>Escudo:</color> el atributo Escudo protege a una unidad del siguiente efecto que inflija da\u00f1o, debilite o disminuya el poder de esta unidad.",
@@ -4325,8 +4433,8 @@
       "text": "Gedeihen: Verbessere diese Einheit um 1, wann immer eine verb\u00fcndete Einheit mit h\u00f6herer St\u00e4rke ausgespielt wird."
     },
     "en-US": {
-      "raw": "<#600101>Thrive:</color> Boost this unit by 1 whenever an ally with higher power is played. ",
-      "text": "Thrive: Boost this unit by 1 whenever an ally with higher power is played. "
+      "raw": "<#600101>Thrive:</color> Boost this unit by 1 whenever an ally with higher power is played.",
+      "text": "Thrive: Boost this unit by 1 whenever an ally with higher power is played."
     },
     "es-ES": {
       "raw": "<#600101>Medra:</color> potencia a esta unidad en 1 cada vez que se juegue un aliado con mayor poder.",
@@ -4803,6 +4911,12 @@
     "zh-TW": {
       "raw": "<#600101>\u8001\u5175 X\uff1a</color>\u7b2c 2 \u6216\u7b2c 3 \u5c40\u958b\u59cb\u6642\uff0c\u7121\u8ad6\u6b64\u55ae\u4f4d\u724c\u4f4d\u65bc\u4f55\u8655\uff0c\u7686\u5f37\u5316 X \u9ede\u3002",
       "text": "\u8001\u5175 X\uff1a\u7b2c 2 \u6216\u7b2c 3 \u5c40\u958b\u59cb\u6642\uff0c\u7121\u8ad6\u6b64\u55ae\u4f4d\u724c\u4f4d\u65bc\u4f55\u8655\uff0c\u7686\u5f37\u5316 X \u9ede\u3002"
+    }
+  },
+  "vitality": {
+    "en-US": {
+      "raw": "<#600101>Vitality:</color> Status that boosts a unit by 1 on its turn end.",
+      "text": "Vitality: Status that boosts a unit by 1 on its turn end."
     }
   },
   "weaken": {
