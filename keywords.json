@@ -108,9 +108,53 @@
     }
   },
   "assimilate": {
+    "de-DE": {
+      "raw": "<#600101>Assimilieren:</color> Diese Einheit wird um 1 verbessert, wenn eine Karte ausgespielt wird, die nicht aus dem Startdeck stammt.",
+      "text": "Assimilieren: Diese Einheit wird um 1 verbessert, wenn eine Karte ausgespielt wird, die nicht aus dem Startdeck stammt."
+    },
     "en-US": {
-      "raw": "Boost self by 1 whenever you play a card that is not from your starting deck.",
-      "text": "Boost self by 1 whenever you play a card that is not from your starting deck."
+      "raw": "<#600101>Assimilate:</color> Boost self by 1 whenever you play a card that is not from your starting deck.",
+      "text": "Assimilate: Boost self by 1 whenever you play a card that is not from your starting deck."
+    },
+    "es-ES": {
+      "raw": "<#600101>Asimilaci\u00f3n:</color> se potencia en 1 cada vez que juegas una carta que no pertenece a tu baraja inicial.",
+      "text": "Asimilaci\u00f3n: se potencia en 1 cada vez que juegas una carta que no pertenece a tu baraja inicial."
+    },
+    "es-MX": {
+      "raw": "<#600101>Asimilar:</color> esta unidad recibe 1 de poder cada vez que juegas una carta que no est\u00e9 en tu mazo inicial.",
+      "text": "Asimilar: esta unidad recibe 1 de poder cada vez que juegas una carta que no est\u00e9 en tu mazo inicial."
+    },
+    "fr-FR": {
+      "raw": "<#600101>Assimilation :</color> Am\u00e9liorez la pr\u00e9sente unit\u00e9 de 1\u00a0point chaque fois que vous jouez une carte ne faisant pas partie de votre jeu de d\u00e9part.",
+      "text": "Assimilation : Am\u00e9liorez la pr\u00e9sente unit\u00e9 de 1\u00a0point chaque fois que vous jouez une carte ne faisant pas partie de votre jeu de d\u00e9part."
+    },
+    "it-IT": {
+      "raw": "<#600101>Assimilazione:</color>Si potenzia di 1 ogni volta che giochi una carta non appartenente al tuo mazzo iniziale.",
+      "text": "Assimilazione:Si potenzia di 1 ogni volta che giochi una carta non appartenente al tuo mazzo iniziale."
+    },
+    "ja-JP": {
+      "raw": "<#600101>\u540c\u5316\uff1a</color>\u3042\u306a\u305f\u304c\u81ea\u8ecd\u30c7\u30c3\u30ad\u306b\u6700\u521d\u304b\u3089\u7d44\u307f\u8fbc\u307e\u308c\u3066\u3044\u306a\u3044\u30ab\u30fc\u30c9\u3092\u30d7\u30ec\u30a4\u3059\u308b\u305f\u3073\u30011\u30d6\u30fc\u30b9\u30c8\u3092\u5f97\u308b",
+      "text": "\u540c\u5316\uff1a\u3042\u306a\u305f\u304c\u81ea\u8ecd\u30c7\u30c3\u30ad\u306b\u6700\u521d\u304b\u3089\u7d44\u307f\u8fbc\u307e\u308c\u3066\u3044\u306a\u3044\u30ab\u30fc\u30c9\u3092\u30d7\u30ec\u30a4\u3059\u308b\u305f\u3073\u30011\u30d6\u30fc\u30b9\u30c8\u3092\u5f97\u308b"
+    },
+    "ko-KR": {
+      "raw": "<#600101>\ub3d9\ud654</color>: \ub0b4\uac00 \uc2dc\uc791 \ub371\uc5d0 \uc5c6\ub294 \uce74\ub4dc\ub97c \ub0bc \ub54c\ub9c8\ub2e4 \uc2a4\uc2a4\ub85c 1 \uc99d\ud3ed.",
+      "text": "\ub3d9\ud654: \ub0b4\uac00 \uc2dc\uc791 \ub371\uc5d0 \uc5c6\ub294 \uce74\ub4dc\ub97c \ub0bc \ub54c\ub9c8\ub2e4 \uc2a4\uc2a4\ub85c 1 \uc99d\ud3ed."
+    },
+    "pl-PL": {
+      "raw": "<#600101>Asymilacja:</color> Wzmocnij t\u0119 jednostk\u0119 o 1 za ka\u017cdym razem, gdy zagrasz kart\u0119, kt\u00f3ra nie by\u0142a w twojej pocz\u0105tkowej talii.",
+      "text": "Asymilacja: Wzmocnij t\u0119 jednostk\u0119 o 1 za ka\u017cdym razem, gdy zagrasz kart\u0119, kt\u00f3ra nie by\u0142a w twojej pocz\u0105tkowej talii."
+    },
+    "pt-BR": {
+      "raw": "<#600101>Assimilar:</color> refor\u00e7a a si em 1 sempre que voc\u00ea usa uma carta que n\u00e3o faz parte do baralho inicial.",
+      "text": "Assimilar: refor\u00e7a a si em 1 sempre que voc\u00ea usa uma carta que n\u00e3o faz parte do baralho inicial."
+    },
+    "ru-RU": {
+      "raw": "<#600101>\u0410\u0441\u0441\u0438\u043c\u0438\u043b\u044f\u0446\u0438\u044f:</color> \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0449\u0430\u044f \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0442\u044c \u044d\u0442\u043e\u0442 \u043e\u0442\u0440\u044f\u0434 \u043d\u0430 1 \u0435\u0434. \u043a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437, \u043a\u043e\u0433\u0434\u0430 \u0432\u044b \u0438\u0433\u0440\u0430\u0435\u0442\u0435 \u043a\u0430\u0440\u0442\u0443 \u043d\u0435 \u0438\u0437 \u0432\u0430\u0448\u0435\u0439 \u0441\u0442\u0430\u0440\u0442\u043e\u0432\u043e\u0439 \u043a\u043e\u043b\u043e\u0434\u044b.",
+      "text": "\u0410\u0441\u0441\u0438\u043c\u0438\u043b\u044f\u0446\u0438\u044f: \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0449\u0430\u044f \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0442\u044c \u044d\u0442\u043e\u0442 \u043e\u0442\u0440\u044f\u0434 \u043d\u0430 1 \u0435\u0434. \u043a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437, \u043a\u043e\u0433\u0434\u0430 \u0432\u044b \u0438\u0433\u0440\u0430\u0435\u0442\u0435 \u043a\u0430\u0440\u0442\u0443 \u043d\u0435 \u0438\u0437 \u0432\u0430\u0448\u0435\u0439 \u0441\u0442\u0430\u0440\u0442\u043e\u0432\u043e\u0439 \u043a\u043e\u043b\u043e\u0434\u044b."
+    },
+    "zh-CN": {
+      "raw": "<#600101>\u540c\u5316\uff1a</color>\u5f53\u6253\u51fa\u4e00\u5f20\u4e0d\u5c5e\u4e8e\u5df1\u65b9\u8d77\u59cb\u724c\u7ec4\u7684\u724c\u65f6\uff0c\u81ea\u8eab\u83b7\u5f97 1 \u70b9\u589e\u76ca\u3002",
+      "text": "\u540c\u5316\uff1a\u5f53\u6253\u51fa\u4e00\u5f20\u4e0d\u5c5e\u4e8e\u5df1\u65b9\u8d77\u59cb\u724c\u7ec4\u7684\u724c\u65f6\uff0c\u81ea\u8eab\u83b7\u5f97 1 \u70b9\u589e\u76ca\u3002"
     }
   },
   "aura": {
@@ -169,52 +213,52 @@
   },
   "banish": {
     "de-DE": {
-      "raw": "<#600101>Verbannen:</color> Entferne eine Karte aus dem Spiel. Etwaige Todeswunsch-F\u00e4higkeiten werden nicht ausgel\u00f6st.",
-      "text": "Verbannen: Entferne eine Karte aus dem Spiel. Etwaige Todeswunsch-F\u00e4higkeiten werden nicht ausgel\u00f6st."
+      "raw": "<#600101>Verbannen:</color> Entferne eine Karte aus dem Spiel. Hinweis: Diese wird nicht als zerst\u00f6rt gewertet.",
+      "text": "Verbannen: Entferne eine Karte aus dem Spiel. Hinweis: Diese wird nicht als zerst\u00f6rt gewertet."
     },
     "en-US": {
-      "raw": "<#600101>Banish:</color> Remove from the game. Does not trigger Deathwish abilities.",
-      "text": "Banish: Remove from the game. Does not trigger Deathwish abilities."
+      "raw": "<#600101>Banish:</color> Remove from the game. Note: Does not count as being destroyed.",
+      "text": "Banish: Remove from the game. Note: Does not count as being destroyed."
     },
     "es-ES": {
-      "raw": "<#600101>Desterrar:</color> eliminar de la partida. No activa las habilidades de sue\u00f1o mortal.",
-      "text": "Desterrar: eliminar de la partida. No activa las habilidades de sue\u00f1o mortal."
+      "raw": "<#600101>Desterrar:</color> eliminar de la partida. Atenci\u00f3n: no cuenta como destruir.",
+      "text": "Desterrar: eliminar de la partida. Atenci\u00f3n: no cuenta como destruir."
     },
     "es-MX": {
-      "raw": "<#600101>Desterrar:</color> elimina de la partida. No activa las habilidades de Agon\u00eda.",
-      "text": "Desterrar: elimina de la partida. No activa las habilidades de Agon\u00eda."
+      "raw": "<#600101>Desterrar:</color> elimina de la partida. Nota: no cuenta como una destrucci\u00f3n.",
+      "text": "Desterrar: elimina de la partida. Nota: no cuenta como una destrucci\u00f3n."
     },
     "fr-FR": {
-      "raw": "<#600101>Bannir\u00a0:</color> retirer de la partie. Ne d\u00e9clenche pas les capacit\u00e9s du Baroud d'honneur.",
-      "text": "Bannir\u00a0: retirer de la partie. Ne d\u00e9clenche pas les capacit\u00e9s du Baroud d'honneur."
+      "raw": "<#600101>Bannir\u00a0:</color> retirer de la partie. Remarque\u00a0: la carte n'est pas consid\u00e9r\u00e9e comme d\u00e9truite.",
+      "text": "Bannir\u00a0: retirer de la partie. Remarque\u00a0: la carte n'est pas consid\u00e9r\u00e9e comme d\u00e9truite."
     },
     "it-IT": {
-      "raw": "<#600101>Bandire:</color> rimuovere la carta dal gioco. Non attiva abilit\u00e0 Ultimo desiderio.",
-      "text": "Bandire: rimuovere la carta dal gioco. Non attiva abilit\u00e0 Ultimo desiderio."
+      "raw": "<#600101>Bandire:</color> rimuovere la carta dal gioco. Nota: la carta non conta come distrutta.",
+      "text": "Bandire: rimuovere la carta dal gioco. Nota: la carta non conta come distrutta."
     },
     "ja-JP": {
-      "raw": "<#600101>\u6d88\u6ec5\uff1a</color>\u30b2\u30fc\u30e0\u304b\u3089\u53d6\u308a\u9664\u304f\uff08\u907a\u8a00\u30a2\u30d3\u30ea\u30c6\u30a3\u306e\u5f15\u304d\u91d1\u3068\u306f\u306a\u3089\u306a\u3044\uff09",
-      "text": "\u6d88\u6ec5\uff1a\u30b2\u30fc\u30e0\u304b\u3089\u53d6\u308a\u9664\u304f\uff08\u907a\u8a00\u30a2\u30d3\u30ea\u30c6\u30a3\u306e\u5f15\u304d\u91d1\u3068\u306f\u306a\u3089\u306a\u3044\uff09"
+      "raw": "<#600101>\u6d88\u6ec5\uff1a</color>\u30b2\u30fc\u30e0\u304b\u3089\u53d6\u308a\u9664\u304f\uff08\u201c\u7834\u58ca\u201d\u3055\u308c\u305f\u3068\u306f\u8a8d\u8b58\u3055\u308c\u306a\u3044\uff09",
+      "text": "\u6d88\u6ec5\uff1a\u30b2\u30fc\u30e0\u304b\u3089\u53d6\u308a\u9664\u304f\uff08\u201c\u7834\u58ca\u201d\u3055\u308c\u305f\u3068\u306f\u8a8d\u8b58\u3055\u308c\u306a\u3044\uff09"
     },
     "ko-KR": {
-      "raw": "<#600101>\ucd94\ubc29</color>: \uac8c\uc784\uc5d0\uc11c \uc81c\uac70\ud569\ub2c8\ub2e4. \uc720\uc5b8 \ub2a5\ub825\uc740 \ubc1c\ub3d9\ud558\uc9c0 \uc54a\uc74c.",
-      "text": "\ucd94\ubc29: \uac8c\uc784\uc5d0\uc11c \uc81c\uac70\ud569\ub2c8\ub2e4. \uc720\uc5b8 \ub2a5\ub825\uc740 \ubc1c\ub3d9\ud558\uc9c0 \uc54a\uc74c."
+      "raw": "<#600101>\ucd94\ubc29</color>: \uac8c\uc784\uc5d0\uc11c \uc81c\uac70\ud55c\ub2e4. \ucc38\uace0: \ud30c\uad34\ub41c \uac83\uc73c\ub85c \uc778\uc815\ub418\uc9c0 \uc54a\uc74c.",
+      "text": "\ucd94\ubc29: \uac8c\uc784\uc5d0\uc11c \uc81c\uac70\ud55c\ub2e4. \ucc38\uace0: \ud30c\uad34\ub41c \uac83\uc73c\ub85c \uc778\uc815\ub418\uc9c0 \uc54a\uc74c."
     },
     "pl-PL": {
-      "raw": "<#600101>Wygnaj:</color> Usu\u0144 kart\u0119 z gry. Nie aktywuje umiej\u0119tno\u015bci zemsty.",
-      "text": "Wygnaj: Usu\u0144 kart\u0119 z gry. Nie aktywuje umiej\u0119tno\u015bci zemsty."
+      "raw": "<#600101>Wygnaj:</color> Usu\u0144 kart\u0119 z gry. Uwaga: usuni\u0119ta karta nie jest uznawana za zniszczon\u0105.",
+      "text": "Wygnaj: Usu\u0144 kart\u0119 z gry. Uwaga: usuni\u0119ta karta nie jest uznawana za zniszczon\u0105."
     },
     "pt-BR": {
-      "raw": "<#600101>Banir:</color> remove do jogo. N\u00e3o aciona habilidades de Desejo de Morte.",
-      "text": "Banir: remove do jogo. N\u00e3o aciona habilidades de Desejo de Morte."
+      "raw": "<#600101>Banir:</color> remove do jogo. Observa\u00e7\u00e3o: n\u00e3o conta como uma unidade destru\u00edda.",
+      "text": "Banir: remove do jogo. Observa\u00e7\u00e3o: n\u00e3o conta como uma unidade destru\u00edda."
     },
     "ru-RU": {
-      "raw": "<#600101>\u0423\u0434\u0430\u043b\u0438\u0442\u044c:</color> \u0443\u0431\u0440\u0430\u0442\u044c \u0438\u0437 \u0438\u0433\u0440\u044b. \u041f\u0440\u0438 \u044d\u0442\u043e\u043c \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \u00ab\u0417\u0430\u0432\u0435\u0449\u0430\u043d\u0438\u0435\u00bb \u043d\u0435 \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f.",
-      "text": "\u0423\u0434\u0430\u043b\u0438\u0442\u044c: \u0443\u0431\u0440\u0430\u0442\u044c \u0438\u0437 \u0438\u0433\u0440\u044b. \u041f\u0440\u0438 \u044d\u0442\u043e\u043c \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \u00ab\u0417\u0430\u0432\u0435\u0449\u0430\u043d\u0438\u0435\u00bb \u043d\u0435 \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f."
+      "raw": "<#600101>\u0423\u0434\u0430\u043b\u0438\u0442\u044c:</color> \u0443\u0431\u0440\u0430\u0442\u044c \u0438\u0437 \u0438\u0433\u0440\u044b. \u0423\u0447\u0442\u0438\u0442\u0435, \u0447\u0442\u043e \u043a\u0430\u0440\u0442\u0430 \u043f\u0440\u0438 \u044d\u0442\u043e\u043c \u043d\u0435 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0430\u0435\u0442\u0441\u044f.",
+      "text": "\u0423\u0434\u0430\u043b\u0438\u0442\u044c: \u0443\u0431\u0440\u0430\u0442\u044c \u0438\u0437 \u0438\u0433\u0440\u044b. \u0423\u0447\u0442\u0438\u0442\u0435, \u0447\u0442\u043e \u043a\u0430\u0440\u0442\u0430 \u043f\u0440\u0438 \u044d\u0442\u043e\u043c \u043d\u0435 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0430\u0435\u0442\u0441\u044f."
     },
     "zh-CN": {
-      "raw": "<#600101>\u653e\u9010\uff1a</color>\u4ece\u5bf9\u5c40\u4e2d\u79fb\u51fa\u3002\u4e0d\u4f1a\u89e6\u53d1\u201c\u9057\u613f\u201d\u80fd\u529b\u3002",
-      "text": "\u653e\u9010\uff1a\u4ece\u5bf9\u5c40\u4e2d\u79fb\u51fa\u3002\u4e0d\u4f1a\u89e6\u53d1\u201c\u9057\u613f\u201d\u80fd\u529b\u3002"
+      "raw": "<#600101>\u653e\u9010\uff1a</color>\u4ece\u5bf9\u5c40\u4e2d\u79fb\u51fa\u3002\u6ce8\u91ca\uff1a\u6b64\u6548\u679c\u4e0d\u4f1a\u88ab\u89c6\u4f5c\u4e3a\u201c\u88ab\u6467\u6bc1\u201d\u3002",
+      "text": "\u653e\u9010\uff1a\u4ece\u5bf9\u5c40\u4e2d\u79fb\u51fa\u3002\u6ce8\u91ca\uff1a\u6b64\u6548\u679c\u4e0d\u4f1a\u88ab\u89c6\u4f5c\u4e3a\u201c\u88ab\u6467\u6bc1\u201d\u3002"
     },
     "zh-TW": {
       "raw": "<#600101>\u9a45\u9010\uff1a</color>\u5f9e\u724c\u5c40\u4e2d\u79fb\u9664\u3002\u4e0d\u6703\u89f8\u767c\u300c\u6c42\u6b7b\u300d\u80fd\u529b\u3002",
@@ -275,10 +319,104 @@
       "text": "\u6c23\u6578\u5df2\u76e1\uff1a\u55ae\u4f4d\u724c\uff1a\u7531\u5834\u4e0a\u88ab\u9001\u9032\u5893\u5730\u6642\uff0c\u5f9e\u724c\u5c40\u4e2d\u79fb\u9664\u3002\\n\u7279\u6b8a\u724c\uff1a\u767c\u52d5\u5361\u724c\u80fd\u529b\u5f8c\u5f9e\u724c\u5c40\u4e2d\u79fb\u9664\u3002"
     }
   },
-  "bleeding": {
+  "berserk": {
+    "de-DE": {
+      "raw": "<#600101>Berserker:</color> Diese F\u00e4higkeit wird ausgel\u00f6st, wann immer die Basisst\u00e4rke auf der H\u00e4lfte oder darunter ist.",
+      "text": "Berserker: Diese F\u00e4higkeit wird ausgel\u00f6st, wann immer die Basisst\u00e4rke auf der H\u00e4lfte oder darunter ist."
+    },
     "en-US": {
-      "raw": "<#600101>Bleeding:</color> Status that damages a unit by 1 on its turn end.",
-      "text": "Bleeding: Status that damages a unit by 1 on its turn end."
+      "raw": "<#600101>Berserk:</color> Trigger this ability whenever base power is at half or less than half. ",
+      "text": "Berserk: Trigger this ability whenever base power is at half or less than half. "
+    },
+    "es-ES": {
+      "raw": "<#600101>Fren\u00e9tico:</color> activa esta habilidad cuando el poder base est\u00e9 a la mitad o menos.",
+      "text": "Fren\u00e9tico: activa esta habilidad cuando el poder base est\u00e9 a la mitad o menos."
+    },
+    "es-MX": {
+      "raw": "<#600101>Berserk:</color> activa esta habilidad cuando el poder base est\u00e1 a la mitad o menos.",
+      "text": "Berserk: activa esta habilidad cuando el poder base est\u00e1 a la mitad o menos."
+    },
+    "fr-FR": {
+      "raw": "<#600101>Berserker\u00a0:</color> d\u00e9clencher cette capacit\u00e9 chaque fois que la force initiale est r\u00e9duite \u00e0 une valeur inf\u00e9rieure ou \u00e9gale \u00e0 sa moiti\u00e9.",
+      "text": "Berserker\u00a0: d\u00e9clencher cette capacit\u00e9 chaque fois que la force initiale est r\u00e9duite \u00e0 une valeur inf\u00e9rieure ou \u00e9gale \u00e0 sa moiti\u00e9."
+    },
+    "it-IT": {
+      "raw": "<#600101>Berserk:</color> abilit\u00e0 che si attiva ogni volta che la forza dell'unit\u00e0 scende a met\u00e0 o a meno della met\u00e0 della forza base.",
+      "text": "Berserk: abilit\u00e0 che si attiva ogni volta che la forza dell'unit\u00e0 scende a met\u00e0 o a meno della met\u00e0 della forza base."
+    },
+    "ja-JP": {
+      "raw": "<#600101>\u72c2\u6226\u58eb\uff1a</color>\u30d9\u30fc\u30b9\u6226\u529b\u5024\u304c\u534a\u5206\u4ee5\u4e0b\u306b\u306a\u308b\u3068\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3",
+      "text": "\u72c2\u6226\u58eb\uff1a\u30d9\u30fc\u30b9\u6226\u529b\u5024\u304c\u534a\u5206\u4ee5\u4e0b\u306b\u306a\u308b\u3068\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3"
+    },
+    "ko-KR": {
+      "raw": "<#600101>\uad11\ubd84</color>: \uc774 \uc720\ub2db\uc758 \uae30\ubcf8 \uc804\ub825\uc774 \uc808\ubc18 \uc774\ud558\uac00 \ub420 \ub54c\ub9c8\ub2e4 \uc774 \ub2a5\ub825\uc744 \ubc1c\ub3d9.",
+      "text": "\uad11\ubd84: \uc774 \uc720\ub2db\uc758 \uae30\ubcf8 \uc804\ub825\uc774 \uc808\ubc18 \uc774\ud558\uac00 \ub420 \ub54c\ub9c8\ub2e4 \uc774 \ub2a5\ub825\uc744 \ubc1c\ub3d9."
+    },
+    "pl-PL": {
+      "raw": "<#600101>Sza\u0142:</color> Aktywuj t\u0119 umiej\u0119tno\u015b\u0107 za ka\u017cdym razem, kiedy bazowa si\u0142a osi\u0105gnie po\u0142ow\u0119 lub mniej.",
+      "text": "Sza\u0142: Aktywuj t\u0119 umiej\u0119tno\u015b\u0107 za ka\u017cdym razem, kiedy bazowa si\u0142a osi\u0105gnie po\u0142ow\u0119 lub mniej."
+    },
+    "pt-BR": {
+      "raw": "<#600101>Frenesi:</color> esta habilidade \u00e9 ativada sempre que o poder b\u00e1sico est\u00e1 na metade ou abaixo dela.",
+      "text": "Frenesi: esta habilidade \u00e9 ativada sempre que o poder b\u00e1sico est\u00e1 na metade ou abaixo dela."
+    },
+    "ru-RU": {
+      "raw": "<#600101>\u0411\u0435\u0440\u0441\u0435\u0440\u043a:</color> \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437, \u043a\u043e\u0433\u0434\u0430 \u0441\u0438\u043b\u0430 \u044d\u0442\u043e\u0433\u043e \u043e\u0442\u0440\u044f\u0434\u0430 \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u043c\u0435\u043d\u044c\u0448\u0435 \u0438\u043b\u0438 \u0440\u0430\u0432\u043d\u0430 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u0435 \u0435\u0433\u043e \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u0438\u043b\u044b.",
+      "text": "\u0411\u0435\u0440\u0441\u0435\u0440\u043a: \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437, \u043a\u043e\u0433\u0434\u0430 \u0441\u0438\u043b\u0430 \u044d\u0442\u043e\u0433\u043e \u043e\u0442\u0440\u044f\u0434\u0430 \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0441\u044f \u043c\u0435\u043d\u044c\u0448\u0435 \u0438\u043b\u0438 \u0440\u0430\u0432\u043d\u0430 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u0435 \u0435\u0433\u043e \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u0438\u043b\u044b."
+    },
+    "zh-CN": {
+      "raw": "<#600101>\u72c2\u66b4\uff1a</color>\u5f53\u81ea\u8eab\u57fa\u7840\u6218\u529b\u4e0d\u9ad8\u4e8e\u521d\u59cb\u6218\u529b\u4e00\u534a\u65f6\u89e6\u53d1\u3002",
+      "text": "\u72c2\u66b4\uff1a\u5f53\u81ea\u8eab\u57fa\u7840\u6218\u529b\u4e0d\u9ad8\u4e8e\u521d\u59cb\u6218\u529b\u4e00\u534a\u65f6\u89e6\u53d1\u3002"
+    }
+  },
+  "bleeding": {
+    "de-DE": {
+      "raw": "<#600101>Bluten:</color> Statuseffekt, der dieser Einheit am Ende ihres Zugs 1 Schaden zuf\u00fcgt. Hinweis: Blutungsz\u00fcge sind stapelbar; 1 Zug Bluten hebt 1 Zug Vitalit\u00e4t auf.",
+      "text": "Bluten: Statuseffekt, der dieser Einheit am Ende ihres Zugs 1 Schaden zuf\u00fcgt. Hinweis: Blutungsz\u00fcge sind stapelbar; 1 Zug Bluten hebt 1 Zug Vitalit\u00e4t auf."
+    },
+    "en-US": {
+      "raw": "<#600101>Bleeding:</color> Status that damages this unit by 1 on its turn end. Note: Bleeding turns can accumulate; 1 turn of Bleeding cancels out 1 turn of Vitality.",
+      "text": "Bleeding: Status that damages this unit by 1 on its turn end. Note: Bleeding turns can accumulate; 1 turn of Bleeding cancels out 1 turn of Vitality."
+    },
+    "es-ES": {
+      "raw": "<#600101>Sangrado:</color> estado que inflige 1 de da\u00f1o a esta unidad al final de su turno. Atenci\u00f3n: los turnos de sangrado pueden acumularse; 1 turno de sangrado cancela 1 turno de vitalidad.",
+      "text": "Sangrado: estado que inflige 1 de da\u00f1o a esta unidad al final de su turno. Atenci\u00f3n: los turnos de sangrado pueden acumularse; 1 turno de sangrado cancela 1 turno de vitalidad."
+    },
+    "es-MX": {
+      "raw": "<#600101>Sangrado:</color> estado que inflige 1 de da\u00f1o a esta unidad al final de su turno. Nota: los turnos de Sangrado se pueden acumular; 1 turno de Sangrado cancela 1 turno de Vitalidad.",
+      "text": "Sangrado: estado que inflige 1 de da\u00f1o a esta unidad al final de su turno. Nota: los turnos de Sangrado se pueden acumular; 1 turno de Sangrado cancela 1 turno de Vitalidad."
+    },
+    "fr-FR": {
+      "raw": "<#600101>Saignement\u00a0:</color> attribut infligeant 1\u00a0point de d\u00e9g\u00e2ts \u00e0 la pr\u00e9sente unit\u00e9 \u00e0 la fin de son tour. Remarque\u00a0: les tours de Saignement sont cumulables\u00a0; 1\u00a0tour de Saignement annule 1\u00a0tour de Vitalit\u00e9.",
+      "text": "Saignement\u00a0: attribut infligeant 1\u00a0point de d\u00e9g\u00e2ts \u00e0 la pr\u00e9sente unit\u00e9 \u00e0 la fin de son tour. Remarque\u00a0: les tours de Saignement sont cumulables\u00a0; 1\u00a0tour de Saignement annule 1\u00a0tour de Vitalit\u00e9."
+    },
+    "it-IT": {
+      "raw": "<#600101>Sanguinamento:</color> stato che danneggia di 1 l'unit\u00e0 che ne \u00e8 afflitta alla fine del suo turno. Nota: i turni di Sanguinamento sono cumulabili e 1 turno di Sanguinamento annulla 1 turno di Vitalit\u00e0.",
+      "text": "Sanguinamento: stato che danneggia di 1 l'unit\u00e0 che ne \u00e8 afflitta alla fine del suo turno. Nota: i turni di Sanguinamento sono cumulabili e 1 turno di Sanguinamento annulla 1 turno di Vitalit\u00e0."
+    },
+    "ja-JP": {
+      "raw": "<#600101>\u51fa\u8840\uff1a</color>\uff08\u72b6\u614b\uff09\u81ea\u8ecd\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u306b1\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u308b\uff08\u30bf\u30fc\u30f3\u6570\u306f\u7d2f\u7a4d\u3057\u3001\u300c\u51fa\u8840\u300d1\u30bf\u30fc\u30f3\u5206\u306f\u300c\u6d3b\u529b\u300d1\u30bf\u30fc\u30f3\u5206\u306b\u3088\u3063\u3066\u76f8\u6bba\u3055\u308c\u308b\uff09",
+      "text": "\u51fa\u8840\uff1a\uff08\u72b6\u614b\uff09\u81ea\u8ecd\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u306b1\u30c0\u30e1\u30fc\u30b8\u3092\u53d7\u3051\u308b\uff08\u30bf\u30fc\u30f3\u6570\u306f\u7d2f\u7a4d\u3057\u3001\u300c\u51fa\u8840\u300d1\u30bf\u30fc\u30f3\u5206\u306f\u300c\u6d3b\u529b\u300d1\u30bf\u30fc\u30f3\u5206\u306b\u3088\u3063\u3066\u76f8\u6bba\u3055\u308c\u308b\uff09"
+    },
+    "ko-KR": {
+      "raw": "<#600101>\ucd9c\ud608</color>: \ud134\uc744 \uc885\ub8cc\ud560 \ub54c \uc774 \uc720\ub2db\uc5d0 1 \ud53c\ud574\ub97c \uc90c. \ucc38\uace0: \ucd9c\ud608 \ud134\uc740 \ucd95\uc801\ud560 \uc218 \uc788\uc73c\uba70, \ucd9c\ud608 \ud55c \ud134\uc73c\ub85c \ud65c\ub825 \ud55c \ud134\uc744 \ucde8\uc18c\ud560 \uc218 \uc788\uc74c.",
+      "text": "\ucd9c\ud608: \ud134\uc744 \uc885\ub8cc\ud560 \ub54c \uc774 \uc720\ub2db\uc5d0 1 \ud53c\ud574\ub97c \uc90c. \ucc38\uace0: \ucd9c\ud608 \ud134\uc740 \ucd95\uc801\ud560 \uc218 \uc788\uc73c\uba70, \ucd9c\ud608 \ud55c \ud134\uc73c\ub85c \ud65c\ub825 \ud55c \ud134\uc744 \ucde8\uc18c\ud560 \uc218 \uc788\uc74c."
+    },
+    "pl-PL": {
+      "raw": "<#600101>Krwawienie:</color> Status, kt\u00f3ry zadaje jednostce 1 pkt obra\u017ce\u0144 na koniec jej tury. Uwaga: tury krwawienia mog\u0105 si\u0119 kumulowa\u0107; 1 tura krwawienia anuluje 1 tur\u0119 witalno\u015bci.",
+      "text": "Krwawienie: Status, kt\u00f3ry zadaje jednostce 1 pkt obra\u017ce\u0144 na koniec jej tury. Uwaga: tury krwawienia mog\u0105 si\u0119 kumulowa\u0107; 1 tura krwawienia anuluje 1 tur\u0119 witalno\u015bci."
+    },
+    "pt-BR": {
+      "raw": "<#600101>Sangramento:</color> status que causa 1 de dano a esta unidade no fim de seu turno. Observa\u00e7\u00e3o: os turnos sangramento podem acumular; 1 turno de sangramento cancela 1 turno de vitalidade.",
+      "text": "Sangramento: status que causa 1 de dano a esta unidade no fim de seu turno. Observa\u00e7\u00e3o: os turnos sangramento podem acumular; 1 turno de sangramento cancela 1 turno de vitalidade."
+    },
+    "ru-RU": {
+      "raw": "<#600101>\u041a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u0435:</color> \u0432 \u043a\u043e\u043d\u0446\u0435 \u0441\u0432\u043e\u0435\u0433\u043e \u0445\u043e\u0434\u0430 \u043e\u0442\u0440\u044f\u0434 \u0441 \u044d\u0442\u0438\u043c \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 1 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430. \u0423\u0447\u0442\u0438\u0442\u0435, \u0447\u0442\u043e \u0445\u043e\u0434\u044b \u043a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u044f \u043c\u043e\u0436\u043d\u043e \u043d\u0430\u043a\u0430\u043f\u043b\u0438\u0432\u0430\u0442\u044c, \u0430 \u043e\u0434\u0438\u043d \u0445\u043e\u0434 \u043a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u044f \u043e\u0442\u043c\u0435\u043d\u044f\u0435\u0442 \u043e\u0434\u0438\u043d \u0445\u043e\u0434 \u0432\u044b\u043d\u043e\u0441\u043b\u0438\u0432\u043e\u0441\u0442\u0438.",
+      "text": "\u041a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u0435: \u0432 \u043a\u043e\u043d\u0446\u0435 \u0441\u0432\u043e\u0435\u0433\u043e \u0445\u043e\u0434\u0430 \u043e\u0442\u0440\u044f\u0434 \u0441 \u044d\u0442\u0438\u043c \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 1 \u0435\u0434. \u0443\u0440\u043e\u043d\u0430. \u0423\u0447\u0442\u0438\u0442\u0435, \u0447\u0442\u043e \u0445\u043e\u0434\u044b \u043a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u044f \u043c\u043e\u0436\u043d\u043e \u043d\u0430\u043a\u0430\u043f\u043b\u0438\u0432\u0430\u0442\u044c, \u0430 \u043e\u0434\u0438\u043d \u0445\u043e\u0434 \u043a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u044f \u043e\u0442\u043c\u0435\u043d\u044f\u0435\u0442 \u043e\u0434\u0438\u043d \u0445\u043e\u0434 \u0432\u044b\u043d\u043e\u0441\u043b\u0438\u0432\u043e\u0441\u0442\u0438."
+    },
+    "zh-CN": {
+      "raw": "<#600101>\u6d41\u8840\uff1a</color>\u4e00\u79cd\u72b6\u6001\uff0c\u6d41\u8840\u7684\u5355\u4f4d\u5728\u5176\u56de\u5408\u7ed3\u675f\u65f6\u53d7\u5230 1 \u70b9\u4f24\u5bb3\u3002\u63d0\u793a\uff1a\u6d41\u8840\u7684\u56de\u5408\u6570\u53ef\u4ee5\u7d2f\u79ef\uff1b1 \u56de\u5408\u7684\u6d41\u8840\u6548\u679c\u53ef\u4ee5\u62b5\u6d88 1 \u56de\u5408\u7684\u6d3b\u529b\u6548\u679c\u3002",
+      "text": "\u6d41\u8840\uff1a\u4e00\u79cd\u72b6\u6001\uff0c\u6d41\u8840\u7684\u5355\u4f4d\u5728\u5176\u56de\u5408\u7ed3\u675f\u65f6\u53d7\u5230 1 \u70b9\u4f24\u5bb3\u3002\u63d0\u793a\uff1a\u6d41\u8840\u7684\u56de\u5408\u6570\u53ef\u4ee5\u7d2f\u79ef\uff1b1 \u56de\u5408\u7684\u6d41\u8840\u6548\u679c\u53ef\u4ee5\u62b5\u6d88 1 \u56de\u5408\u7684\u6d3b\u529b\u6548\u679c\u3002"
     }
   },
   "bloodthirst": {
@@ -307,8 +445,8 @@
       "text": "Sete di sangue: il numero di unit\u00e0 nemiche danneggiate necessario ad attivare questa abilit\u00e0."
     },
     "ja-JP": {
-      "raw": "<#600101>\u72c2\u9a12\uff1a</color>\u30c0\u30e1\u30fc\u30b8\u3092\u8ca0\u3063\u3066\u3044\u308b\u6575\u8ecd\u30e6\u30cb\u30c3\u30c8\u304c\u4e00\u5b9a\u6570\u3044\u306a\u3044\u3068\u767a\u52d5\u3057\u306a\u3044\u30a2\u30d3\u30ea\u30c6\u30a3\uff08\u62ec\u5f27\u5185\u306e\u6570\u5b57\u306f\u5fc5\u8981\u306a\u6575\u8ecd\u30e6\u30cb\u30c3\u30c8\u6570\uff09",
-      "text": "\u72c2\u9a12\uff1a\u30c0\u30e1\u30fc\u30b8\u3092\u8ca0\u3063\u3066\u3044\u308b\u6575\u8ecd\u30e6\u30cb\u30c3\u30c8\u304c\u4e00\u5b9a\u6570\u3044\u306a\u3044\u3068\u767a\u52d5\u3057\u306a\u3044\u30a2\u30d3\u30ea\u30c6\u30a3\uff08\u62ec\u5f27\u5185\u306e\u6570\u5b57\u306f\u5fc5\u8981\u306a\u6575\u8ecd\u30e6\u30cb\u30c3\u30c8\u6570\uff09"
+      "raw": "<#600101>\u72c2\u9a12\uff1a</color>\u30c0\u30e1\u30fc\u30b8\u3092\u8ca0\u3063\u3066\u3044\u308b\u6575\u8ecd\u30e6\u30cb\u30c3\u30c8\u304c\u4e00\u5b9a\u6570\u3044\u308b\u3068\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3\uff08\u62ec\u5f27\u5185\u306e\u6570\u5b57\u306f\u5fc5\u8981\u306a\u6575\u8ecd\u30e6\u30cb\u30c3\u30c8\u6570\uff09",
+      "text": "\u72c2\u9a12\uff1a\u30c0\u30e1\u30fc\u30b8\u3092\u8ca0\u3063\u3066\u3044\u308b\u6575\u8ecd\u30e6\u30cb\u30c3\u30c8\u304c\u4e00\u5b9a\u6570\u3044\u308b\u3068\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3\uff08\u62ec\u5f27\u5185\u306e\u6570\u5b57\u306f\u5fc5\u8981\u306a\u6575\u8ecd\u30e6\u30cb\u30c3\u30c8\u6570\uff09"
     },
     "ko-KR": {
       "raw": "<#600101>\ud53c\uc758 \uad76\uc8fc\ub9bc</color>: \uc774 \ub2a5\ub825\uc740 \ud53c\ud574\ubc1b\uc740 \uc801\uad70\uc774 \uc9c0\uc815\ub41c \uc218 \uc774\uc0c1 \uc874\uc7ac\ud574\uc57c \ubc1c\ub3d9 \uac00\ub2a5.",
@@ -337,52 +475,52 @@
   },
   "bond": {
     "de-DE": {
-      "raw": "<#600101>Bindung:</color> Diese F\u00e4higkeit wird immer dann ausgel\u00f6st, wenn eine Kopie dieser Einheit auf derselben Seite ausgespielt wird.",
-      "text": "Bindung: Diese F\u00e4higkeit wird immer dann ausgel\u00f6st, wenn eine Kopie dieser Einheit auf derselben Seite ausgespielt wird."
+      "raw": "<#600101>Bindung:</color> Diese F\u00e4higkeit wird ausgel\u00f6st, wenn du die Kontrolle \u00fcber eine Kopie dieser Karte hast.",
+      "text": "Bindung: Diese F\u00e4higkeit wird ausgel\u00f6st, wenn du die Kontrolle \u00fcber eine Kopie dieser Karte hast."
     },
     "en-US": {
       "raw": "<#600101>Bonded:</color> Trigger this ability if you control a copy of this card.",
       "text": "Bonded: Trigger this ability if you control a copy of this card."
     },
     "es-ES": {
-      "raw": "<#600101>V\u00ednculo:</color> activa esta habilidad cada vez que se juegue una copia de esta unidad en el mismo lado.",
-      "text": "V\u00ednculo: activa esta habilidad cada vez que se juegue una copia de esta unidad en el mismo lado."
+      "raw": "<#600101>Vinculado:</color> activa esta habilidad si controlas una copia de esta carta.",
+      "text": "Vinculado: activa esta habilidad si controlas una copia de esta carta."
     },
     "es-MX": {
-      "raw": "<#600101>V\u00ednculo:</color> Activa esta habilidad cada vez que se juega una copia de esta unidad en el mismo lado.",
-      "text": "V\u00ednculo: Activa esta habilidad cada vez que se juega una copia de esta unidad en el mismo lado."
+      "raw": "<#600101>V\u00ednculo:</color> activa esta habilidad si controlas una copia de esta carta.",
+      "text": "V\u00ednculo: activa esta habilidad si controlas una copia de esta carta."
     },
     "fr-FR": {
-      "raw": "<#600101>Lien\u00a0:</color> d\u00e9clencher cette capacit\u00e9 chaque fois qu'une copie de la pr\u00e9sente unit\u00e9 est jou\u00e9e du m\u00eame c\u00f4t\u00e9.",
-      "text": "Lien\u00a0: d\u00e9clencher cette capacit\u00e9 chaque fois qu'une copie de la pr\u00e9sente unit\u00e9 est jou\u00e9e du m\u00eame c\u00f4t\u00e9."
+      "raw": "<#600101>Lien\u00a0:</color> d\u00e9clencher cette capacit\u00e9 si vous contr\u00f4lez un exemplaire de la pr\u00e9sente carte.",
+      "text": "Lien\u00a0: d\u00e9clencher cette capacit\u00e9 si vous contr\u00f4lez un exemplaire de la pr\u00e9sente carte."
     },
     "it-IT": {
-      "raw": "<#600101>Legame:</color> l'abilit\u00e0 si attiva ogni volta che viene messa in gioco una copia di questa unit\u00e0 nella met\u00e0 di campo in cui si trova.",
-      "text": "Legame: l'abilit\u00e0 si attiva ogni volta che viene messa in gioco una copia di questa unit\u00e0 nella met\u00e0 di campo in cui si trova."
+      "raw": "<#600101>Legame:</color> abilit\u00e0 che si attiva ogni volta che controlli una copia di questa carta.",
+      "text": "Legame: abilit\u00e0 che si attiva ogni volta che controlli una copia di questa carta."
     },
     "ja-JP": {
-      "raw": "<#600101>\u7d50\u675f\uff1a</color>\u3053\u306e\u30e6\u30cb\u30c3\u30c8\u306e\u540c\u540d\u30e6\u30cb\u30c3\u30c8\u304c\u540c\u9663\u306b\u30d7\u30ec\u30a4\u3055\u308c\u308b\u305f\u3073\u3001\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u5b9f\u884c\u3059\u308b",
-      "text": "\u7d50\u675f\uff1a\u3053\u306e\u30e6\u30cb\u30c3\u30c8\u306e\u540c\u540d\u30e6\u30cb\u30c3\u30c8\u304c\u540c\u9663\u306b\u30d7\u30ec\u30a4\u3055\u308c\u308b\u305f\u3073\u3001\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u5b9f\u884c\u3059\u308b"
+      "raw": "<#600101>\u7d50\u675f\uff1a</color> \u81ea\u9663\u306b\u540c\u540d\u30ab\u30fc\u30c9\u304c\u3042\u308b\u5834\u5408\u306b\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3",
+      "text": "\u7d50\u675f\uff1a \u81ea\u9663\u306b\u540c\u540d\u30ab\u30fc\u30c9\u304c\u3042\u308b\u5834\u5408\u306b\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3"
     },
     "ko-KR": {
-      "raw": "<#600101>\uc720\ub300</color>: \uac19\uc740 \uc9c4\uc601\uc5d0\uc11c \uc774 \uc720\ub2db\uacfc \ub3d9\uc77c\ud55c \uc720\ub2db\uc744 \ub0bc \ub54c\ub9c8\ub2e4 \uc774 \ub2a5\ub825\uc774 \ubc1c\ub3d9.",
-      "text": "\uc720\ub300: \uac19\uc740 \uc9c4\uc601\uc5d0\uc11c \uc774 \uc720\ub2db\uacfc \ub3d9\uc77c\ud55c \uc720\ub2db\uc744 \ub0bc \ub54c\ub9c8\ub2e4 \uc774 \ub2a5\ub825\uc774 \ubc1c\ub3d9."
+      "raw": "<#600101>\uc720\ub300</color>: \uc774 \uce74\ub4dc\uac00 \ub0b4 \uc9c4\uc601\uc5d0 \ud55c \uc7a5 \uc788\uc73c\uba74 \uc774 \ub2a5\ub825\uc774 \ubc1c\ub3d9.",
+      "text": "\uc720\ub300: \uc774 \uce74\ub4dc\uac00 \ub0b4 \uc9c4\uc601\uc5d0 \ud55c \uc7a5 \uc788\uc73c\uba74 \uc774 \ub2a5\ub825\uc774 \ubc1c\ub3d9."
     },
     "pl-PL": {
-      "raw": "<#600101>Wi\u0119\u017a:</color> Aktywuje umiej\u0119tno\u015b\u0107 za ka\u017cdym razem, gdy zostanie zagrana kopia tej karty po tej samej stronie.",
-      "text": "Wi\u0119\u017a: Aktywuje umiej\u0119tno\u015b\u0107 za ka\u017cdym razem, gdy zostanie zagrana kopia tej karty po tej samej stronie."
+      "raw": "<#600101>Wi\u0119\u017a:</color> Aktywuj t\u0119 umiej\u0119tno\u015b\u0107, je\u015bli kontrolujesz kopi\u0119 tej karty.",
+      "text": "Wi\u0119\u017a: Aktywuj t\u0119 umiej\u0119tno\u015b\u0107, je\u015bli kontrolujesz kopi\u0119 tej karty."
     },
     "pt-BR": {
-      "raw": "<#600101>Elo:</color> esta habilidade \u00e9 ativada cada vez que uma c\u00f3pia desta unidade \u00e9 usada no mesmo lado.",
-      "text": "Elo: esta habilidade \u00e9 ativada cada vez que uma c\u00f3pia desta unidade \u00e9 usada no mesmo lado."
+      "raw": "<#600101>Elo:</color> esta habilidade \u00e9 ativada se voc\u00ea controlar uma c\u00f3pia desta carta.",
+      "text": "Elo: esta habilidade \u00e9 ativada se voc\u00ea controlar uma c\u00f3pia desta carta."
     },
     "ru-RU": {
-      "raw": "<#600101>\u0412\u0437\u0430\u0438\u043c\u043e\u0441\u0432\u044f\u0437\u044c:</color> \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437, \u043a\u043e\u0433\u0434\u0430 \u043d\u0430 \u0442\u043e\u0439 \u0436\u0435 \u0441\u0442\u043e\u0440\u043e\u043d\u0435 \u043f\u043e\u043b\u044f \u0438\u0433\u0440\u0430\u044e\u0442 \u043a\u043e\u043f\u0438\u044e \u044d\u0442\u043e\u0433\u043e \u043e\u0442\u0440\u044f\u0434\u0430.",
-      "text": "\u0412\u0437\u0430\u0438\u043c\u043e\u0441\u0432\u044f\u0437\u044c: \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437, \u043a\u043e\u0433\u0434\u0430 \u043d\u0430 \u0442\u043e\u0439 \u0436\u0435 \u0441\u0442\u043e\u0440\u043e\u043d\u0435 \u043f\u043e\u043b\u044f \u0438\u0433\u0440\u0430\u044e\u0442 \u043a\u043e\u043f\u0438\u044e \u044d\u0442\u043e\u0433\u043e \u043e\u0442\u0440\u044f\u0434\u0430."
+      "raw": "<#600101>\u0412\u0437\u0430\u0438\u043c\u043e\u0441\u0432\u044f\u0437\u044c:</color> \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f, \u0435\u0441\u043b\u0438 \u0432 \u0432\u0430\u0448\u0435\u043c \u0440\u0430\u0441\u043f\u043e\u0440\u044f\u0436\u0435\u043d\u0438\u0438 \u043a\u043e\u043f\u0438\u044f \u044d\u0442\u043e\u0439 \u043a\u0430\u0440\u0442\u044b.",
+      "text": "\u0412\u0437\u0430\u0438\u043c\u043e\u0441\u0432\u044f\u0437\u044c: \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f, \u0435\u0441\u043b\u0438 \u0432 \u0432\u0430\u0448\u0435\u043c \u0440\u0430\u0441\u043f\u043e\u0440\u044f\u0436\u0435\u043d\u0438\u0438 \u043a\u043e\u043f\u0438\u044f \u044d\u0442\u043e\u0439 \u043a\u0430\u0440\u0442\u044b."
     },
     "zh-CN": {
-      "raw": "<#600101>\u4f1a\u5e08\uff1a</color>\u6bcf\u5f53\u6709\u540c\u540d\u724c\u88ab\u6253\u51fa\u5728\u540c\u4fa7\u6218\u573a\u65f6\u89e6\u53d1\u3002",
-      "text": "\u4f1a\u5e08\uff1a\u6bcf\u5f53\u6709\u540c\u540d\u724c\u88ab\u6253\u51fa\u5728\u540c\u4fa7\u6218\u573a\u65f6\u89e6\u53d1\u3002"
+      "raw": "<#600101>\u4f1a\u5e08\uff1a</color>\u5df1\u65b9\u63a7\u5236\u6b64\u724c\u7684\u540c\u540d\u724c\u65f6\u89e6\u53d1\u3002",
+      "text": "\u4f1a\u5e08\uff1a\u5df1\u65b9\u63a7\u5236\u6b64\u724c\u7684\u540c\u540d\u724c\u65f6\u89e6\u53d1\u3002"
     },
     "zh-TW": {
       "raw": "<#600101>\u60c5\u8abc\uff1a</color>\u6bcf\u7576\u6211\u65b9\u6253\u51fa\u6b64\u55ae\u4f4d\u724c\u7684\u540c\u540d\u724c\u6642\uff0c\u91cd\u65b0\u89f8\u767c\u4e00\u6b21\u80fd\u529b\u3002",
@@ -390,9 +528,57 @@
     }
   },
   "bonded": {
+    "de-DE": {
+      "raw": "<#600101>Bindung:</color> Diese F\u00e4higkeit wird ausgel\u00f6st, wenn eine Kopie dieser Einheit auf dem Schlachtfeld ist.",
+      "text": "Bindung: Diese F\u00e4higkeit wird ausgel\u00f6st, wenn eine Kopie dieser Einheit auf dem Schlachtfeld ist."
+    },
     "en-US": {
-      "raw": "<#600101>Bonded:</color> If there is a copy of this unit on the battlefield.",
-      "text": "Bonded: If there is a copy of this unit on the battlefield."
+      "raw": "<#600101>Bonded:</color> Trigger this ability if you control a copy of this card.",
+      "text": "Bonded: Trigger this ability if you control a copy of this card."
+    },
+    "es-ES": {
+      "raw": "<#600101>Vinculado:</color> activa esta habilidad si controlas una copia de esta carta.",
+      "text": "Vinculado: activa esta habilidad si controlas una copia de esta carta."
+    },
+    "es-MX": {
+      "raw": "<#600101>V\u00ednculo</color> activa esta habilidad si controlas una copia de esta carta.",
+      "text": "V\u00ednculo activa esta habilidad si controlas una copia de esta carta."
+    },
+    "fr-FR": {
+      "raw": "<#600101>Lien\u00a0:</color> d\u00e9clencher cette capacit\u00e9 si vous contr\u00f4lez un exemplaire de la pr\u00e9sente carte.",
+      "text": "Lien\u00a0: d\u00e9clencher cette capacit\u00e9 si vous contr\u00f4lez un exemplaire de la pr\u00e9sente carte."
+    },
+    "it-IT": {
+      "raw": "<#600101>Legame:</color> abilit\u00e0 che si attiva ogni volta che controlli una copia di questa carta.",
+      "text": "Legame: abilit\u00e0 che si attiva ogni volta che controlli una copia di questa carta."
+    },
+    "ja-JP": {
+      "raw": "<#600101>\u7d50\u675f\uff1a</color> \u81ea\u9663\u306b\u540c\u540d\u30ab\u30fc\u30c9\u304c\u3042\u308b\u5834\u5408\u306b\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3",
+      "text": "\u7d50\u675f\uff1a \u81ea\u9663\u306b\u540c\u540d\u30ab\u30fc\u30c9\u304c\u3042\u308b\u5834\u5408\u306b\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3"
+    },
+    "ko-KR": {
+      "raw": "<#600101>\uc720\ub300</color>: \uc774 \uce74\ub4dc\uac00 \ub0b4 \uc9c4\uc601\uc5d0 \ud55c \uc7a5 \uc788\uc73c\uba74 \uc774 \ub2a5\ub825\uc774 \ubc1c\ub3d9.",
+      "text": "\uc720\ub300: \uc774 \uce74\ub4dc\uac00 \ub0b4 \uc9c4\uc601\uc5d0 \ud55c \uc7a5 \uc788\uc73c\uba74 \uc774 \ub2a5\ub825\uc774 \ubc1c\ub3d9."
+    },
+    "pl-PL": {
+      "raw": "<#600101>Wi\u0119\u017a:</color> Aktywuj t\u0119 umiej\u0119tno\u015b\u0107, je\u015bli kontrolujesz egzemplarz tej karty.",
+      "text": "Wi\u0119\u017a: Aktywuj t\u0119 umiej\u0119tno\u015b\u0107, je\u015bli kontrolujesz egzemplarz tej karty."
+    },
+    "pt-BR": {
+      "raw": "<#600101>Elo:</color> aciona esta habilidade se voc\u00ea controla uma c\u00f3pia desta carta.",
+      "text": "Elo: aciona esta habilidade se voc\u00ea controla uma c\u00f3pia desta carta."
+    },
+    "ru-RU": {
+      "raw": "<#600101>\u0412\u0437\u0430\u0438\u043c\u043e\u0441\u0432\u044f\u0437\u044c:</color> \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f, \u0435\u0441\u043b\u0438 \u0432 \u0432\u0430\u0448\u0435\u043c \u0440\u0430\u0441\u043f\u043e\u0440\u044f\u0436\u0435\u043d\u0438\u0438 \u043a\u043e\u043f\u0438\u044f \u044d\u0442\u043e\u0439 \u043a\u0430\u0440\u0442\u044b.",
+      "text": "\u0412\u0437\u0430\u0438\u043c\u043e\u0441\u0432\u044f\u0437\u044c: \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f, \u0435\u0441\u043b\u0438 \u0432 \u0432\u0430\u0448\u0435\u043c \u0440\u0430\u0441\u043f\u043e\u0440\u044f\u0436\u0435\u043d\u0438\u0438 \u043a\u043e\u043f\u0438\u044f \u044d\u0442\u043e\u0439 \u043a\u0430\u0440\u0442\u044b."
+    },
+    "zh-CN": {
+      "raw": "<#600101>\u4f1a\u5e08\uff1a</color>\u5df1\u65b9\u63a7\u5236\u6b64\u724c\u7684\u540c\u540d\u724c\u65f6\u89e6\u53d1\u3002",
+      "text": "\u4f1a\u5e08\uff1a\u5df1\u65b9\u63a7\u5236\u6b64\u724c\u7684\u540c\u540d\u724c\u65f6\u89e6\u53d1\u3002"
+    },
+    "zh-TW": {
+      "raw": "<#600101>\u60c5\u8abc\uff1a</color>\u6bcf\u7576\u6211\u65b9\u6253\u51fa\u6b64\u55ae\u4f4d\u724c\u7684\u540c\u540d\u724c\u6642\uff0c\u91cd\u65b0\u89f8\u767c\u4e00\u6b21\u80fd\u529b\u3002",
+      "text": "\u60c5\u8abc\uff1a\u6bcf\u7576\u6211\u65b9\u6253\u51fa\u6b64\u55ae\u4f4d\u724c\u7684\u540c\u540d\u724c\u6642\uff0c\u91cd\u65b0\u89f8\u767c\u4e00\u6b21\u80fd\u529b\u3002"
     }
   },
   "boon": {
@@ -583,8 +769,8 @@
       "text": "Coraggio: l'abilit\u00e0 si attiva se l'avversario sta vincendo il round attuale (calcolato dopo aver messo in gioco questa unit\u00e0 ed eventuali unit\u00e0 evocate)."
     },
     "ja-JP": {
-      "raw": "<#600101>\u52c7\u6562\uff1a</color>\u73fe\u5728\u306e\u30e9\u30a6\u30f3\u30c9\u306b\u304a\u3044\u3066\u3001\u3053\u306e\u30e6\u30cb\u30c3\u30c8\u306e\u6226\u529b\u5024\u3092\u52a0\u7b97\u3057\u3066\u3082\u306a\u304a\u5bfe\u6226\u76f8\u624b\u304c\u512a\u52e2\u306e\u3068\u304d\u3001\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u5b9f\u884c\u3059\u308b",
-      "text": "\u52c7\u6562\uff1a\u73fe\u5728\u306e\u30e9\u30a6\u30f3\u30c9\u306b\u304a\u3044\u3066\u3001\u3053\u306e\u30e6\u30cb\u30c3\u30c8\u306e\u6226\u529b\u5024\u3092\u52a0\u7b97\u3057\u3066\u3082\u306a\u304a\u5bfe\u6226\u76f8\u624b\u304c\u512a\u52e2\u306e\u3068\u304d\u3001\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u5b9f\u884c\u3059\u308b"
+      "raw": "<#600101>\u52c7\u6562\uff1a</color>\u73fe\u5728\u306e\u30e9\u30a6\u30f3\u30c9\u306b\u304a\u3044\u3066\u3001\u3053\u306e\u30e6\u30cb\u30c3\u30c8\u306e\u6226\u529b\u5024\u3092\u52a0\u7b97\u3057\u3066\u3082\u306a\u304a\u5bfe\u6226\u76f8\u624b\u304c\u512a\u52e2\u306e\u3068\u304d\u306b\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3",
+      "text": "\u52c7\u6562\uff1a\u73fe\u5728\u306e\u30e9\u30a6\u30f3\u30c9\u306b\u304a\u3044\u3066\u3001\u3053\u306e\u30e6\u30cb\u30c3\u30c8\u306e\u6226\u529b\u5024\u3092\u52a0\u7b97\u3057\u3066\u3082\u306a\u304a\u5bfe\u6226\u76f8\u624b\u304c\u512a\u52e2\u306e\u3068\u304d\u306b\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3"
     },
     "ko-KR": {
       "raw": "<#600101>\uc6a9\ub9f9</color>: \uc774 \uc720\ub2db\uc744 \ub0b8 \ud6c4\uc5d0\ub3c4 \uc0c1\ub300\uc758 \ucd1d \uc804\ub825\uc774 \ub354 \ub192\uc744 \ub54c \ubc1c\ub3d9\ud558\ub294 \ub2a5\ub825. (\uc774 \uc720\ub2db\uc5d0 \uc758\ud574 \ucd94\uac00\ub85c \uc0dd\uc131\ub41c \uc720\ub2db\ub3c4 \ud3ec\ud568\ud558\uc5ec \uacc4\uc0b0)",
@@ -1069,8 +1255,8 @@
       "text": "Codardia: l'abilit\u00e0 si attiva se l'avversario sta perdendo il round attuale."
     },
     "ja-JP": {
-      "raw": "<#600101>\u81c6\u75c5\uff1a</color>\u73fe\u5728\u306e\u30e9\u30a6\u30f3\u30c9\u306b\u304a\u3044\u3066\u3001\u3053\u306e\u30e6\u30cb\u30c3\u30c8\u306e\u6226\u529b\u5024\u3092\u52a0\u7b97\u3057\u3066\u3082\u306a\u304a\u5bfe\u6226\u76f8\u624b\u304c\u52a3\u52e2\u306e\u3068\u304d\u3001\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u5b9f\u884c\u3059\u308b",
-      "text": "\u81c6\u75c5\uff1a\u73fe\u5728\u306e\u30e9\u30a6\u30f3\u30c9\u306b\u304a\u3044\u3066\u3001\u3053\u306e\u30e6\u30cb\u30c3\u30c8\u306e\u6226\u529b\u5024\u3092\u52a0\u7b97\u3057\u3066\u3082\u306a\u304a\u5bfe\u6226\u76f8\u624b\u304c\u52a3\u52e2\u306e\u3068\u304d\u3001\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u5b9f\u884c\u3059\u308b"
+      "raw": "<#600101>\u81c6\u75c5\uff1a</color>\u73fe\u5728\u306e\u30e9\u30a6\u30f3\u30c9\u306b\u304a\u3044\u3066\u3001\u3053\u306e\u30e6\u30cb\u30c3\u30c8\u306e\u6226\u529b\u5024\u3092\u52a0\u7b97\u3057\u3066\u3082\u306a\u304a\u5bfe\u6226\u76f8\u624b\u304c\u52a3\u52e2\u306e\u3068\u304d\u306b\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3",
+      "text": "\u81c6\u75c5\uff1a\u73fe\u5728\u306e\u30e9\u30a6\u30f3\u30c9\u306b\u304a\u3044\u3066\u3001\u3053\u306e\u30e6\u30cb\u30c3\u30c8\u306e\u6226\u529b\u5024\u3092\u52a0\u7b97\u3057\u3066\u3082\u306a\u304a\u5bfe\u6226\u76f8\u624b\u304c\u52a3\u52e2\u306e\u3068\u304d\u306b\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3"
     },
     "ko-KR": {
       "raw": "<#600101>\ube44\uac81</color>: \uc0c1\ub300\uc758 \ucd1d \uc804\ub825\uc774 \ub354 \ub0ae\uc73c\uba74 \uc774 \ub2a5\ub825\uc774 \ubc1c\ub3d9.",
@@ -1099,52 +1285,52 @@
   },
   "create": {
     "de-DE": {
-      "raw": "<#600101>Erschaffen:</color> Generiere eine von drei zuf\u00e4llig ausgew\u00e4hlten Karten mit der festgelegten Herkunft und spiele sie aus.",
-      "text": "Erschaffen: Generiere eine von drei zuf\u00e4llig ausgew\u00e4hlten Karten mit der festgelegten Herkunft und spiele sie aus."
+      "raw": "<#600101>Erschaffen:</color> Generiere eine von drei zuf\u00e4llig gew\u00e4hlten Karten mit der festgelegten Herkunft.",
+      "text": "Erschaffen: Generiere eine von drei zuf\u00e4llig gew\u00e4hlten Karten mit der festgelegten Herkunft."
     },
     "en-US": {
-      "raw": "<#600101>Create:</color> Spawn and play one of three randomly selected cards from the specified source.",
-      "text": "Create: Spawn and play one of three randomly selected cards from the specified source."
+      "raw": "<#600101>Create:</color> Spawn one of three randomly selected cards from the specified source.",
+      "text": "Create: Spawn one of three randomly selected cards from the specified source."
     },
     "es-ES": {
-      "raw": "<#600101>Crear:</color> generar y jugar una de tres cartas elegidas al azar de la fuente indicada.",
-      "text": "Crear: generar y jugar una de tres cartas elegidas al azar de la fuente indicada."
+      "raw": "<#600101>Crear:</color> generar una de tres cartas elegidas al azar de la fuente indicada.",
+      "text": "Crear: generar una de tres cartas elegidas al azar de la fuente indicada."
     },
     "es-MX": {
-      "raw": "<#600101>Crea:</color> genera y juega una de tres cartas elegidas al azar de la fuente especificada.",
-      "text": "Crea: genera y juega una de tres cartas elegidas al azar de la fuente especificada."
+      "raw": "<#600101>Crea:</color> genera una de tres cartas elegidas al azar de la fuente especificada.",
+      "text": "Crea: genera una de tres cartas elegidas al azar de la fuente especificada."
     },
     "fr-FR": {
-      "raw": "<#600101>Cr\u00e9er\u00a0:</color> g\u00e9n\u00e9rer et jouer l'une des trois cartes choisies al\u00e9atoirement \u00e0 partir de l'endroit indiqu\u00e9.",
-      "text": "Cr\u00e9er\u00a0: g\u00e9n\u00e9rer et jouer l'une des trois cartes choisies al\u00e9atoirement \u00e0 partir de l'endroit indiqu\u00e9."
+      "raw": "<#600101>Cr\u00e9er\u00a0:</color> g\u00e9n\u00e9rer l'une des trois cartes choisies al\u00e9atoirement \u00e0 partir de l'endroit indiqu\u00e9.",
+      "text": "Cr\u00e9er\u00a0: g\u00e9n\u00e9rer l'une des trois cartes choisies al\u00e9atoirement \u00e0 partir de l'endroit indiqu\u00e9."
     },
     "it-IT": {
-      "raw": "<#600101>Creare:</color> evocare e giocare una fra tre carte scelte a caso dalla fonte specificata.",
-      "text": "Creare: evocare e giocare una fra tre carte scelte a caso dalla fonte specificata."
+      "raw": "<#600101>Creare:</color> evocare una fra tre carte scelte a caso dalla fonte specificata.",
+      "text": "Creare: evocare una fra tre carte scelte a caso dalla fonte specificata."
     },
     "ja-JP": {
-      "raw": "<#600101>\u5165\u624b\uff1a</color>\u6307\u5b9a\u3055\u308c\u305f\u7bc4\u56f2\u5185\u306e\u30ab\u30fc\u30c9\u30d7\u30fc\u30eb\u304b\u3089\u7121\u4f5c\u70ba\u306b\u30ab\u30fc\u30c9\u30923\u679a\u9078\u3073\u3001\u305d\u306e\u3046\u30611\u679a\u3092\u751f\u6210\u3057\u3066\u30d7\u30ec\u30a4\u3059\u308b",
-      "text": "\u5165\u624b\uff1a\u6307\u5b9a\u3055\u308c\u305f\u7bc4\u56f2\u5185\u306e\u30ab\u30fc\u30c9\u30d7\u30fc\u30eb\u304b\u3089\u7121\u4f5c\u70ba\u306b\u30ab\u30fc\u30c9\u30923\u679a\u9078\u3073\u3001\u305d\u306e\u3046\u30611\u679a\u3092\u751f\u6210\u3057\u3066\u30d7\u30ec\u30a4\u3059\u308b"
+      "raw": "<#600101>\u5165\u624b\uff1a</color>\u6307\u5b9a\u3055\u308c\u305f\u7bc4\u56f2\u5185\u306e\u30ab\u30fc\u30c9\u30d7\u30fc\u30eb\u304b\u3089\u7121\u4f5c\u70ba\u306b\u30ab\u30fc\u30c9\u30923\u679a\u9078\u3073\u3001\u305d\u306e\u3046\u30611\u679a\u3092\u751f\u6210\u3059\u308b",
+      "text": "\u5165\u624b\uff1a\u6307\u5b9a\u3055\u308c\u305f\u7bc4\u56f2\u5185\u306e\u30ab\u30fc\u30c9\u30d7\u30fc\u30eb\u304b\u3089\u7121\u4f5c\u70ba\u306b\u30ab\u30fc\u30c9\u30923\u679a\u9078\u3073\u3001\u305d\u306e\u3046\u30611\u679a\u3092\u751f\u6210\u3059\u308b"
     },
     "ko-KR": {
-      "raw": "<#600101>\ucc3d\uc870</color>: \ud574\ub2f9 \ubc94\uc704\uc758 \ubb34\uc791\uc704 \uce74\ub4dc 3\uac1c \uc911 \ud558\ub098\ub97c \uc120\ud0dd\ud558\uc5ec \uc0dd\uc131\ud558\uace0 \ub0b8\ub2e4.",
-      "text": "\ucc3d\uc870: \ud574\ub2f9 \ubc94\uc704\uc758 \ubb34\uc791\uc704 \uce74\ub4dc 3\uac1c \uc911 \ud558\ub098\ub97c \uc120\ud0dd\ud558\uc5ec \uc0dd\uc131\ud558\uace0 \ub0b8\ub2e4."
+      "raw": "<#600101>\ucc3d\uc870</color>: \ud574\ub2f9 \ubc94\uc704\uc758 \ubb34\uc791\uc704 \uce74\ub4dc 3\uc7a5 \uc911 \ud558\ub098\ub97c \uc120\ud0dd\ud558\uc5ec \uc0dd\uc131\ud55c\ub2e4.",
+      "text": "\ucc3d\uc870: \ud574\ub2f9 \ubc94\uc704\uc758 \ubb34\uc791\uc704 \uce74\ub4dc 3\uc7a5 \uc911 \ud558\ub098\ub97c \uc120\ud0dd\ud558\uc5ec \uc0dd\uc131\ud55c\ub2e4."
     },
     "pl-PL": {
-      "raw": "<#600101>Utw\u00f3rz:</color> Stw\u00f3rz i zagraj jedn\u0105 spo\u015br\u00f3d trzech losowo wybranych kart z okre\u015blonego \u017ar\u00f3d\u0142a.",
-      "text": "Utw\u00f3rz: Stw\u00f3rz i zagraj jedn\u0105 spo\u015br\u00f3d trzech losowo wybranych kart z okre\u015blonego \u017ar\u00f3d\u0142a."
+      "raw": "<#600101>Utw\u00f3rz:</color> Stw\u00f3rz jedn\u0105 spo\u015br\u00f3d trzech losowo wybranych kart z okre\u015blonego \u017ar\u00f3d\u0142a.",
+      "text": "Utw\u00f3rz: Stw\u00f3rz jedn\u0105 spo\u015br\u00f3d trzech losowo wybranych kart z okre\u015blonego \u017ar\u00f3d\u0142a."
     },
     "pt-BR": {
-      "raw": "<#600101>Criar:</color> faz surgir e usa uma das tr\u00eas cartas selecionadas aleatoriamente da origem especificada.",
-      "text": "Criar: faz surgir e usa uma das tr\u00eas cartas selecionadas aleatoriamente da origem especificada."
+      "raw": "<#600101>Criar:</color> faz surgir uma das tr\u00eas cartas selecionadas aleatoriamente da origem especificada.",
+      "text": "Criar: faz surgir uma das tr\u00eas cartas selecionadas aleatoriamente da origem especificada."
     },
     "ru-RU": {
-      "raw": "<#600101>\u0421\u043e\u0442\u0432\u043e\u0440\u0438\u0442\u044c</color>: \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0438 \u0441\u044b\u0433\u0440\u0430\u0442\u044c \u043e\u0434\u043d\u0443 \u0438\u0437 \u0442\u0440\u0435\u0445 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u043e \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u044b\u0445 \u043a\u0430\u0440\u0442 \u0438\u0437 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u0433\u043e \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430.",
-      "text": "\u0421\u043e\u0442\u0432\u043e\u0440\u0438\u0442\u044c: \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u0438 \u0441\u044b\u0433\u0440\u0430\u0442\u044c \u043e\u0434\u043d\u0443 \u0438\u0437 \u0442\u0440\u0435\u0445 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u043e \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u044b\u0445 \u043a\u0430\u0440\u0442 \u0438\u0437 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u0433\u043e \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430."
+      "raw": "<#600101>\u0421\u043e\u0442\u0432\u043e\u0440\u0438\u0442\u044c</color>: \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u043e\u0434\u043d\u0443 \u0438\u0437 \u0442\u0440\u0435\u0445 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u043e \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u044b\u0445 \u043a\u0430\u0440\u0442 \u0438\u0437 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u0433\u043e \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430.",
+      "text": "\u0421\u043e\u0442\u0432\u043e\u0440\u0438\u0442\u044c: \u0441\u043e\u0437\u0434\u0430\u0442\u044c \u043e\u0434\u043d\u0443 \u0438\u0437 \u0442\u0440\u0435\u0445 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u043e \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u044b\u0445 \u043a\u0430\u0440\u0442 \u0438\u0437 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u043e\u0433\u043e \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0430."
     },
     "zh-CN": {
-      "raw": "<#600101>\u521b\u9020\uff1a</color>\u4ece\u7279\u5b9a\u5361\u6c60\u4e2d\u968f\u673a\u9009\u62e9 3 \u5f20\u5361\u724c\uff0c\u968f\u540e\u751f\u6210\u5e76\u6253\u51fa\u5176\u4e2d 1 \u5f20\u3002",
-      "text": "\u521b\u9020\uff1a\u4ece\u7279\u5b9a\u5361\u6c60\u4e2d\u968f\u673a\u9009\u62e9 3 \u5f20\u5361\u724c\uff0c\u968f\u540e\u751f\u6210\u5e76\u6253\u51fa\u5176\u4e2d 1 \u5f20\u3002"
+      "raw": "<#600101>\u521b\u9020\uff1a</color>\u4ece\u7279\u5b9a\u5361\u6c60\u4e2d\u968f\u673a\u9009\u62e9 3 \u5f20\u5361\u724c\uff0c\u968f\u540e\u751f\u6210\u5176\u4e2d 1 \u5f20\u3002",
+      "text": "\u521b\u9020\uff1a\u4ece\u7279\u5b9a\u5361\u6c60\u4e2d\u968f\u673a\u9009\u62e9 3 \u5f20\u5361\u724c\uff0c\u968f\u540e\u751f\u6210\u5176\u4e2d 1 \u5f20\u3002"
     },
     "zh-TW": {
       "raw": "<#600101>\u88fd\u9020\uff1a</color>\u5f9e\u7279\u5b9a\u9663\u71df\u53ca\u4e2d\u7acb\u5361\u724c\u4e2d\uff0c\u96a8\u6a5f\u6311\u51fa 3 \u5f35\u55ae\u4f4d\u724c\u4e26\u751f\u6210\u5176\u4e2d 1 \u5f35\uff08\u9664\u975e\u53e6\u5916\u8aaa\u660e\uff09\u3002",
@@ -1393,8 +1579,8 @@
       "text": "Stallo: attiva questa abilit\u00e0 se entrambi i giocatori non hanno passato."
     },
     "ja-JP": {
-      "raw": "<#600101>\u885d\u7a81\uff1a</color>\u3069\u3061\u3089\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3082\u30d1\u30b9\u3057\u3066\u3044\u306a\u3044\u5834\u5408\u3001\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u5b9f\u884c\u3059\u308b",
-      "text": "\u885d\u7a81\uff1a\u3069\u3061\u3089\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3082\u30d1\u30b9\u3057\u3066\u3044\u306a\u3044\u5834\u5408\u3001\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u5b9f\u884c\u3059\u308b"
+      "raw": "<#600101>\u885d\u7a81\uff1a</color>\u3069\u3061\u3089\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3082\u30d1\u30b9\u3057\u3066\u3044\u306a\u3044\u5834\u5408\u306b\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3",
+      "text": "\u885d\u7a81\uff1a\u3069\u3061\u3089\u306e\u30d7\u30ec\u30a4\u30e4\u30fc\u3082\u30d1\u30b9\u3057\u3066\u3044\u306a\u3044\u5834\u5408\u306b\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3"
     },
     "ko-KR": {
       "raw": "<#600101>\ud734\uc804</color>: \ud328\uc2a4\ud55c \ud50c\ub808\uc774\uc5b4\uac00 \uc5c6\uc744 \ub54c\ub9cc \uc774 \ub2a5\ub825\uc774 \ubc1c\ub3d9.",
@@ -1422,59 +1608,103 @@
     }
   },
   "deathblow": {
+    "de-DE": {
+      "raw": "<#600101>Todessto\u00df:</color> Diese F\u00e4higkeit wird ausgel\u00f6st, wenn diese Karte eine Einheit zerst\u00f6rt.",
+      "text": "Todessto\u00df: Diese F\u00e4higkeit wird ausgel\u00f6st, wenn diese Karte eine Einheit zerst\u00f6rt."
+    },
     "en-US": {
       "raw": "<#600101>Deathblow:</color> Trigger this ability if this card destroys a unit.",
       "text": "Deathblow: Trigger this ability if this card destroys a unit."
+    },
+    "es-ES": {
+      "raw": "<#600101>Golpe letal:</color> activa esta habilidad si esta carta destruye a una unidad.",
+      "text": "Golpe letal: activa esta habilidad si esta carta destruye a una unidad."
+    },
+    "es-MX": {
+      "raw": "<#600101>Golpe mortal:</color> activa esta habilidad si esta carta destruye una unidad.",
+      "text": "Golpe mortal: activa esta habilidad si esta carta destruye una unidad."
+    },
+    "fr-FR": {
+      "raw": "<#600101>Coup mortel\u00a0:</color> d\u00e9clencher cette capacit\u00e9 si la pr\u00e9sente carte d\u00e9truit une unit\u00e9.",
+      "text": "Coup mortel\u00a0: d\u00e9clencher cette capacit\u00e9 si la pr\u00e9sente carte d\u00e9truit une unit\u00e9."
+    },
+    "it-IT": {
+      "raw": "<#600101>Colpo di grazia:</color> abilit\u00e0 che si attiva quando questa carta distrugge un'unit\u00e0.",
+      "text": "Colpo di grazia: abilit\u00e0 che si attiva quando questa carta distrugge un'unit\u00e0."
+    },
+    "ja-JP": {
+      "raw": "<#600101>\u8ffd\u6483\uff1a</color> \u3053\u306e\u30ab\u30fc\u30c9\u304c\u30e6\u30cb\u30c3\u30c8\u3092\u7834\u58ca\u3059\u308b\u3068\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3",
+      "text": "\u8ffd\u6483\uff1a \u3053\u306e\u30ab\u30fc\u30c9\u304c\u30e6\u30cb\u30c3\u30c8\u3092\u7834\u58ca\u3059\u308b\u3068\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3"
+    },
+    "ko-KR": {
+      "raw": "<#600101>\uce58\uba85\ud0c0</color>: \uc774 \uce74\ub4dc\uac00 \uc720\ub2db\uc744 \ud30c\uad34\ud558\uba74 \uc774 \ub2a5\ub825\uc774 \ubc1c\ub3d9.",
+      "text": "\uce58\uba85\ud0c0: \uc774 \uce74\ub4dc\uac00 \uc720\ub2db\uc744 \ud30c\uad34\ud558\uba74 \uc774 \ub2a5\ub825\uc774 \ubc1c\ub3d9."
+    },
+    "pl-PL": {
+      "raw": "<#600101>\u015amiertelny cios:</color> Aktywuj t\u0119 umiej\u0119tno\u015b\u0107, je\u015bli ta karta zniszczy\u0142a jednostk\u0119.",
+      "text": "\u015amiertelny cios: Aktywuj t\u0119 umiej\u0119tno\u015b\u0107, je\u015bli ta karta zniszczy\u0142a jednostk\u0119."
+    },
+    "pt-BR": {
+      "raw": "<#600101>Golpe Fatal:</color> acione esta habilidade se esta carta destruir uma unidade.",
+      "text": "Golpe Fatal: acione esta habilidade se esta carta destruir uma unidade."
+    },
+    "ru-RU": {
+      "raw": "<#600101>\u0420\u0430\u0441\u043f\u0440\u0430\u0432\u0430:</color> \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f, \u043a\u043e\u0433\u0434\u0430 \u044d\u0442\u0430 \u043a\u0430\u0440\u0442\u0430 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0430\u0435\u0442 \u043e\u0442\u0440\u044f\u0434.",
+      "text": "\u0420\u0430\u0441\u043f\u0440\u0430\u0432\u0430: \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f, \u043a\u043e\u0433\u0434\u0430 \u044d\u0442\u0430 \u043a\u0430\u0440\u0442\u0430 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0430\u0435\u0442 \u043e\u0442\u0440\u044f\u0434."
+    },
+    "zh-CN": {
+      "raw": "<#600101>\u81f4\u6b7b\uff1a</color>\u6b64\u724c\u6467\u6bc1\u4e00\u4e2a\u5355\u4f4d\u65f6\u89e6\u53d1\u3002",
+      "text": "\u81f4\u6b7b\uff1a\u6b64\u724c\u6467\u6bc1\u4e00\u4e2a\u5355\u4f4d\u65f6\u89e6\u53d1\u3002"
     }
   },
   "deathwish": {
     "de-DE": {
-      "raw": "<#600101>Todeswunsch:</color> Diese F\u00e4higkeit wird ausgel\u00f6st, wenn die Einheit vom Schlachtfeld auf den Friedhof verschoben wird. Hinweis: Verbannte Einheiten werden nicht auf den Friedhof verschoben.",
-      "text": "Todeswunsch: Diese F\u00e4higkeit wird ausgel\u00f6st, wenn die Einheit vom Schlachtfeld auf den Friedhof verschoben wird. Hinweis: Verbannte Einheiten werden nicht auf den Friedhof verschoben."
+      "raw": "<#600101>Todeswunsch:</color> Diese F\u00e4higkeit wird ausgel\u00f6st, wenn die Karte zerst\u00f6rt wird.",
+      "text": "Todeswunsch: Diese F\u00e4higkeit wird ausgel\u00f6st, wenn die Karte zerst\u00f6rt wird."
     },
     "en-US": {
-      "raw": "<#600101>Deathwish:</color> Trigger this ability when moved from the battlefield to the graveyard. Note: Units that are Banished are not sent to the graveyard.",
-      "text": "Deathwish: Trigger this ability when moved from the battlefield to the graveyard. Note: Units that are Banished are not sent to the graveyard."
+      "raw": "<#600101>Deathwish:</color> Trigger this ability when destroyed.",
+      "text": "Deathwish: Trigger this ability when destroyed."
     },
     "es-ES": {
-      "raw": "<#600101>Sue\u00f1o mortal:</color> activa esta habilidad cuando se mueve del campo de batalla al cementerio. Atenci\u00f3n: las unidades que se destierran no se env\u00edan al cementerio.",
-      "text": "Sue\u00f1o mortal: activa esta habilidad cuando se mueve del campo de batalla al cementerio. Atenci\u00f3n: las unidades que se destierran no se env\u00edan al cementerio."
+      "raw": "<#600101>Sue\u00f1o mortal:</color> activa esta habilidad cuando se destruye.",
+      "text": "Sue\u00f1o mortal: activa esta habilidad cuando se destruye."
     },
     "es-MX": {
-      "raw": "<#600101>Agon\u00eda:</color> activa esta habilidad cuando pasa del campo de batalla al cementerio. Nota: las unidades desterradas no se env\u00edan al cementerio.",
-      "text": "Agon\u00eda: activa esta habilidad cuando pasa del campo de batalla al cementerio. Nota: las unidades desterradas no se env\u00edan al cementerio."
+      "raw": "<#600101>Agon\u00eda:</color> activa esta habilidad al destruirse.",
+      "text": "Agon\u00eda: activa esta habilidad al destruirse."
     },
     "fr-FR": {
-      "raw": "<#600101>Baroud d'honneur\u00a0:</color> d\u00e9clencher cette capacit\u00e9 lorsque la carte est d\u00e9plac\u00e9e du champ de bataille vers le cimeti\u00e8re. Note\u00a0: les unit\u00e9s bannies ne sont pas envoy\u00e9es au cimeti\u00e8re.",
-      "text": "Baroud d'honneur\u00a0: d\u00e9clencher cette capacit\u00e9 lorsque la carte est d\u00e9plac\u00e9e du champ de bataille vers le cimeti\u00e8re. Note\u00a0: les unit\u00e9s bannies ne sont pas envoy\u00e9es au cimeti\u00e8re."
+      "raw": "<#600101>Baroud d'honneur\u00a0:</color> cette capacit\u00e9 se d\u00e9clenche lorsque la carte est d\u00e9truite.",
+      "text": "Baroud d'honneur\u00a0: cette capacit\u00e9 se d\u00e9clenche lorsque la carte est d\u00e9truite."
     },
     "it-IT": {
-      "raw": "<#600101>Ultimo desiderio:</color> l'abilit\u00e0 si attiva quando la carta viene trasferita dal campo di battaglia al cimitero. Nota: le unit\u00e0 bandite non finiscono al cimitero.",
-      "text": "Ultimo desiderio: l'abilit\u00e0 si attiva quando la carta viene trasferita dal campo di battaglia al cimitero. Nota: le unit\u00e0 bandite non finiscono al cimitero."
+      "raw": "<#600101>Ultimo desiderio:</color> abilit\u00e0 che si attiva quando la carta viene distrutta.",
+      "text": "Ultimo desiderio: abilit\u00e0 che si attiva quando la carta viene distrutta."
     },
     "ja-JP": {
-      "raw": "<#600101>\u907a\u8a00\uff1a</color>\u6226\u5834\u304b\u3089\u5893\u5730\u306b\u79fb\u52d5\u3059\u308b\u3068\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3\uff08\u306a\u304a\u3001\u201c\u6d88\u6ec5\u201d\u3057\u305f\u30e6\u30cb\u30c3\u30c8\u306f\u5893\u5730\u306b\u306f\u9001\u3089\u308c\u306a\u3044\uff09",
-      "text": "\u907a\u8a00\uff1a\u6226\u5834\u304b\u3089\u5893\u5730\u306b\u79fb\u52d5\u3059\u308b\u3068\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3\uff08\u306a\u304a\u3001\u201c\u6d88\u6ec5\u201d\u3057\u305f\u30e6\u30cb\u30c3\u30c8\u306f\u5893\u5730\u306b\u306f\u9001\u3089\u308c\u306a\u3044\uff09"
+      "raw": "<#600101>\u907a\u8a00\uff1a</color>\u7834\u58ca\u3055\u308c\u308b\u3068\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3",
+      "text": "\u907a\u8a00\uff1a\u7834\u58ca\u3055\u308c\u308b\u3068\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3"
     },
     "ko-KR": {
-      "raw": "<#600101>\uc720\uc5b8</color>: \uc804\uc7a5\uc5d0\uc11c \ubb34\ub364\uc73c\ub85c \uc774\ub3d9\ud560 \ub54c \ubc1c\ub3d9\ud558\ub294 \ub2a5\ub825. \ube44\uace0: \ucd94\ubc29\ub41c \uc720\ub2db\uc740 \uac8c\uc784\uc5d0\uc11c \uc81c\uac70\ub418\ub2c8 \uc720\uc5b8 \ub2a5\ub825\uc740 \ubc1c\ub3d9\ud558\uc9c0 \uc54a\uc74c.",
-      "text": "\uc720\uc5b8: \uc804\uc7a5\uc5d0\uc11c \ubb34\ub364\uc73c\ub85c \uc774\ub3d9\ud560 \ub54c \ubc1c\ub3d9\ud558\ub294 \ub2a5\ub825. \ube44\uace0: \ucd94\ubc29\ub41c \uc720\ub2db\uc740 \uac8c\uc784\uc5d0\uc11c \uc81c\uac70\ub418\ub2c8 \uc720\uc5b8 \ub2a5\ub825\uc740 \ubc1c\ub3d9\ud558\uc9c0 \uc54a\uc74c."
+      "raw": "<#600101>\uc720\uc5b8</color>: \ud30c\uad34\ub420 \ub54c \uc774 \ub2a5\ub825\uc744 \ubc1c\ub3d9.",
+      "text": "\uc720\uc5b8: \ud30c\uad34\ub420 \ub54c \uc774 \ub2a5\ub825\uc744 \ubc1c\ub3d9."
     },
     "pl-PL": {
-      "raw": "<#600101>Zemsta:</color> Aktywuj t\u0119 umiej\u0119tno\u015b\u0107, gdy karta zostaje przeniesiona z pola bitwy na cmentarz. Uwaga: jednostki, kt\u00f3re zosta\u0142y wygnane, nie s\u0105 wysy\u0142ane na cmentarz.",
-      "text": "Zemsta: Aktywuj t\u0119 umiej\u0119tno\u015b\u0107, gdy karta zostaje przeniesiona z pola bitwy na cmentarz. Uwaga: jednostki, kt\u00f3re zosta\u0142y wygnane, nie s\u0105 wysy\u0142ane na cmentarz."
+      "raw": "<#600101>Zemsta:</color> Aktywuj t\u0119 umiej\u0119tno\u015b\u0107, gdy karta zostanie zniszczona.",
+      "text": "Zemsta: Aktywuj t\u0119 umiej\u0119tno\u015b\u0107, gdy karta zostanie zniszczona."
     },
     "pt-BR": {
-      "raw": "<#600101>Desejo de Morte:</color> esta habilidade \u00e9 ativada quando a carta \u00e9 movida do campo de batalha para a pilha de descarte. Observa\u00e7\u00e3o: unidades banidas n\u00e3o s\u00e3o enviadas para a pilha de descarte.",
-      "text": "Desejo de Morte: esta habilidade \u00e9 ativada quando a carta \u00e9 movida do campo de batalha para a pilha de descarte. Observa\u00e7\u00e3o: unidades banidas n\u00e3o s\u00e3o enviadas para a pilha de descarte."
+      "raw": "<#600101>Desejo de Morte:</color> aciona essa habilidade quando destru\u00edda.",
+      "text": "Desejo de Morte: aciona essa habilidade quando destru\u00edda."
     },
     "ru-RU": {
-      "raw": "<#600101>\u0417\u0430\u0432\u0435\u0449\u0430\u043d\u0438\u0435:</color> \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f, \u043a\u043e\u0433\u0434\u0430 \u043a\u0430\u0440\u0442\u0430 \u0443\u0445\u043e\u0434\u0438\u0442 \u0441 \u043f\u043e\u043b\u044f \u0432 \u0441\u0431\u0440\u043e\u0441. \u0423\u0447\u0442\u0438\u0442\u0435, \u0447\u0442\u043e \u0443\u0434\u0430\u043b\u0435\u043d\u043d\u044b\u0435 \u043e\u0442\u0440\u044f\u0434\u044b \u0432 \u0441\u0431\u0440\u043e\u0441 \u043d\u0435 \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u044f\u044e\u0442\u0441\u044f.",
-      "text": "\u0417\u0430\u0432\u0435\u0449\u0430\u043d\u0438\u0435: \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f, \u043a\u043e\u0433\u0434\u0430 \u043a\u0430\u0440\u0442\u0430 \u0443\u0445\u043e\u0434\u0438\u0442 \u0441 \u043f\u043e\u043b\u044f \u0432 \u0441\u0431\u0440\u043e\u0441. \u0423\u0447\u0442\u0438\u0442\u0435, \u0447\u0442\u043e \u0443\u0434\u0430\u043b\u0435\u043d\u043d\u044b\u0435 \u043e\u0442\u0440\u044f\u0434\u044b \u0432 \u0441\u0431\u0440\u043e\u0441 \u043d\u0435 \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u044f\u044e\u0442\u0441\u044f."
+      "raw": "<#600101>\u0417\u0430\u0432\u0435\u0449\u0430\u043d\u0438\u0435:</color> \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f, \u043a\u043e\u0433\u0434\u0430 \u043a\u0430\u0440\u0442\u0430 \u0441 \u044d\u0442\u043e\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c\u044e \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0430\u0435\u0442\u0441\u044f.",
+      "text": "\u0417\u0430\u0432\u0435\u0449\u0430\u043d\u0438\u0435: \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f, \u043a\u043e\u0433\u0434\u0430 \u043a\u0430\u0440\u0442\u0430 \u0441 \u044d\u0442\u043e\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c\u044e \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0430\u0435\u0442\u0441\u044f."
     },
     "zh-CN": {
-      "raw": "<#600101>\u9057\u613f\uff1a</color>\u4ece\u6218\u573a\u7f6e\u5165\u5893\u573a\u65f6\u89e6\u53d1\u3002\u6ce8\u91ca\uff1a\u88ab\u653e\u9010\u7684\u5355\u4f4d\u4e0d\u4f1a\u88ab\u7f6e\u5165\u5893\u573a\u3002",
-      "text": "\u9057\u613f\uff1a\u4ece\u6218\u573a\u7f6e\u5165\u5893\u573a\u65f6\u89e6\u53d1\u3002\u6ce8\u91ca\uff1a\u88ab\u653e\u9010\u7684\u5355\u4f4d\u4e0d\u4f1a\u88ab\u7f6e\u5165\u5893\u573a\u3002"
+      "raw": "<#600101>\u9057\u613f\uff1a</color>\u88ab\u6467\u6bc1\u65f6\u89e6\u53d1\u3002",
+      "text": "\u9057\u613f\uff1a\u88ab\u6467\u6bc1\u65f6\u89e6\u53d1\u3002"
     },
     "zh-TW": {
       "raw": "<#600101>\u6c42\u6b7b\uff1a</color>\u5f9e\u5834\u4e0a\u79fb\u52d5\u81f3\u5893\u5730\u6642\u4fbf\u6703\u767c\u52d5\u6b64\u80fd\u529b\u3002\u6ce8\u610f\uff1a\u88ab\u9a45\u9010\u7684\u55ae\u4f4d\u724c\u4e0d\u6703\u88ab\u9001\u5f80\u5893\u5730\u3002",
@@ -1685,8 +1915,8 @@
       "text": "Descartar: move uma carta da sua m\u00e3o para a pilha de descarte. Observa\u00e7\u00e3o: habilidades relacionadas n\u00e3o s\u00e3o ativadas quando descartada manualmente."
     },
     "ru-RU": {
-      "raw": "<#600101>\u0421\u0431\u0440\u043e\u0441\u0438\u0442\u044c:</color> \u043f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u044c \u043a\u0430\u0440\u0442\u0443 \u0438\u0437 \u0432\u0430\u0448\u0435\u0439 \u0440\u0443\u043a\u0438 \u0432 \u0441\u0431\u0440\u043e\u0441. \u0415\u0441\u043b\u0438 \u043a\u0430\u0440\u0442\u0430 \u0441\u0431\u0440\u043e\u0448\u0435\u043d\u0430 \u0432\u0440\u0443\u0447\u043d\u0443\u044e, \u0435\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043d\u0435 \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u044e\u0442\u0441\u044f.",
-      "text": "\u0421\u0431\u0440\u043e\u0441\u0438\u0442\u044c: \u043f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u044c \u043a\u0430\u0440\u0442\u0443 \u0438\u0437 \u0432\u0430\u0448\u0435\u0439 \u0440\u0443\u043a\u0438 \u0432 \u0441\u0431\u0440\u043e\u0441. \u0415\u0441\u043b\u0438 \u043a\u0430\u0440\u0442\u0430 \u0441\u0431\u0440\u043e\u0448\u0435\u043d\u0430 \u0432\u0440\u0443\u0447\u043d\u0443\u044e, \u0435\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043d\u0435 \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u044e\u0442\u0441\u044f."
+      "raw": "<#600101>\u0421\u0431\u0440\u043e\u0441\u0438\u0442\u044c:</color> \u043f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u044c \u043a\u0430\u0440\u0442\u0443 \u0438\u0437 \u0432\u0430\u0448\u0435\u0439 \u0440\u0443\u043a\u0438 \u0432 \u0441\u0431\u0440\u043e\u0441. \u0423\u0447\u0442\u0438\u0442\u0435, \u0447\u0442\u043e \u0435\u0441\u043b\u0438 \u043a\u0430\u0440\u0442\u0430 \u0441\u0431\u0440\u043e\u0448\u0435\u043d\u0430 \u0432\u0440\u0443\u0447\u043d\u0443\u044e, \u0435\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043d\u0435 \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u044e\u0442\u0441\u044f.",
+      "text": "\u0421\u0431\u0440\u043e\u0441\u0438\u0442\u044c: \u043f\u0435\u0440\u0435\u043c\u0435\u0441\u0442\u0438\u0442\u044c \u043a\u0430\u0440\u0442\u0443 \u0438\u0437 \u0432\u0430\u0448\u0435\u0439 \u0440\u0443\u043a\u0438 \u0432 \u0441\u0431\u0440\u043e\u0441. \u0423\u0447\u0442\u0438\u0442\u0435, \u0447\u0442\u043e \u0435\u0441\u043b\u0438 \u043a\u0430\u0440\u0442\u0430 \u0441\u0431\u0440\u043e\u0448\u0435\u043d\u0430 \u0432\u0440\u0443\u0447\u043d\u0443\u044e, \u0435\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043d\u0435 \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u044e\u0442\u0441\u044f."
     },
     "zh-CN": {
       "raw": "<#600101>\u4e22\u5f03\uff1a</color>\u5c06\u5361\u724c\u4ece\u624b\u724c\u7f6e\u5165\u5893\u573a\u3002\u63d0\u793a\uff1a\u624b\u52a8\u4e22\u5f03\u5361\u724c\u65f6\uff0c\u76f8\u5173\u6280\u80fd\u65e0\u6cd5\u89e6\u53d1\u3002",
@@ -1698,59 +1928,103 @@
     }
   },
   "dominance": {
+    "de-DE": {
+      "raw": "<#600101>Dominanz:</color> Diese F\u00e4higkeit wird ausgel\u00f6st, wenn du die h\u00f6chste Einheit kontrollierst.",
+      "text": "Dominanz: Diese F\u00e4higkeit wird ausgel\u00f6st, wenn du die h\u00f6chste Einheit kontrollierst."
+    },
     "en-US": {
       "raw": "<#600101>Dominance:</color> Trigger this ability if you control the highest unit.",
       "text": "Dominance: Trigger this ability if you control the highest unit."
+    },
+    "es-ES": {
+      "raw": "<#600101>Dominaci\u00f3n:</color> activa esta habilidad si controlas a la unidad superior.",
+      "text": "Dominaci\u00f3n: activa esta habilidad si controlas a la unidad superior."
+    },
+    "es-MX": {
+      "raw": "<#600101>Dominio:</color> activa esta habilidad si controlas la unidad de mayor poder.",
+      "text": "Dominio: activa esta habilidad si controlas la unidad de mayor poder."
+    },
+    "fr-FR": {
+      "raw": "<#600101>Domination\u00a0:</color> d\u00e9clencher cette capacit\u00e9 si vous contr\u00f4lez l'unit\u00e9 disposant de la force la plus \u00e9lev\u00e9e.",
+      "text": "Domination\u00a0: d\u00e9clencher cette capacit\u00e9 si vous contr\u00f4lez l'unit\u00e9 disposant de la force la plus \u00e9lev\u00e9e."
+    },
+    "it-IT": {
+      "raw": "<#600101>Dominazione:</color> abilit\u00e0 che si attiva se controlli l'unit\u00e0 pi\u00f9 forte.",
+      "text": "Dominazione: abilit\u00e0 che si attiva se controlli l'unit\u00e0 pi\u00f9 forte."
+    },
+    "ja-JP": {
+      "raw": "<#600101>\u652f\u914d\uff1a</color>\u6700\u9ad8\u6226\u529b\u5024\u30e6\u30cb\u30c3\u30c8\u304c\u81ea\u9663\u306b\u3042\u308b\u3068\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3",
+      "text": "\u652f\u914d\uff1a\u6700\u9ad8\u6226\u529b\u5024\u30e6\u30cb\u30c3\u30c8\u304c\u81ea\u9663\u306b\u3042\u308b\u3068\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3"
+    },
+    "ko-KR": {
+      "raw": "<#600101>\uc6b0\uc704</color>: \uc804\ub825\uc774 \uac00\uc7a5 \ub192\uc740 \uc720\ub2db\uc774 \ub0b4 \uc9c4\uc601\uc5d0 \uc788\uc73c\uba74 \uc774 \ub2a5\ub825\uc774 \ubc1c\ub3d9.",
+      "text": "\uc6b0\uc704: \uc804\ub825\uc774 \uac00\uc7a5 \ub192\uc740 \uc720\ub2db\uc774 \ub0b4 \uc9c4\uc601\uc5d0 \uc788\uc73c\uba74 \uc774 \ub2a5\ub825\uc774 \ubc1c\ub3d9."
+    },
+    "pl-PL": {
+      "raw": "<#600101>Dominacja:</color> Aktywuj t\u0119 umiej\u0119tno\u015b\u0107, je\u015bli kontrolujesz najsilniejsz\u0105 jednostk\u0119.",
+      "text": "Dominacja: Aktywuj t\u0119 umiej\u0119tno\u015b\u0107, je\u015bli kontrolujesz najsilniejsz\u0105 jednostk\u0119."
+    },
+    "pt-BR": {
+      "raw": "<#600101>Domin\u00e2ncia:</color> acione esta habilidade se esta unidade controlar a unidade mais alta.",
+      "text": "Domin\u00e2ncia: acione esta habilidade se esta unidade controlar a unidade mais alta."
+    },
+    "ru-RU": {
+      "raw": "<#600101>\u041f\u0440\u0435\u0432\u043e\u0441\u0445\u043e\u0434\u0441\u0442\u0432\u043e:</color> \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f, \u0435\u0441\u043b\u0438 \u0432 \u0432\u0430\u0448\u0435\u043c \u0440\u0430\u0441\u043f\u043e\u0440\u044f\u0436\u0435\u043d\u0438\u0438 \u0441\u0438\u043b\u044c\u043d\u0435\u0439\u0448\u0438\u0439 \u043e\u0442\u0440\u044f\u0434.",
+      "text": "\u041f\u0440\u0435\u0432\u043e\u0441\u0445\u043e\u0434\u0441\u0442\u0432\u043e: \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u0443\u0435\u0442\u0441\u044f, \u0435\u0441\u043b\u0438 \u0432 \u0432\u0430\u0448\u0435\u043c \u0440\u0430\u0441\u043f\u043e\u0440\u044f\u0436\u0435\u043d\u0438\u0438 \u0441\u0438\u043b\u044c\u043d\u0435\u0439\u0448\u0438\u0439 \u043e\u0442\u0440\u044f\u0434."
+    },
+    "zh-CN": {
+      "raw": "<#600101>\u7edf\u5fa1\uff1a</color>\u5df1\u65b9\u63a7\u5236\u6700\u5f3a\u7684\u5355\u4f4d\u65f6\u89e6\u53d1\u3002",
+      "text": "\u7edf\u5fa1\uff1a\u5df1\u65b9\u63a7\u5236\u6700\u5f3a\u7684\u5355\u4f4d\u65f6\u89e6\u53d1\u3002"
     }
   },
   "doomed": {
     "de-DE": {
-      "raw": "<#600101>Verdammt:</color> Statuseffekt, der die Einheit aus dem Spiel entfernt, nachdem sie auf den Friedhof verschoben wurde.",
-      "text": "Verdammt: Statuseffekt, der die Einheit aus dem Spiel entfernt, nachdem sie auf den Friedhof verschoben wurde."
+      "raw": "<#600101>Verdammt:</color> Statuseffekt, der diese Einheit aus dem Spiel entfernt, wenn sie das Schlachtfeld verl\u00e4sst.",
+      "text": "Verdammt: Statuseffekt, der diese Einheit aus dem Spiel entfernt, wenn sie das Schlachtfeld verl\u00e4sst."
     },
     "en-US": {
       "raw": "<#600101>Doomed:</color> Status that removes the unit from the game when it leaves the battlefield.",
       "text": "Doomed: Status that removes the unit from the game when it leaves the battlefield."
     },
     "es-ES": {
-      "raw": "<#600101>Condenado:</color> estado que elimina a la unidad del juego si se mueve al cementerio.",
-      "text": "Condenado: estado que elimina a la unidad del juego si se mueve al cementerio."
+      "raw": "<#600101>Condenado:</color> estado que elimina la unidad del juego cuando abandona el campo de batalla.",
+      "text": "Condenado: estado que elimina la unidad del juego cuando abandona el campo de batalla."
     },
     "es-MX": {
-      "raw": "<#600101>Condenado:</color> estado que elimina una unidad de la partida cuando pasa al cementerio.",
-      "text": "Condenado: estado que elimina una unidad de la partida cuando pasa al cementerio."
+      "raw": "<#600101>Condenado:</color> estado que elimina la unidad de la partida cuando deja el campo de batalla.",
+      "text": "Condenado: estado que elimina la unidad de la partida cuando deja el campo de batalla."
     },
     "fr-FR": {
-      "raw": "<#600101>Condamn\u00e9e\u00a0:</color> attribut qui retire la carte de la partie apr\u00e8s que celle-ci est d\u00e9plac\u00e9e vers le cimeti\u00e8re.",
-      "text": "Condamn\u00e9e\u00a0: attribut qui retire la carte de la partie apr\u00e8s que celle-ci est d\u00e9plac\u00e9e vers le cimeti\u00e8re."
+      "raw": "<#600101>Condamn\u00e9e\u00a0:</color> attribut retirant l'unit\u00e9 de la partie lorsqu'elle quitte le champ de bataille.",
+      "text": "Condamn\u00e9e\u00a0: attribut retirant l'unit\u00e9 de la partie lorsqu'elle quitte le champ de bataille."
     },
     "it-IT": {
-      "raw": "<#600101>Condannata:</color> stato che rimuove l'unit\u00e0 dal gioco quando finisce nel cimitero.",
-      "text": "Condannata: stato che rimuove l'unit\u00e0 dal gioco quando finisce nel cimitero."
+      "raw": "<#600101>Condannata:</color> stato che rimuove l'unit\u00e0 dal gioco quando abbandona il campo di battaglia.",
+      "text": "Condannata: stato che rimuove l'unit\u00e0 dal gioco quando abbandona il campo di battaglia."
     },
     "ja-JP": {
-      "raw": "<#600101>\u7834\u6ec5\uff1a</color>\uff08\u72b6\u614b\uff09\u5893\u5730\u306b\u79fb\u52d5\u3059\u308b\u3068\u30b2\u30fc\u30e0\u304b\u3089\u53d6\u308a\u9664\u304b\u308c\u308b",
-      "text": "\u7834\u6ec5\uff1a\uff08\u72b6\u614b\uff09\u5893\u5730\u306b\u79fb\u52d5\u3059\u308b\u3068\u30b2\u30fc\u30e0\u304b\u3089\u53d6\u308a\u9664\u304b\u308c\u308b"
+      "raw": "<#600101>\u7834\u6ec5\uff1a</color>\uff08\u72b6\u614b\uff09\u6226\u5834\u3092\u96e2\u308c\u308b\u3068\u30b2\u30fc\u30e0\u304b\u3089\u53d6\u308a\u9664\u304b\u308c\u308b",
+      "text": "\u7834\u6ec5\uff1a\uff08\u72b6\u614b\uff09\u6226\u5834\u3092\u96e2\u308c\u308b\u3068\u30b2\u30fc\u30e0\u304b\u3089\u53d6\u308a\u9664\u304b\u308c\u308b"
     },
     "ko-KR": {
-      "raw": "<#600101>\uc18c\uba78</color>: \ubb34\ub364\uc73c\ub85c \uc774\ub3d9\ud558\uba74 \uac8c\uc784\uc5d0\uc11c \uc81c\uac70.",
-      "text": "\uc18c\uba78: \ubb34\ub364\uc73c\ub85c \uc774\ub3d9\ud558\uba74 \uac8c\uc784\uc5d0\uc11c \uc81c\uac70."
+      "raw": "<#600101>\uc18c\uba78</color>: \uc804\uc7a5\uc5d0\uc11c \ub5a0\ub098\uba74 \uac8c\uc784\uc5d0\uc11c \uc81c\uac70.",
+      "text": "\uc18c\uba78: \uc804\uc7a5\uc5d0\uc11c \ub5a0\ub098\uba74 \uac8c\uc784\uc5d0\uc11c \uc81c\uac70."
     },
     "pl-PL": {
-      "raw": "<#600101>Fatum:</color> Ten status usuwa jednostk\u0119 z gry po tym, jak przeniesie si\u0119 na cmentarz.",
-      "text": "Fatum: Ten status usuwa jednostk\u0119 z gry po tym, jak przeniesie si\u0119 na cmentarz."
+      "raw": "<#600101>Fatum:</color> Ten status usuwa jednostk\u0119 z gry, kiedy jednostka ta opu\u015bci pole bitwy.",
+      "text": "Fatum: Ten status usuwa jednostk\u0119 z gry, kiedy jednostka ta opu\u015bci pole bitwy."
     },
     "pt-BR": {
-      "raw": "<#600101>Condenado:</color> status que remove a unidade do jogo depois que ela se move para a pilha de descarte.",
-      "text": "Condenado: status que remove a unidade do jogo depois que ela se move para a pilha de descarte."
+      "raw": "<#600101>Condenado:</color> status que remove a unidade do jogo quando ela deixa o campo de batalha.",
+      "text": "Condenado: status que remove a unidade do jogo quando ela deixa o campo de batalha."
     },
     "ru-RU": {
-      "raw": "<#600101>\u041e\u0431\u0440\u0435\u0447\u0435\u043d\u043d\u043e\u0441\u0442\u044c:</color> \u043e\u0442\u0440\u044f\u0434 \u0441 \u044d\u0442\u0438\u043c \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u0443\u0431\u0438\u0440\u0430\u0435\u0442\u0441\u044f \u0438\u0437 \u0438\u0433\u0440\u044b \u043f\u0440\u0438 \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0438 \u0432 \u0441\u0431\u0440\u043e\u0441.",
-      "text": "\u041e\u0431\u0440\u0435\u0447\u0435\u043d\u043d\u043e\u0441\u0442\u044c: \u043e\u0442\u0440\u044f\u0434 \u0441 \u044d\u0442\u0438\u043c \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u0443\u0431\u0438\u0440\u0430\u0435\u0442\u0441\u044f \u0438\u0437 \u0438\u0433\u0440\u044b \u043f\u0440\u0438 \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0438 \u0432 \u0441\u0431\u0440\u043e\u0441."
+      "raw": "<#600101>\u041e\u0431\u0440\u0435\u0447\u0435\u043d\u043d\u043e\u0441\u0442\u044c:</color> \u043e\u0442\u0440\u044f\u0434 \u0441 \u044d\u0442\u0438\u043c \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u0443\u0431\u0438\u0440\u0430\u0435\u0442\u0441\u044f \u0438\u0437 \u0438\u0433\u0440\u044b \u043f\u043e\u0441\u043b\u0435 \u0443\u0445\u043e\u0434\u0430 \u0441 \u043f\u043e\u043b\u044f \u0431\u043e\u044f.",
+      "text": "\u041e\u0431\u0440\u0435\u0447\u0435\u043d\u043d\u043e\u0441\u0442\u044c: \u043e\u0442\u0440\u044f\u0434 \u0441 \u044d\u0442\u0438\u043c \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u0443\u0431\u0438\u0440\u0430\u0435\u0442\u0441\u044f \u0438\u0437 \u0438\u0433\u0440\u044b \u043f\u043e\u0441\u043b\u0435 \u0443\u0445\u043e\u0434\u0430 \u0441 \u043f\u043e\u043b\u044f \u0431\u043e\u044f."
     },
     "zh-CN": {
-      "raw": "<#600101>\u4f5a\u4ea1\uff1a</color>\u4e00\u79cd\u72b6\u6001\uff0c\u6307\u4ee3\u5355\u4f4d\u88ab\u7f6e\u5165\u5893\u573a\u540e\uff0c\u4f1a\u88ab\u79fb\u51fa\u5bf9\u5c40\u3002",
-      "text": "\u4f5a\u4ea1\uff1a\u4e00\u79cd\u72b6\u6001\uff0c\u6307\u4ee3\u5355\u4f4d\u88ab\u7f6e\u5165\u5893\u573a\u540e\uff0c\u4f1a\u88ab\u79fb\u51fa\u5bf9\u5c40\u3002"
+      "raw": "<#600101>\u4f5a\u4ea1\uff1a</color>\u4e00\u79cd\u72b6\u6001\uff0c\u6307\u4ee3\u8be5\u5355\u4f4d\u79bb\u5f00\u6218\u573a\u540e\uff0c\u4f1a\u88ab\u79fb\u51fa\u5bf9\u5c40\u3002",
+      "text": "\u4f5a\u4ea1\uff1a\u4e00\u79cd\u72b6\u6001\uff0c\u6307\u4ee3\u8be5\u5355\u4f4d\u79bb\u5f00\u6218\u573a\u540e\uff0c\u4f1a\u88ab\u79fb\u51fa\u5bf9\u5c40\u3002"
     },
     "zh-TW": {
       "raw": "<#600101>\u6c23\u6578\u5df2\u76e1\uff1a</color>\u4e00\u7a2e\u72c0\u614b\uff0c\u7576\u55ae\u4f4d\u724c\u79fb\u52d5\u81f3\u5893\u5730\u5f8c\uff0c\u4fbf\u6703\u5f9e\u5c0d\u6230\u4e2d\u79fb\u9664\u3002",
@@ -1999,8 +2273,8 @@
       "text": "Monouso: l'abilit\u00e0 di questa carta pu\u00f2 essere usata una sola volta per partita."
     },
     "ja-JP": {
-      "raw": "<#600101>\u75b2\u52b4\uff1a</color>\u30b2\u30fc\u30e0\u4e2d\u4e00\u5ea6\u3057\u304b\u5b9f\u884c\u3055\u308c\u306a\u3044\u30a2\u30d3\u30ea\u30c6\u30a3",
-      "text": "\u75b2\u52b4\uff1a\u30b2\u30fc\u30e0\u4e2d\u4e00\u5ea6\u3057\u304b\u5b9f\u884c\u3055\u308c\u306a\u3044\u30a2\u30d3\u30ea\u30c6\u30a3"
+      "raw": "<#600101>\u75b2\u52b4\uff1a</color>\u3053\u306e\u30ab\u30fc\u30c9\u306e\u30a2\u30d3\u30ea\u30c6\u30a3\u306f\u30b2\u30fc\u30e0\u4e2d\u4e00\u5ea6\u3057\u304b\u5b9f\u884c\u3055\u308c\u306a\u3044",
+      "text": "\u75b2\u52b4\uff1a\u3053\u306e\u30ab\u30fc\u30c9\u306e\u30a2\u30d3\u30ea\u30c6\u30a3\u306f\u30b2\u30fc\u30e0\u4e2d\u4e00\u5ea6\u3057\u304b\u5b9f\u884c\u3055\u308c\u306a\u3044"
     },
     "ko-KR": {
       "raw": "<#600101>\ub2e8\ubc1c</color>: \uc774 \uce74\ub4dc\uc758 \ub2a5\ub825\uc740 \uac8c\uc784\uc744 \uc9c4\ud589\ud558\ub294 \ub3d9\uc548 \ud55c \ubc88\ub9cc \uc0ac\uc6a9\ud560 \uc218 \uc788\uc74c.",
@@ -2028,9 +2302,53 @@
     }
   },
   "formation": {
+    "de-DE": {
+      "raw": "<#600101>Formation:</color> Bei Ausspielen in der Nahkampfreihe wird Eifer gew\u00e4hrt. Bei Ausspielen in der Fernkampfreihe, verbessere diese Einheit um 1.",
+      "text": "Formation: Bei Ausspielen in der Nahkampfreihe wird Eifer gew\u00e4hrt. Bei Ausspielen in der Fernkampfreihe, verbessere diese Einheit um 1."
+    },
     "en-US": {
       "raw": "<#600101>Formation:</color> If played on the melee row, gain Zeal. If played on the ranged row, boost self by 1.",
       "text": "Formation: If played on the melee row, gain Zeal. If played on the ranged row, boost self by 1."
+    },
+    "es-ES": {
+      "raw": "<#600101>Formaci\u00f3n:</color> si se juega en la fila de combate cuerpo a cuerpo, obtiene fervor. Si se juega en la fila de combate a distancia, se potencia en 1.",
+      "text": "Formaci\u00f3n: si se juega en la fila de combate cuerpo a cuerpo, obtiene fervor. Si se juega en la fila de combate a distancia, se potencia en 1."
+    },
+    "es-MX": {
+      "raw": "<#600101>Formaci\u00f3n:</color> si se juega en la fila de mel\u00e9, obtiene Fervor. Si se juega en la fila a distancia, obtiene 1 de poder.",
+      "text": "Formaci\u00f3n: si se juega en la fila de mel\u00e9, obtiene Fervor. Si se juega en la fila a distancia, obtiene 1 de poder."
+    },
+    "fr-FR": {
+      "raw": "<#600101>Formation\u00a0:</color> la pr\u00e9sente unit\u00e9 re\u00e7oit l'attribut Z\u00e8le si elle est jou\u00e9e sur la ligne de combat rapproch\u00e9 ou est am\u00e9lior\u00e9e de 1\u00a0point si elle est jou\u00e9e sur la ligne de combat \u00e0 distance.",
+      "text": "Formation\u00a0: la pr\u00e9sente unit\u00e9 re\u00e7oit l'attribut Z\u00e8le si elle est jou\u00e9e sur la ligne de combat rapproch\u00e9 ou est am\u00e9lior\u00e9e de 1\u00a0point si elle est jou\u00e9e sur la ligne de combat \u00e0 distance."
+    },
+    "it-IT": {
+      "raw": "<#600101>Formazione:</color> se messa in gioco sulla fila del combattimento corpo a corpo, ottiene Fervore. Se messa in gioco sulla fila del combattimento a distanza, si potenzia di 1.",
+      "text": "Formazione: se messa in gioco sulla fila del combattimento corpo a corpo, ottiene Fervore. Se messa in gioco sulla fila del combattimento a distanza, si potenzia di 1."
+    },
+    "ja-JP": {
+      "raw": "<#600101>\u9663\u5f62\uff1a</color>\u8fd1\u63a5\u5217\u306b\u30d7\u30ec\u30a4\u3055\u308c\u308b\u3068\u300c\u52c7\u8e8d\u300d\u3092\u5f97\u308b\u3002\u9593\u63a5\u5217\u306b\u30d7\u30ec\u30a4\u3055\u308c\u308b\u3068\u30011\u30d6\u30fc\u30b9\u30c8\u3092\u5f97\u308b",
+      "text": "\u9663\u5f62\uff1a\u8fd1\u63a5\u5217\u306b\u30d7\u30ec\u30a4\u3055\u308c\u308b\u3068\u300c\u52c7\u8e8d\u300d\u3092\u5f97\u308b\u3002\u9593\u63a5\u5217\u306b\u30d7\u30ec\u30a4\u3055\u308c\u308b\u3068\u30011\u30d6\u30fc\u30b9\u30c8\u3092\u5f97\u308b"
+    },
+    "ko-KR": {
+      "raw": "<#600101>\ub300\ud615</color>: \uadfc\uc811 \uc804\uc5f4\uc5d0 \ub0b4\uba74 \uc5f4\uc758\ub97c \ud68d\ub4dd. \uc6d0\uac70\ub9ac \uc804\uc5f4\uc5d0 \ub0b4\uba74 \uc2a4\uc2a4\ub85c 1 \uc99d\ud3ed.",
+      "text": "\ub300\ud615: \uadfc\uc811 \uc804\uc5f4\uc5d0 \ub0b4\uba74 \uc5f4\uc758\ub97c \ud68d\ub4dd. \uc6d0\uac70\ub9ac \uc804\uc5f4\uc5d0 \ub0b4\uba74 \uc2a4\uc2a4\ub85c 1 \uc99d\ud3ed."
+    },
+    "pl-PL": {
+      "raw": "<#600101>Formacja:</color> Je\u015bli zagrasz t\u0119 kart\u0119 na rz\u0105d bliskiego starcia, zyskaj Zapa\u0142. Je\u015bli zagrasz t\u0119 kart\u0119 na rz\u0105d dalekiego zasi\u0119gu, wzmocnij t\u0119 jednostk\u0119 o 1.",
+      "text": "Formacja: Je\u015bli zagrasz t\u0119 kart\u0119 na rz\u0105d bliskiego starcia, zyskaj Zapa\u0142. Je\u015bli zagrasz t\u0119 kart\u0119 na rz\u0105d dalekiego zasi\u0119gu, wzmocnij t\u0119 jednostk\u0119 o 1."
+    },
+    "pt-BR": {
+      "raw": "<#600101>Forma\u00e7\u00e3o:</color> se for usada na fileira de combate corpo a corpo, ganha zelo. Se for usada na fileira de longa dist\u00e2ncia, refor\u00e7a a si em 1.",
+      "text": "Forma\u00e7\u00e3o: se for usada na fileira de combate corpo a corpo, ganha zelo. Se for usada na fileira de longa dist\u00e2ncia, refor\u00e7a a si em 1."
+    },
+    "ru-RU": {
+      "raw": "<#600101>\u0421\u0442\u0440\u043e\u0439:</color> \u0434\u043e\u0431\u0430\u0432\u044c\u0442\u0435 \u0440\u0432\u0435\u043d\u0438\u0435 \u044d\u0442\u043e\u0439 \u043a\u0430\u0440\u0442\u0435, \u0435\u0441\u043b\u0438 \u0438\u0433\u0440\u0430\u0435\u0442\u0435 \u0435\u0435 \u0432 \u0440\u0443\u043a\u043e\u043f\u0430\u0448\u043d\u043e\u043c \u0440\u044f\u0434\u0443. \u0415\u0441\u043b\u0438 \u0438\u0433\u0440\u0430\u0435\u0442\u0435 \u0435\u0435 \u0432 \u0434\u0430\u043b\u044c\u043d\u043e\u0431\u043e\u0439\u043d\u043e\u043c \u0440\u044f\u0434\u0443, \u0443\u0441\u0438\u043b\u044c\u0442\u0435 \u044d\u0442\u0443 \u043a\u0430\u0440\u0442\u0443 \u043d\u0430 1 \u0435\u0434.",
+      "text": "\u0421\u0442\u0440\u043e\u0439: \u0434\u043e\u0431\u0430\u0432\u044c\u0442\u0435 \u0440\u0432\u0435\u043d\u0438\u0435 \u044d\u0442\u043e\u0439 \u043a\u0430\u0440\u0442\u0435, \u0435\u0441\u043b\u0438 \u0438\u0433\u0440\u0430\u0435\u0442\u0435 \u0435\u0435 \u0432 \u0440\u0443\u043a\u043e\u043f\u0430\u0448\u043d\u043e\u043c \u0440\u044f\u0434\u0443. \u0415\u0441\u043b\u0438 \u0438\u0433\u0440\u0430\u0435\u0442\u0435 \u0435\u0435 \u0432 \u0434\u0430\u043b\u044c\u043d\u043e\u0431\u043e\u0439\u043d\u043e\u043c \u0440\u044f\u0434\u0443, \u0443\u0441\u0438\u043b\u044c\u0442\u0435 \u044d\u0442\u0443 \u043a\u0430\u0440\u0442\u0443 \u043d\u0430 1 \u0435\u0434."
+    },
+    "zh-CN": {
+      "raw": "<#600101>\u5217\u9635\uff1a</color>\u6253\u51fa\u5728\u8fd1\u6218\u6392\uff0c\u83b7\u5f97\u72c2\u70ed\uff1b\u6253\u51fa\u5728\u8fdc\u7a0b\u6392\uff0c\u81ea\u8eab\u83b7\u5f97 1 \u70b9\u589e\u76ca\u3002",
+      "text": "\u5217\u9635\uff1a\u6253\u51fa\u5728\u8fd1\u6218\u6392\uff0c\u83b7\u5f97\u72c2\u70ed\uff1b\u6253\u51fa\u5728\u8fdc\u7a0b\u6392\uff0c\u81ea\u8eab\u83b7\u5f97 1 \u70b9\u589e\u76ca\u3002"
     }
   },
   "friendly": {
@@ -2167,8 +2485,8 @@
       "text": "Immunit\u00e0: stato per cui questa carta non pu\u00f2 essere un bersaglio."
     },
     "ja-JP": {
-      "raw": "<#600101>\u8010\u6027\uff1a</color>\uff08\u72b6\u614b\uff09\u4efb\u610f\u306e\u30ab\u30fc\u30c9\u3092\u5bfe\u8c61\u3068\u3059\u308b\u30a2\u30d3\u30ea\u30c6\u30a3\u306e\u5bfe\u8c61\u3068\u306a\u3089\u306a\u3044",
-      "text": "\u8010\u6027\uff1a\uff08\u72b6\u614b\uff09\u4efb\u610f\u306e\u30ab\u30fc\u30c9\u3092\u5bfe\u8c61\u3068\u3059\u308b\u30a2\u30d3\u30ea\u30c6\u30a3\u306e\u5bfe\u8c61\u3068\u306a\u3089\u306a\u3044"
+      "raw": "<#600101>\u8010\u6027\uff1a</color>\uff08\u72b6\u614b\uff09\u4efb\u610f\u306e\u30ab\u30fc\u30c9\u3092\u76ee\u6a19\u306b\u53d6\u308b\u30a2\u30d3\u30ea\u30c6\u30a3\u306e\u5bfe\u8c61\u3068\u306a\u3089\u306a\u3044",
+      "text": "\u8010\u6027\uff1a\uff08\u72b6\u614b\uff09\u4efb\u610f\u306e\u30ab\u30fc\u30c9\u3092\u76ee\u6a19\u306b\u53d6\u308b\u30a2\u30d3\u30ea\u30c6\u30a3\u306e\u5bfe\u8c61\u3068\u306a\u3089\u306a\u3044"
     },
     "ko-KR": {
       "raw": "<#600101>\uba74\uc5ed</color>: \ub300\uc0c1\uc73c\ub85c \uc9c0\uc815\ub420 \uc218 \uc5c6\uc74c.",
@@ -2196,9 +2514,53 @@
     }
   },
   "harmony": {
+    "de-DE": {
+      "raw": "<#600101>Harmonie:</color> Verbessere diese Einheit um 1, wann immer du eine Scoia'tael-Einheit mit einzigartiger prim\u00e4rer Kategorie auf deiner Seite ausspielst.",
+      "text": "Harmonie: Verbessere diese Einheit um 1, wann immer du eine Scoia'tael-Einheit mit einzigartiger prim\u00e4rer Kategorie auf deiner Seite ausspielst."
+    },
     "en-US": {
-      "raw": "<#600101>Harmony:</color> Boost self by 1 whenever you play a Scoia'tael unit with a unique primary category.",
-      "text": "Harmony: Boost self by 1 whenever you play a Scoia'tael unit with a unique primary category."
+      "raw": "<#600101>Harmony:</color> Boost self by 1 whenever you play a Scoia'tael unit with a unique primary category on your side.",
+      "text": "Harmony: Boost self by 1 whenever you play a Scoia'tael unit with a unique primary category on your side."
+    },
+    "es-ES": {
+      "raw": "<#600101>Armon\u00eda:</color> se potencia en 1 cada vez que juegas una unidad Scoia'tael con una categor\u00eda principal \u00fanica en tu lado.",
+      "text": "Armon\u00eda: se potencia en 1 cada vez que juegas una unidad Scoia'tael con una categor\u00eda principal \u00fanica en tu lado."
+    },
+    "es-MX": {
+      "raw": "<#600101>Armon\u00eda:</color> recibe 1 de potencia cuando juegas una unidad Scoia'tael con una categor\u00eda primaria \u00fanica en tu lado.",
+      "text": "Armon\u00eda: recibe 1 de potencia cuando juegas una unidad Scoia'tael con una categor\u00eda primaria \u00fanica en tu lado."
+    },
+    "fr-FR": {
+      "raw": "<#600101>Harmonie\u00a0:</color> am\u00e9liorer la pr\u00e9sente unit\u00e9 de 1\u00a0point chaque fois que vous jouez de votre c\u00f4t\u00e9 une unit\u00e9 Scoia'tael ayant une cat\u00e9gorie principale unique.",
+      "text": "Harmonie\u00a0: am\u00e9liorer la pr\u00e9sente unit\u00e9 de 1\u00a0point chaque fois que vous jouez de votre c\u00f4t\u00e9 une unit\u00e9 Scoia'tael ayant une cat\u00e9gorie principale unique."
+    },
+    "it-IT": {
+      "raw": "<#600101>Armonia:</color> si potenzia di 1 ogni volta che metti in gioco un'unit\u00e0 Scoia'tael con una categoria primaria non condivisa con altre nella tua met\u00e0 di campo.",
+      "text": "Armonia: si potenzia di 1 ogni volta che metti in gioco un'unit\u00e0 Scoia'tael con una categoria primaria non condivisa con altre nella tua met\u00e0 di campo."
+    },
+    "ja-JP": {
+      "raw": "<#600101>\u8abf\u548c\uff1a</color>\u3042\u306a\u305f\u304c\u81ea\u9663\u306b\u91cd\u8907\u3057\u306a\u3044\u7b2c1\u30ab\u30c6\u30b4\u30ea\u3092\u6301\u3064\u300e\u30b9\u30b3\u30a4\u30a2\uff1d\u30c6\u30eb\u300f\u30e6\u30cb\u30c3\u30c8\u3092\u30d7\u30ec\u30a4\u3059\u308b\u305f\u3073\u30011\u30d6\u30fc\u30b9\u30c8\u3092\u5f97\u308b",
+      "text": "\u8abf\u548c\uff1a\u3042\u306a\u305f\u304c\u81ea\u9663\u306b\u91cd\u8907\u3057\u306a\u3044\u7b2c1\u30ab\u30c6\u30b4\u30ea\u3092\u6301\u3064\u300e\u30b9\u30b3\u30a4\u30a2\uff1d\u30c6\u30eb\u300f\u30e6\u30cb\u30c3\u30c8\u3092\u30d7\u30ec\u30a4\u3059\u308b\u305f\u3073\u30011\u30d6\u30fc\u30b9\u30c8\u3092\u5f97\u308b"
+    },
+    "ko-KR": {
+      "raw": "<#600101>\uc870\ud654</color>: \ub0b4 \uc9c4\uc601\uc5d0 \uc2a4\ucf54\uc774\uc544\ud154 \uace0\uc720\uc758 \uae30\ubcf8 \uc720\ud615\uc778 \uc720\ub2db\uc744 \ub0bc \ub54c\ub9c8\ub2e4 \uc2a4\uc2a4\ub85c 1 \uc99d\ud3ed.",
+      "text": "\uc870\ud654: \ub0b4 \uc9c4\uc601\uc5d0 \uc2a4\ucf54\uc774\uc544\ud154 \uace0\uc720\uc758 \uae30\ubcf8 \uc720\ud615\uc778 \uc720\ub2db\uc744 \ub0bc \ub54c\ub9c8\ub2e4 \uc2a4\uc2a4\ub85c 1 \uc99d\ud3ed."
+    },
+    "pl-PL": {
+      "raw": "<#600101>Harmonia:</color> Wzmocnij t\u0119 jednostk\u0119 o 1 za ka\u017cdym razem, gdy zagrasz po swojej stronie jednostk\u0119 Scoia'tael z unikatowej kategorii podstawowej.",
+      "text": "Harmonia: Wzmocnij t\u0119 jednostk\u0119 o 1 za ka\u017cdym razem, gdy zagrasz po swojej stronie jednostk\u0119 Scoia'tael z unikatowej kategorii podstawowej."
+    },
+    "pt-BR": {
+      "raw": "<#600101>Harmonia:</color> refor\u00e7a a si em 1 sempre que voc\u00ea usa uma unidade de Scoia'tael com uma categoria principal exclusiva no seu lado.",
+      "text": "Harmonia: refor\u00e7a a si em 1 sempre que voc\u00ea usa uma unidade de Scoia'tael com uma categoria principal exclusiva no seu lado."
+    },
+    "ru-RU": {
+      "raw": "<#600101>\u0413\u0430\u0440\u043c\u043e\u043d\u0438\u044f:</color> \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0449\u0430\u044f \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0442\u044c \u044d\u0442\u043e\u0442 \u043e\u0442\u0440\u044f\u0434 \u043d\u0430 1 \u0435\u0434. \u043a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437, \u043a\u043e\u0433\u0434\u0430 \u0432\u044b \u0438\u0433\u0440\u0430\u0435\u0442\u0435 \u043d\u0430 \u0432\u0430\u0448\u0435\u0439 \u0441\u0442\u043e\u0440\u043e\u043d\u0435 \u043e\u0442\u0440\u044f\u0434 \u0421\u043a\u043e\u044f'\u0442\u0430\u044d\u043b\u0435\u0439 \u0441 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u043e\u0439 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0435\u0439.",
+      "text": "\u0413\u0430\u0440\u043c\u043e\u043d\u0438\u044f: \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0449\u0430\u044f \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0442\u044c \u044d\u0442\u043e\u0442 \u043e\u0442\u0440\u044f\u0434 \u043d\u0430 1 \u0435\u0434. \u043a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437, \u043a\u043e\u0433\u0434\u0430 \u0432\u044b \u0438\u0433\u0440\u0430\u0435\u0442\u0435 \u043d\u0430 \u0432\u0430\u0448\u0435\u0439 \u0441\u0442\u043e\u0440\u043e\u043d\u0435 \u043e\u0442\u0440\u044f\u0434 \u0421\u043a\u043e\u044f'\u0442\u0430\u044d\u043b\u0435\u0439 \u0441 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u043e\u0439 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0439 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0435\u0439."
+    },
+    "zh-CN": {
+      "raw": "<#600101>\u548c\u8c10\uff1a</color>\u6bcf\u5f53\u5df1\u65b9\u5728\u672c\u65b9\u534a\u573a\u6253\u51fa\u4e00\u4e2a\u4e3b\u7c7b\u522b\u552f\u4e00\u7684\u201c\u677e\u9f20\u515a\u201d\u5355\u4f4d\u65f6\uff0c\u81ea\u8eab\u83b7\u5f97 1 \u70b9\u589e\u76ca\u3002",
+      "text": "\u548c\u8c10\uff1a\u6bcf\u5f53\u5df1\u65b9\u5728\u672c\u65b9\u534a\u573a\u6253\u51fa\u4e00\u4e2a\u4e3b\u7c7b\u522b\u552f\u4e00\u7684\u201c\u677e\u9f20\u515a\u201d\u5355\u4f4d\u65f6\uff0c\u81ea\u8eab\u83b7\u5f97 1 \u70b9\u589e\u76ca\u3002"
     }
   },
   "hazard": {
@@ -2473,44 +2835,44 @@
   },
   "immune": {
     "de-DE": {
-      "raw": "<#600101>Immun:</color> Statuseffekt, durch den diese Karte nicht von Hand ins Ziel genommen werden kann.",
-      "text": "Immun: Statuseffekt, durch den diese Karte nicht von Hand ins Ziel genommen werden kann."
+      "raw": "<#600101>Immunit\u00e4t:</color> Statuseffekt, durch den diese Karte nicht von Hand ins Ziel genommen werden kann.",
+      "text": "Immunit\u00e4t: Statuseffekt, durch den diese Karte nicht von Hand ins Ziel genommen werden kann."
     },
     "en-US": {
       "raw": "<#600101>Immunity:</color> Status whereby this card cannot be manually targeted.",
       "text": "Immunity: Status whereby this card cannot be manually targeted."
     },
     "es-ES": {
-      "raw": "<#600101>Inmune:</color> estado que impide que se fije esta carta como objetivo de forma manual.",
-      "text": "Inmune: estado que impide que se fije esta carta como objetivo de forma manual."
+      "raw": "<#600101>Inmunidad:</color> estado que impide que se fije esta carta como objetivo de forma manual.",
+      "text": "Inmunidad: estado que impide que se fije esta carta como objetivo de forma manual."
     },
     "es-MX": {
-      "raw": "<#600101>Inmune:</color> estado que impide que esta carta pueda seleccionarse como objetivo manualmente.",
-      "text": "Inmune: estado que impide que esta carta pueda seleccionarse como objetivo manualmente."
+      "raw": "<#600101>Inmunidad:</color> estado que impide que esta carta pueda seleccionarse como objetivo manualmente.",
+      "text": "Inmunidad: estado que impide que esta carta pueda seleccionarse como objetivo manualmente."
     },
     "fr-FR": {
-      "raw": "<#600101>Invuln\u00e9rable\u00a0:</color> attribut qui permet \u00e0 cette carte de ne pas \u00eatre cibl\u00e9e manuellement.",
-      "text": "Invuln\u00e9rable\u00a0: attribut qui permet \u00e0 cette carte de ne pas \u00eatre cibl\u00e9e manuellement."
+      "raw": "<#600101>Invuln\u00e9rable\u00a0:</color> attribut permettant \u00e0 la pr\u00e9sente carte de ne pas \u00eatre cibl\u00e9e manuellement.",
+      "text": "Invuln\u00e9rable\u00a0: attribut permettant \u00e0 la pr\u00e9sente carte de ne pas \u00eatre cibl\u00e9e manuellement."
     },
     "it-IT": {
       "raw": "<#600101>Immune:</color> stato per cui la carta non pu\u00f2 essere bersagliata manualmente.",
       "text": "Immune: stato per cui la carta non pu\u00f2 essere bersagliata manualmente."
     },
     "ja-JP": {
-      "raw": "<#600101>\u8010\u6027\uff1a</color>\uff08\u72b6\u614b\uff09\u4efb\u610f\u306e\u30ab\u30fc\u30c9\u3092\u5bfe\u8c61\u3068\u3059\u308b\u30a2\u30d3\u30ea\u30c6\u30a3\u306e\u5bfe\u8c61\u3068\u306a\u3089\u306a\u3044",
-      "text": "\u8010\u6027\uff1a\uff08\u72b6\u614b\uff09\u4efb\u610f\u306e\u30ab\u30fc\u30c9\u3092\u5bfe\u8c61\u3068\u3059\u308b\u30a2\u30d3\u30ea\u30c6\u30a3\u306e\u5bfe\u8c61\u3068\u306a\u3089\u306a\u3044"
+      "raw": "<#600101>\u8010\u6027\uff1a</color>\uff08\u72b6\u614b\uff09\u4efb\u610f\u306e\u30ab\u30fc\u30c9\u3092\u76ee\u6a19\u306b\u53d6\u308b\u30a2\u30d3\u30ea\u30c6\u30a3\u306e\u5bfe\u8c61\u3068\u306a\u3089\u306a\u3044",
+      "text": "\u8010\u6027\uff1a\uff08\u72b6\u614b\uff09\u4efb\u610f\u306e\u30ab\u30fc\u30c9\u3092\u76ee\u6a19\u306b\u53d6\u308b\u30a2\u30d3\u30ea\u30c6\u30a3\u306e\u5bfe\u8c61\u3068\u306a\u3089\u306a\u3044"
     },
     "ko-KR": {
-      "raw": "<#600101>\uba74\uc5ed</color>: \ub300\uc0c1\uc73c\ub85c \uc9c0\uc815\ub418\uc9c0 \uc54a\uc74c.",
-      "text": "\uba74\uc5ed: \ub300\uc0c1\uc73c\ub85c \uc9c0\uc815\ub418\uc9c0 \uc54a\uc74c."
+      "raw": "<#600101>\uba74\uc5ed</color>: \ubaa9\ud45c\ub85c \uc9c0\uc815\ub420 \uc218 \uc5c6\uc74c.",
+      "text": "\uba74\uc5ed: \ubaa9\ud45c\ub85c \uc9c0\uc815\ub420 \uc218 \uc5c6\uc74c."
     },
     "pl-PL": {
       "raw": "<#600101>Odporno\u015b\u0107:</color> Ten status uniemo\u017cliwia r\u0119czne branie tej karty na cel.",
       "text": "Odporno\u015b\u0107: Ten status uniemo\u017cliwia r\u0119czne branie tej karty na cel."
     },
     "pt-BR": {
-      "raw": "<#600101>Imune:</color> status que impede que esta carta seja alvo manualmente.",
-      "text": "Imune: status que impede que esta carta seja alvo manualmente."
+      "raw": "<#600101>Imunidade:</color> status que impede que esta carta seja alvo manualmente.",
+      "text": "Imunidade: status que impede que esta carta seja alvo manualmente."
     },
     "ru-RU": {
       "raw": "<#600101>\u041d\u0435\u0443\u044f\u0437\u0432\u0438\u043c\u043e\u0441\u0442\u044c:</color> \u043a\u0430\u0440\u0442\u0443 \u0441 \u044d\u0442\u0438\u043c \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u043d\u0435\u043b\u044c\u0437\u044f \u0432\u0440\u0443\u0447\u043d\u0443\u044e \u0432\u044b\u0431\u0440\u0430\u0442\u044c \u043a\u0430\u043a \u0446\u0435\u043b\u044c.",
@@ -2551,8 +2913,8 @@
       "text": "Comando: l'abilit\u00e0 si attiva quando viene giocata una carta Comandante, prima che ne venga applicato l'effetto."
     },
     "ja-JP": {
-      "raw": "<#600101>\u7d71\u7387\u529b\uff1a</color>\u4f55\u308c\u304b\u306e\u30ea\u30fc\u30c0\u30fc\u30ab\u30fc\u30c9\u304c\u30d7\u30ec\u30a4\u3055\u308c\u308b\u3068\u3001\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u5b9f\u884c\u3059\u308b\uff08\u30ea\u30fc\u30c0\u30fc\u306e\u30a2\u30d3\u30ea\u30c6\u30a3\u3088\u308a\u5148\u306b\u89e3\u6c7a\u3059\u308b\uff09",
-      "text": "\u7d71\u7387\u529b\uff1a\u4f55\u308c\u304b\u306e\u30ea\u30fc\u30c0\u30fc\u30ab\u30fc\u30c9\u304c\u30d7\u30ec\u30a4\u3055\u308c\u308b\u3068\u3001\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u5b9f\u884c\u3059\u308b\uff08\u30ea\u30fc\u30c0\u30fc\u306e\u30a2\u30d3\u30ea\u30c6\u30a3\u3088\u308a\u5148\u306b\u89e3\u6c7a\u3059\u308b\uff09"
+      "raw": "<#600101>\u7d71\u7387\u529b\uff1a</color>\u4f55\u308c\u304b\u306e\u30ea\u30fc\u30c0\u30fc\u30ab\u30fc\u30c9\u304c\u30d7\u30ec\u30a4\u3055\u308c\u308b\u3068\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3\uff08\u30ea\u30fc\u30c0\u30fc\u306e\u30a2\u30d3\u30ea\u30c6\u30a3\u3088\u308a\u5148\u306b\u89e3\u6c7a\u3059\u308b\uff09",
+      "text": "\u7d71\u7387\u529b\uff1a\u4f55\u308c\u304b\u306e\u30ea\u30fc\u30c0\u30fc\u30ab\u30fc\u30c9\u304c\u30d7\u30ec\u30a4\u3055\u308c\u308b\u3068\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3\uff08\u30ea\u30fc\u30c0\u30fc\u306e\u30a2\u30d3\u30ea\u30c6\u30a3\u3088\u308a\u5148\u306b\u89e3\u6c7a\u3059\u308b\uff09"
     },
     "ko-KR": {
       "raw": "<#600101>\ub9ac\ub354\uc2ed</color>: \uc9c4\uc601\uc5d0 \uc0c1\uad00\uc5c6\uc774 \ub9ac\ub354 \uce74\ub4dc\ub97c \ub0bc \ub54c \uc774 \ub2a5\ub825\uc774 \ubc1c\ub3d9. \ub9ac\ub354\uc758 \ub2a5\ub825\uc774 \ud574\uacb0\ub418\uae30 \uc804\uc5d0 \uba3c\uc800 \ud574\uacb0.",
@@ -2581,52 +2943,52 @@
   },
   "lock": {
     "de-DE": {
-      "raw": "<#600101>Block:</color> Statuseffekt, der die F\u00e4higkeiten einer Einheit sperrt und andere Statuseffekte entfernt.",
-      "text": "Block: Statuseffekt, der die F\u00e4higkeiten einer Einheit sperrt und andere Statuseffekte entfernt."
+      "raw": "<#600101>Blockieren:</color> Statuseffekt, der die F\u00e4higkeiten einer Einheit sperrt.",
+      "text": "Blockieren: Statuseffekt, der die F\u00e4higkeiten einer Einheit sperrt."
     },
     "en-US": {
       "raw": "<#600101>Lock:</color> Status that disables a unit's abilities.",
       "text": "Lock: Status that disables a unit's abilities."
     },
     "es-ES": {
-      "raw": "<#600101>Bloqueo:</color> estado que inhabilita las habilidades de una unidad y elimina otros estados.",
-      "text": "Bloqueo: estado que inhabilita las habilidades de una unidad y elimina otros estados."
+      "raw": "<#600101>Bloqueo:</color> estado que inhabilita las habilidades de una unidad.",
+      "text": "Bloqueo: estado que inhabilita las habilidades de una unidad."
     },
     "es-MX": {
-      "raw": "<#600101>Bloqueo:</color> estado que deshabilita las habilidades de una unidad y elimina otros estados.",
-      "text": "Bloqueo: estado que deshabilita las habilidades de una unidad y elimina otros estados."
+      "raw": "<#600101>Bloqueo:</color> estado que deshabilita las habilidades de una unidad.",
+      "text": "Bloqueo: estado que deshabilita las habilidades de una unidad."
     },
     "fr-FR": {
-      "raw": "<#600101>Verrouillage\u00a0:</color> attribut qui neutralise les capacit\u00e9s d'une unit\u00e9 et enl\u00e8ve les autres attributs.",
-      "text": "Verrouillage\u00a0: attribut qui neutralise les capacit\u00e9s d'une unit\u00e9 et enl\u00e8ve les autres attributs."
+      "raw": "<#600101>Verrouillage\u00a0:</color> attribut neutralisant les capacit\u00e9s d'une unit\u00e9.",
+      "text": "Verrouillage\u00a0: attribut neutralisant les capacit\u00e9s d'une unit\u00e9."
     },
     "it-IT": {
-      "raw": "<#600101>Blocco:</color> stato che disattiva le abilit\u00e0 dell'unit\u00e0 e rimuove gli altri stati.",
-      "text": "Blocco: stato che disattiva le abilit\u00e0 dell'unit\u00e0 e rimuove gli altri stati."
+      "raw": "<#600101>Blocco:</color> stato che disattiva le abilit\u00e0 dell'unit\u00e0 interessata.",
+      "text": "Blocco: stato che disattiva le abilit\u00e0 dell'unit\u00e0 interessata."
     },
     "ja-JP": {
-      "raw": "<#600101>\u5c01\u5370\uff1a</color>\uff08\u72b6\u614b\uff09\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u7121\u52b9\u5316\u3055\u308c\u3001\u4ed6\u306e\u72b6\u614b\u3092\u5931\u3046",
-      "text": "\u5c01\u5370\uff1a\uff08\u72b6\u614b\uff09\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u7121\u52b9\u5316\u3055\u308c\u3001\u4ed6\u306e\u72b6\u614b\u3092\u5931\u3046"
+      "raw": "<#600101>\u5c01\u5370\uff1a</color>\uff08\u72b6\u614b\uff09\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u7121\u52b9\u5316\u3055\u308c\u308b",
+      "text": "\u5c01\u5370\uff1a\uff08\u72b6\u614b\uff09\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u7121\u52b9\u5316\u3055\u308c\u308b"
     },
     "ko-KR": {
-      "raw": "<#600101>\uad6c\uc18d</color>: \uc720\ub2db\uc758 \ub2a5\ub825\uc744 \uc0ac\uc6a9\ud558\uc9c0 \ubabb\ud558\uac8c \ud558\uace0 \ub2e4\ub978 \uc0c1\ud0dc\ub97c \uc81c\uac70.",
-      "text": "\uad6c\uc18d: \uc720\ub2db\uc758 \ub2a5\ub825\uc744 \uc0ac\uc6a9\ud558\uc9c0 \ubabb\ud558\uac8c \ud558\uace0 \ub2e4\ub978 \uc0c1\ud0dc\ub97c \uc81c\uac70."
+      "raw": "<#600101>\uad6c\uc18d</color>: \uc720\ub2db\uc758 \ub2a5\ub825\uc744 \uc0ac\uc6a9\ud558\uc9c0 \ubabb\ud558\uac8c \ud568.",
+      "text": "\uad6c\uc18d: \uc720\ub2db\uc758 \ub2a5\ub825\uc744 \uc0ac\uc6a9\ud558\uc9c0 \ubabb\ud558\uac8c \ud568."
     },
     "pl-PL": {
-      "raw": "<#600101>Zablokuj:</color> Status dezaktywuj\u0105cy umiej\u0119tno\u015bci jednostki i usuwaj\u0105cy z niej inne efekty.",
-      "text": "Zablokuj: Status dezaktywuj\u0105cy umiej\u0119tno\u015bci jednostki i usuwaj\u0105cy z niej inne efekty."
+      "raw": "<#600101>Zablokuj:</color> Status dezaktywuj\u0105cy umiej\u0119tno\u015bci jednostki.",
+      "text": "Zablokuj: Status dezaktywuj\u0105cy umiej\u0119tno\u015bci jednostki."
     },
     "pt-BR": {
-      "raw": "<#600101>Bloqueio:</color> status que desativa as habilidades de uma unidade e remove outros status.",
-      "text": "Bloqueio: status que desativa as habilidades de uma unidade e remove outros status."
+      "raw": "<#600101>Bloqueio:</color> status que desativa as habilidades de uma unidade.",
+      "text": "Bloqueio: status que desativa as habilidades de uma unidade."
     },
     "ru-RU": {
-      "raw": "<#600101>\u0411\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430:</color> \u0443 \u043e\u0442\u0440\u044f\u0434\u0430 \u0441 \u044d\u0442\u0438\u043c \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u043e\u0442\u043c\u0435\u043d\u044f\u044e\u0442\u0441\u044f \u0432\u0441\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0438 \u0443\u0431\u0438\u0440\u0430\u044e\u0442\u0441\u044f \u0434\u0440\u0443\u0433\u0438\u0435 \u0441\u0442\u0430\u0442\u0443\u0441\u044b.",
-      "text": "\u0411\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430: \u0443 \u043e\u0442\u0440\u044f\u0434\u0430 \u0441 \u044d\u0442\u0438\u043c \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u043e\u0442\u043c\u0435\u043d\u044f\u044e\u0442\u0441\u044f \u0432\u0441\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0438 \u0443\u0431\u0438\u0440\u0430\u044e\u0442\u0441\u044f \u0434\u0440\u0443\u0433\u0438\u0435 \u0441\u0442\u0430\u0442\u0443\u0441\u044b."
+      "raw": "<#600101>\u0411\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430:</color> \u0443 \u043e\u0442\u0440\u044f\u0434\u0430 \u0441 \u044d\u0442\u0438\u043c \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u043e\u0442\u043c\u0435\u043d\u044f\u044e\u0442\u0441\u044f \u0432\u0441\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438.",
+      "text": "\u0411\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430: \u0443 \u043e\u0442\u0440\u044f\u0434\u0430 \u0441 \u044d\u0442\u0438\u043c \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u043e\u0442\u043c\u0435\u043d\u044f\u044e\u0442\u0441\u044f \u0432\u0441\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438."
     },
     "zh-CN": {
-      "raw": "<#600101>\u9501\u5b9a\uff1a</color>\u4e00\u79cd\u72b6\u6001\uff0c\u7981\u7528\u5361\u724c\u80fd\u529b\u5e76\u79fb\u9664\u5176\u4ed6\u72b6\u6001\u3002",
-      "text": "\u9501\u5b9a\uff1a\u4e00\u79cd\u72b6\u6001\uff0c\u7981\u7528\u5361\u724c\u80fd\u529b\u5e76\u79fb\u9664\u5176\u4ed6\u72b6\u6001\u3002"
+      "raw": "<#600101>\u9501\u5b9a\uff1a</color>\u4e00\u79cd\u72b6\u6001\uff0c\u7981\u7528\u5361\u724c\u80fd\u529b\u3002",
+      "text": "\u9501\u5b9a\uff1a\u4e00\u79cd\u72b6\u6001\uff0c\u7981\u7528\u5361\u724c\u80fd\u529b\u3002"
     },
     "zh-TW": {
       "raw": "<#600101>\u5c01\u5370\uff1a</color>\u4e00\u7a2e\u72c0\u614b\uff0c\u53ef\u4f7f\u55ae\u4f4d\u724c\u7684\u80fd\u529b\u5931\u6548\u4e26\u79fb\u9664\u5176\u4ed6\u72c0\u614b\u3002",
@@ -2713,8 +3075,8 @@
       "text": "Prima fila: l'abilit\u00e0 pu\u00f2 essere usata solo sulla fila del combattimento corpo a corpo."
     },
     "ja-JP": {
-      "raw": "<#600101>\u8fd1\u63a5\uff1a</color>\u8fd1\u63a5\u5217\u3067\u306e\u307f\u5b9f\u884c\u3067\u304d\u308b\u30a2\u30d3\u30ea\u30c6\u30a3",
-      "text": "\u8fd1\u63a5\uff1a\u8fd1\u63a5\u5217\u3067\u306e\u307f\u5b9f\u884c\u3067\u304d\u308b\u30a2\u30d3\u30ea\u30c6\u30a3"
+      "raw": "<#600101>\u8fd1\u63a5\uff1a</color>\u8fd1\u63a5\u5217\u3067\u306e\u307f\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3",
+      "text": "\u8fd1\u63a5\uff1a\u8fd1\u63a5\u5217\u3067\u306e\u307f\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3"
     },
     "ko-KR": {
       "raw": "<#600101>\uadfc\uc811</color>: \uc774 \ub2a5\ub825\uc740 \uadfc\uc811 \uc804\uc5f4\uc5d0\uc11c\ub9cc \ubc1c\ub3d9.",
@@ -3037,8 +3399,8 @@
       "text": "Duo: l'abilit\u00e0 si attiva quando 2 copie dell'unit\u00e0 sono presenti sul campo."
     },
     "ja-JP": {
-      "raw": "<#600101>\u30da\u30a2\uff1a</color>\u76e4\u9762\u306b\u3053\u306e\u30ab\u30fc\u30c9\u3068\u540c\u3058\u30ab\u30fc\u30c9\u304c\u3082\u30461\u679a\u3042\u308b\u5834\u5408\u3001\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u5b9f\u884c\u3059\u308b",
-      "text": "\u30da\u30a2\uff1a\u76e4\u9762\u306b\u3053\u306e\u30ab\u30fc\u30c9\u3068\u540c\u3058\u30ab\u30fc\u30c9\u304c\u3082\u30461\u679a\u3042\u308b\u5834\u5408\u3001\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u5b9f\u884c\u3059\u308b"
+      "raw": "<#600101>\u30da\u30a2\uff1a</color>\u76e4\u9762\u306b\u3053\u306e\u30ab\u30fc\u30c9\u3068\u540c\u3058\u30ab\u30fc\u30c9\u304c\u3082\u30461\u679a\u3042\u308b\u5834\u5408\u306b\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3",
+      "text": "\u30da\u30a2\uff1a\u76e4\u9762\u306b\u3053\u306e\u30ab\u30fc\u30c9\u3068\u540c\u3058\u30ab\u30fc\u30c9\u304c\u3082\u30461\u679a\u3042\u308b\u5834\u5408\u306b\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3"
     },
     "ko-KR": {
       "raw": "<#600101>\uc9dd</color>: \ubcf4\ub4dc\uc5d0 \uc774 \uce74\ub4dc\uc640 \ub3d9\uc77c\ud55c \uce74\ub4dc\uac00 \ud55c \uc7a5 \ub354 \uc788\uc73c\uba74 \uc774 \ub2a5\ub825\uc774 \ubc1c\ub3d9.",
@@ -3066,9 +3428,53 @@
     }
   },
   "poison": {
+    "de-DE": {
+      "raw": "<#600101>Gift:</color> Wenn eine Einheit zwei Gift-Statuseffekte hat, zerst\u00f6re sie.",
+      "text": "Gift: Wenn eine Einheit zwei Gift-Statuseffekte hat, zerst\u00f6re sie."
+    },
     "en-US": {
       "raw": "<#600101>Poison:</color> If a unit has two Poison statuses, destroy it.",
       "text": "Poison: If a unit has two Poison statuses, destroy it."
+    },
+    "es-ES": {
+      "raw": "<#600101>Veneno:</color> si una unidad tiene dos estados de veneno, es destruida.",
+      "text": "Veneno: si una unidad tiene dos estados de veneno, es destruida."
+    },
+    "es-MX": {
+      "raw": "<#600101>Veneno:</color> si una unidad tiene dos venenos, se destruye.",
+      "text": "Veneno: si una unidad tiene dos venenos, se destruye."
+    },
+    "fr-FR": {
+      "raw": "<#600101>Empoisonnement\u00a0:</color> si une unit\u00e9 a deux attributs Empoisonnement, elle est d\u00e9truite.",
+      "text": "Empoisonnement\u00a0: si une unit\u00e9 a deux attributs Empoisonnement, elle est d\u00e9truite."
+    },
+    "it-IT": {
+      "raw": "<#600101>Veleno:</color> se un'unit\u00e0 ha due stati di Veleno, viene distrutta.",
+      "text": "Veleno: se un'unit\u00e0 ha due stati di Veleno, viene distrutta."
+    },
+    "ja-JP": {
+      "raw": "<#600101>\u6bd2\uff1a</color>\uff08\u72b6\u614b\uff09\u518d\u3073\u300c\u6bd2\u300d\u72b6\u614b\u306b\u306a\u308b\u3068\u7834\u58ca\u3055\u308c\u308b",
+      "text": "\u6bd2\uff1a\uff08\u72b6\u614b\uff09\u518d\u3073\u300c\u6bd2\u300d\u72b6\u614b\u306b\u306a\u308b\u3068\u7834\u58ca\u3055\u308c\u308b"
+    },
+    "ko-KR": {
+      "raw": "<#600101>\uc911\ub3c5</color>: \uc720\ub2db\uc774 \uc911\ub3c5 \uc0c1\ud0dc\ub97c 2\uac1c \ubcf4\uc720\ud558\uba74 \uadf8 \uc720\ub2db\uc744 \ud30c\uad34.",
+      "text": "\uc911\ub3c5: \uc720\ub2db\uc774 \uc911\ub3c5 \uc0c1\ud0dc\ub97c 2\uac1c \ubcf4\uc720\ud558\uba74 \uadf8 \uc720\ub2db\uc744 \ud30c\uad34."
+    },
+    "pl-PL": {
+      "raw": "<#600101>Trucizna:</color> Zniszcz t\u0119 jednostk\u0119, je\u015bli posiada dwa statusy Trucizna.",
+      "text": "Trucizna: Zniszcz t\u0119 jednostk\u0119, je\u015bli posiada dwa statusy Trucizna."
+    },
+    "pt-BR": {
+      "raw": "<#600101>Veneno:</color> se uma unidade tiver dois status de Veneno, ela \u00e9 destru\u00edda.",
+      "text": "Veneno: se uma unidade tiver dois status de Veneno, ela \u00e9 destru\u00edda."
+    },
+    "ru-RU": {
+      "raw": "<#600101>\u042f\u0434:</color> \u043a\u0430\u043a \u0442\u043e\u043b\u044c\u043a\u043e \u0443 \u043e\u0442\u0440\u044f\u0434\u0430 \u043f\u043e\u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u0432\u0430 \u0442\u0430\u043a\u0438\u0445 \u0441\u0442\u0430\u0442\u0443\u0441\u0430, \u043e\u043d \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0430\u0435\u0442\u0441\u044f.",
+      "text": "\u042f\u0434: \u043a\u0430\u043a \u0442\u043e\u043b\u044c\u043a\u043e \u0443 \u043e\u0442\u0440\u044f\u0434\u0430 \u043f\u043e\u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0434\u0432\u0430 \u0442\u0430\u043a\u0438\u0445 \u0441\u0442\u0430\u0442\u0443\u0441\u0430, \u043e\u043d \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0430\u0435\u0442\u0441\u044f."
+    },
+    "zh-CN": {
+      "raw": "<#600101>\u4e2d\u6bd2\uff1a</color>\u82e5\u4e00\u4e2a\u5355\u4f4d\u906d\u53d7\u4e24\u5c42\u4e2d\u6bd2\u72b6\u6001\uff0c\u5219\u4f1a\u88ab\u6467\u6bc1\u3002",
+      "text": "\u4e2d\u6bd2\uff1a\u82e5\u4e00\u4e2a\u5355\u4f4d\u906d\u53d7\u4e24\u5c42\u4e2d\u6bd2\u72b6\u6001\uff0c\u5219\u4f1a\u88ab\u6467\u6bc1\u3002"
     }
   },
   "promote": {
@@ -3126,9 +3532,53 @@
     }
   },
   "purify": {
+    "de-DE": {
+      "raw": "<#600101>L\u00e4utern:</color> Entfernt alle Statuseffekte.",
+      "text": "L\u00e4utern: Entfernt alle Statuseffekte."
+    },
     "en-US": {
       "raw": "<#600101>Purify:</color> Remove all statuses.",
       "text": "Purify: Remove all statuses."
+    },
+    "es-ES": {
+      "raw": "<#600101>Purificar:</color> elimina todos los estados.",
+      "text": "Purificar: elimina todos los estados."
+    },
+    "es-MX": {
+      "raw": "<#600101>Purificar:</color> elimina todos los estados.",
+      "text": "Purificar: elimina todos los estados."
+    },
+    "fr-FR": {
+      "raw": "<#600101>Purifier\u00a0:</color> retirer tous les attributs.",
+      "text": "Purifier\u00a0: retirer tous les attributs."
+    },
+    "it-IT": {
+      "raw": "<#600101>Purificare:</color> rimuovere tutti gli stati.",
+      "text": "Purificare: rimuovere tutti gli stati."
+    },
+    "ja-JP": {
+      "raw": "<#600101>\u6d44\u5316\uff1a</color>\u5168\u3066\u306e\u72b6\u614b\u3092\u53d6\u308a\u9664\u304f",
+      "text": "\u6d44\u5316\uff1a\u5168\u3066\u306e\u72b6\u614b\u3092\u53d6\u308a\u9664\u304f"
+    },
+    "ko-KR": {
+      "raw": "<#600101>\uc815\ud654</color>: \ubaa8\ub4e0 \uc0c1\ud0dc\ub97c \uc81c\uac70.",
+      "text": "\uc815\ud654: \ubaa8\ub4e0 \uc0c1\ud0dc\ub97c \uc81c\uac70."
+    },
+    "pl-PL": {
+      "raw": "<#600101>Oczy\u015b\u0107:</color> Usu\u0144 wszystkie statusy.",
+      "text": "Oczy\u015b\u0107: Usu\u0144 wszystkie statusy."
+    },
+    "pt-BR": {
+      "raw": "<#600101>Purifica\u00e7\u00e3o:</color> remove todos os status.",
+      "text": "Purifica\u00e7\u00e3o: remove todos os status."
+    },
+    "ru-RU": {
+      "raw": "<#600101>\u041e\u0447\u0438\u0441\u0442\u0438\u0442\u044c:</color> \u0443\u0431\u0440\u0430\u0442\u044c \u0432\u0441\u0435 \u0441\u0442\u0430\u0442\u0443\u0441\u044b.",
+      "text": "\u041e\u0447\u0438\u0441\u0442\u0438\u0442\u044c: \u0443\u0431\u0440\u0430\u0442\u044c \u0432\u0441\u0435 \u0441\u0442\u0430\u0442\u0443\u0441\u044b."
+    },
+    "zh-CN": {
+      "raw": "<#600101>\u51c0\u5316\uff1a</color>\u79fb\u9664\u6240\u6709\u72b6\u6001\u3002",
+      "text": "\u51c0\u5316\uff1a\u79fb\u9664\u6240\u6709\u72b6\u6001\u3002"
     }
   },
   "ranged": {
@@ -3157,8 +3607,8 @@
       "text": "Retrovie: l'abilit\u00e0 pu\u00f2 essere usata solo sulla fila del combattimento a distanza."
     },
     "ja-JP": {
-      "raw": "<#600101>\u9593\u63a5\uff1a</color>\u9593\u63a5\u5217\u3067\u306e\u307f\u5b9f\u884c\u3067\u304d\u308b\u30a2\u30d3\u30ea\u30c6\u30a3",
-      "text": "\u9593\u63a5\uff1a\u9593\u63a5\u5217\u3067\u306e\u307f\u5b9f\u884c\u3067\u304d\u308b\u30a2\u30d3\u30ea\u30c6\u30a3"
+      "raw": "<#600101>\u9593\u63a5\uff1a</color>\u9593\u63a5\u5217\u3067\u306e\u307f\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3",
+      "text": "\u9593\u63a5\uff1a\u9593\u63a5\u5217\u3067\u306e\u307f\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3"
     },
     "ko-KR": {
       "raw": "<#600101>\uc6d0\uac70\ub9ac</color>: \uc774 \ub2a5\ub825\uc740 \uc6d0\uac70\ub9ac \uc804\uc5f4\uc5d0\uc11c\ub9cc \ubc1c\ub3d9.",
@@ -3403,28 +3853,28 @@
   },
   "resilient": {
     "de-DE": {
-      "raw": "<#600101>Z\u00e4higkeit:</color> Statuseffekt, der einer Einheit erlaubt, am Rundenende auf dem Schlachtfeld zu bleiben und in diesem Fall ihre Basisst\u00e4rke wiederherstellt, wenn sie vorher verbessert wurde.",
-      "text": "Z\u00e4higkeit: Statuseffekt, der einer Einheit erlaubt, am Rundenende auf dem Schlachtfeld zu bleiben und in diesem Fall ihre Basisst\u00e4rke wiederherstellt, wenn sie vorher verbessert wurde."
+      "raw": "<#600101>Z\u00e4higkeit:</color> Statuseffekt, der einer Einheit erlaubt, am Rundenende auf dem Schlachtfeld zu bleiben und ihre Basisst\u00e4rke wiederherzustellen, wenn sie vorher verbessert wurde.",
+      "text": "Z\u00e4higkeit: Statuseffekt, der einer Einheit erlaubt, am Rundenende auf dem Schlachtfeld zu bleiben und ihre Basisst\u00e4rke wiederherzustellen, wenn sie vorher verbessert wurde."
     },
     "en-US": {
       "raw": "<#600101>Resilience:</color> Status that allows a unit to remain on the board at round end, and if boosted restores it to its base power.",
       "text": "Resilience: Status that allows a unit to remain on the board at round end, and if boosted restores it to its base power."
     },
     "es-ES": {
-      "raw": "<#600101>Resistente:</color> estado que permite a una unidad permanecer en el tablero al final de la ronda y restablece su poder base si est\u00e1 potenciada.",
-      "text": "Resistente: estado que permite a una unidad permanecer en el tablero al final de la ronda y restablece su poder base si est\u00e1 potenciada."
+      "raw": "<#600101>Resistente:</color> estado que permite a una unidad permanecer en el tablero al final de la ronda y, si est\u00e1 potenciada, restablece su poder base.",
+      "text": "Resistente: estado que permite a una unidad permanecer en el tablero al final de la ronda y, si est\u00e1 potenciada, restablece su poder base."
     },
     "es-MX": {
-      "raw": "<#600101>Resiliencia:</color> estado que le permite a una unidad permanecer en el tablero al final de la ronda y restablece su poder base si se potenci\u00f3.",
-      "text": "Resiliencia: estado que le permite a una unidad permanecer en el tablero al final de la ronda y restablece su poder base si se potenci\u00f3."
+      "raw": "<#600101>Resiliencia:</color> estado que le permite a una unidad permanecer en el tablero al final de la ronda y restablecer su poder base si se potenci\u00f3.",
+      "text": "Resiliencia: estado que le permite a una unidad permanecer en el tablero al final de la ronda y restablecer su poder base si se potenci\u00f3."
     },
     "fr-FR": {
-      "raw": "<#600101>Tenace\u00a0:</color> attribut permettant \u00e0 l'unit\u00e9 de rester sur le plateau au terme de la manche. Sa force initiale est ensuite r\u00e9tablie si l'unit\u00e9 est am\u00e9lior\u00e9e.",
-      "text": "Tenace\u00a0: attribut permettant \u00e0 l'unit\u00e9 de rester sur le plateau au terme de la manche. Sa force initiale est ensuite r\u00e9tablie si l'unit\u00e9 est am\u00e9lior\u00e9e."
+      "raw": "<#600101>Tenace\u00a0:</color> attribut permettant \u00e0 une unit\u00e9 de rester sur le plateau au terme de la manche. Sa force initiale est r\u00e9tablie si elle a \u00e9t\u00e9 am\u00e9lior\u00e9e.",
+      "text": "Tenace\u00a0: attribut permettant \u00e0 une unit\u00e9 de rester sur le plateau au terme de la manche. Sa force initiale est r\u00e9tablie si elle a \u00e9t\u00e9 am\u00e9lior\u00e9e."
     },
     "it-IT": {
-      "raw": "<#600101>Resistenza:</color> stato che permette a un'unit\u00e0 di restare in campo alla fine del round, tornando per\u00f2 al valore di forza base se viene potenziata.",
-      "text": "Resistenza: stato che permette a un'unit\u00e0 di restare in campo alla fine del round, tornando per\u00f2 al valore di forza base se viene potenziata."
+      "raw": "<#600101>Resistenza:</color> stato che permette a un'unit\u00e0 di restare in campo alla fine del round, riportandola al valore di forza base qualora fosse potenziata.",
+      "text": "Resistenza: stato che permette a un'unit\u00e0 di restare in campo alla fine del round, riportandola al valore di forza base qualora fosse potenziata."
     },
     "ja-JP": {
       "raw": "<#600101>\u7d99\u6226\uff1a</color>\uff08\u72b6\u614b\uff09\u30e9\u30a6\u30f3\u30c9\u7d42\u4e86\u6642\u306b\u6226\u5834\u306b\u6b8b\u308b\uff08\u30d6\u30fc\u30b9\u30c8\u3092\u5f97\u3066\u3044\u308b\u5834\u5408\u306f\u30d9\u30fc\u30b9\u6226\u529b\u5024\u306b\u623b\u308b\uff09",
@@ -3435,12 +3885,12 @@
       "text": "\uc794\ub958: \ub77c\uc6b4\ub4dc \uc885\ub8cc \uc2dc \ubcf4\ub4dc\uc5d0 \ub0a8\uc73c\uba70, \uc99d\ud3ed\ub41c \uacbd\uc6b0 \uae30\ubcf8 \uc804\ub825\uc73c\ub85c \ub3cc\uc544\uac10."
     },
     "pl-PL": {
-      "raw": "<#600101>Wytrzyma\u0142o\u015b\u0107:</color> Status, kt\u00f3ry pozwala jednostce pozosta\u0107 na polu bitwy na ko\u0144cu rundy, nast\u0119pnie przywraca jej si\u0142\u0119 bazow\u0105, je\u015bli by\u0142a wzmocniona.",
-      "text": "Wytrzyma\u0142o\u015b\u0107: Status, kt\u00f3ry pozwala jednostce pozosta\u0107 na polu bitwy na ko\u0144cu rundy, nast\u0119pnie przywraca jej si\u0142\u0119 bazow\u0105, je\u015bli by\u0142a wzmocniona."
+      "raw": "<#600101>Wytrzyma\u0142o\u015b\u0107:</color> Status, kt\u00f3ry pozwala jednostce pozosta\u0107 na polu bitwy na ko\u0144cu rundy i przywraca jej bazow\u0105 si\u0142\u0119, je\u015bli zosta\u0142a wzmocniona.",
+      "text": "Wytrzyma\u0142o\u015b\u0107: Status, kt\u00f3ry pozwala jednostce pozosta\u0107 na polu bitwy na ko\u0144cu rundy i przywraca jej bazow\u0105 si\u0142\u0119, je\u015bli zosta\u0142a wzmocniona."
     },
     "pt-BR": {
-      "raw": "<#600101>Resili\u00eancia:</color> status que permite uma unidade permanecer no tabuleiro no fim da rodada e depois restaura sua base de poder, se refor\u00e7ada.",
-      "text": "Resili\u00eancia: status que permite uma unidade permanecer no tabuleiro no fim da rodada e depois restaura sua base de poder, se refor\u00e7ada."
+      "raw": "<#600101>Resili\u00eancia:</color> status que permite que uma unidade permane\u00e7a no tabuleiro no fim da rodada, restaurando seu valor de poder base caso esteja refor\u00e7ada.",
+      "text": "Resili\u00eancia: status que permite que uma unidade permane\u00e7a no tabuleiro no fim da rodada, restaurando seu valor de poder base caso esteja refor\u00e7ada."
     },
     "ru-RU": {
       "raw": "<#600101>\u0421\u0442\u043e\u0439\u043a\u043e\u0441\u0442\u044c:</color> \u043e\u0442\u0440\u044f\u0434 \u0441 \u044d\u0442\u0438\u043c \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u043e\u0441\u0442\u0430\u0435\u0442\u0441\u044f \u043d\u0430 \u043f\u043e\u043b\u0435 \u0432 \u043a\u043e\u043d\u0446\u0435 \u0440\u0430\u0443\u043d\u0434\u0430. \u041f\u0440\u0438 \u044d\u0442\u043e\u043c \u0435\u0433\u043e \u0441\u0438\u043b\u0430 \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044f \u043a \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e\u0439, \u0435\u0441\u043b\u0438 \u043e\u0442\u0440\u044f\u0434 \u0431\u044b\u043b \u0443\u0441\u0438\u043b\u0435\u043d.",
@@ -3643,8 +4093,8 @@
       "text": "Ritorsione: l'abilit\u00e0 si attiva ogni volta che l'unit\u00e0 viene danneggiata ma non mandata nel cimitero."
     },
     "ja-JP": {
-      "raw": "<#600101>\u5831\u5fa9\uff1a</color>\u3053\u306e\u30e6\u30cb\u30c3\u30c8\u304c\u30c0\u30e1\u30fc\u30b8\u3092\u3046\u3051\u3001\u304b\u3064\u5893\u5730\u306b\u9001\u3089\u308c\u306a\u304b\u3063\u305f\u5834\u5408\u3001\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u5b9f\u884c\u3059\u308b",
-      "text": "\u5831\u5fa9\uff1a\u3053\u306e\u30e6\u30cb\u30c3\u30c8\u304c\u30c0\u30e1\u30fc\u30b8\u3092\u3046\u3051\u3001\u304b\u3064\u5893\u5730\u306b\u9001\u3089\u308c\u306a\u304b\u3063\u305f\u5834\u5408\u3001\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u5b9f\u884c\u3059\u308b"
+      "raw": "<#600101>\u5831\u5fa9\uff1a</color>\u3053\u306e\u30e6\u30cb\u30c3\u30c8\u304c\u30c0\u30e1\u30fc\u30b8\u3092\u3046\u3051\u3001\u304b\u3064\u5893\u5730\u306b\u9001\u3089\u308c\u306a\u304b\u3063\u305f\u5834\u5408\u306b\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3",
+      "text": "\u5831\u5fa9\uff1a\u3053\u306e\u30e6\u30cb\u30c3\u30c8\u304c\u30c0\u30e1\u30fc\u30b8\u3092\u3046\u3051\u3001\u304b\u3064\u5893\u5730\u306b\u9001\u3089\u308c\u306a\u304b\u3063\u305f\u5834\u5408\u306b\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3"
     },
     "ko-KR": {
       "raw": "<#600101>\ubcf4\ubcf5</color>: \uc774 \uc720\ub2db\uc774 \ud53c\ud574\ub97c \ubc1b\uc558\uc9c0\ub9cc \ubb34\ub364\uc73c\ub85c \uac00\uc9c0 \uc54a\uc73c\uba74 \uc774 \ub2a5\ub825\uc774 \ubc1c\ub3d9.",
@@ -3805,8 +4255,8 @@
       "text": "Vendetta: l'abilit\u00e0 si attiva quando la carta finisce dal campo di battaglia nel cimitero durante il turno dell'avversario."
     },
     "ja-JP": {
-      "raw": "<#600101>\u5fa9\u8b90\uff1a</color>\u5bfe\u6226\u76f8\u624b\u306e\u30bf\u30fc\u30f3\u4e2d\u306b\u30ab\u30fc\u30c9\u304c\u76e4\u9762\u304b\u3089\u5893\u5730\u306b\u79fb\u52d5\u3059\u308b\u3068\u3001\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u5b9f\u884c\u3059\u308b",
-      "text": "\u5fa9\u8b90\uff1a\u5bfe\u6226\u76f8\u624b\u306e\u30bf\u30fc\u30f3\u4e2d\u306b\u30ab\u30fc\u30c9\u304c\u76e4\u9762\u304b\u3089\u5893\u5730\u306b\u79fb\u52d5\u3059\u308b\u3068\u3001\u30a2\u30d3\u30ea\u30c6\u30a3\u3092\u5b9f\u884c\u3059\u308b"
+      "raw": "<#600101>\u5fa9\u8b90\uff1a</color>\u5bfe\u6226\u76f8\u624b\u306e\u30bf\u30fc\u30f3\u4e2d\u306b\u30ab\u30fc\u30c9\u304c\u76e4\u9762\u304b\u3089\u5893\u5730\u306b\u79fb\u52d5\u3059\u308b\u3068\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3",
+      "text": "\u5fa9\u8b90\uff1a\u5bfe\u6226\u76f8\u624b\u306e\u30bf\u30fc\u30f3\u4e2d\u306b\u30ab\u30fc\u30c9\u304c\u76e4\u9762\u304b\u3089\u5893\u5730\u306b\u79fb\u52d5\u3059\u308b\u3068\u5b9f\u884c\u3055\u308c\u308b\u30a2\u30d3\u30ea\u30c6\u30a3"
     },
     "ko-KR": {
       "raw": "<#600101>\ubcf5\uc218</color>: \uc774 \uce74\ub4dc\uac00 \uc0c1\ub300 \ud134\uc5d0 \ubcf4\ub4dc\uc5d0\uc11c \uc81c\uac70\ub418\uc5b4 \ubb34\ub364\uc73c\ub85c \uc774\ub3d9\ud558\uba74 \uc774 \ub2a5\ub825\uc774 \ubc1c\ub3d9.",
@@ -3943,52 +4393,52 @@
   },
   "shield": {
     "de-DE": {
-      "raw": "<#600101>Schild:</color> Eine Schild-Marke besch\u00fctzt eine Einheit vor dem n\u00e4chsten Effekt, der ihr Schaden zuf\u00fcgen, sie schw\u00e4chen oder auf eine niedrigere St\u00e4rke setzen w\u00fcrde.",
-      "text": "Schild: Eine Schild-Marke besch\u00fctzt eine Einheit vor dem n\u00e4chsten Effekt, der ihr Schaden zuf\u00fcgen, sie schw\u00e4chen oder auf eine niedrigere St\u00e4rke setzen w\u00fcrde."
+      "raw": "<#600101>Schild:</color> Statuseffekt, der den n\u00e4chsten Schaden, der dieser Einheit zugef\u00fcgt wird, abblockt.",
+      "text": "Schild: Statuseffekt, der den n\u00e4chsten Schaden, der dieser Einheit zugef\u00fcgt wird, abblockt."
     },
     "en-US": {
       "raw": "<#600101>Shield:</color> Status that blocks the next instance of damage dealt to a unit.",
       "text": "Shield: Status that blocks the next instance of damage dealt to a unit."
     },
     "es-ES": {
-      "raw": "<#600101>Escudo:</color> el atributo Escudo protege a una unidad del siguiente efecto que inflija da\u00f1o, debilite o disminuya el poder de esta unidad.",
-      "text": "Escudo: el atributo Escudo protege a una unidad del siguiente efecto que inflija da\u00f1o, debilite o disminuya el poder de esta unidad."
+      "raw": "<#600101>Escudo:</color> estado que bloquea la siguiente ocasi\u00f3n en que una unidad recibe da\u00f1o.",
+      "text": "Escudo: estado que bloquea la siguiente ocasi\u00f3n en que una unidad recibe da\u00f1o."
     },
     "es-MX": {
-      "raw": "<#600101>Escudo:</color> Un atributo de escudo protege a una unidad del siguiente efecto que la da\u00f1e, debilite o reduzca su poder.",
-      "text": "Escudo: Un atributo de escudo protege a una unidad del siguiente efecto que la da\u00f1e, debilite o reduzca su poder."
+      "raw": "<#600101>Escudo:</color> estado que bloquea la siguiente instancia de da\u00f1o infligido a una unidad.",
+      "text": "Escudo: estado que bloquea la siguiente instancia de da\u00f1o infligido a una unidad."
     },
     "fr-FR": {
-      "raw": "<#600101>Bouclier\u00a0:</color> un Bouclier est \u00c9ph\u00e9m\u00e8re et prot\u00e8ge une unit\u00e9 contre le prochain effet infligeant des d\u00e9g\u00e2ts, affaiblissant ou r\u00e9duisant la force.",
-      "text": "Bouclier\u00a0: un Bouclier est \u00c9ph\u00e9m\u00e8re et prot\u00e8ge une unit\u00e9 contre le prochain effet infligeant des d\u00e9g\u00e2ts, affaiblissant ou r\u00e9duisant la force."
+      "raw": "<#600101>Bouclier\u00a0:</color> attribut bloquant les d\u00e9g\u00e2ts de l'attaque suivante inflig\u00e9e \u00e0 une unit\u00e9.",
+      "text": "Bouclier\u00a0: attribut bloquant les d\u00e9g\u00e2ts de l'attaque suivante inflig\u00e9e \u00e0 une unit\u00e9."
     },
     "it-IT": {
-      "raw": "<#600101>Scudo:</color> lo Scudo protegge dal primo effetto che danneggia, indebolisce o imposta a un valore specifico la forza dell'unit\u00e0.",
-      "text": "Scudo: lo Scudo protegge dal primo effetto che danneggia, indebolisce o imposta a un valore specifico la forza dell'unit\u00e0."
+      "raw": "<#600101>Scudo:</color> stato che blocca i danni inflitti all'unit\u00e0 interessata per il primo attacco dalla sua applicazione.",
+      "text": "Scudo: stato che blocca i danni inflitti all'unit\u00e0 interessata per il primo attacco dalla sua applicazione."
     },
     "ja-JP": {
-      "raw": "<#600101>\u30b7\u30fc\u30eb\u30c9\uff1a</color>\u300c\u30b7\u30fc\u30eb\u30c9\u300d\u30c8\u30fc\u30af\u30f3\u306f\u3001\u30c0\u30e1\u30fc\u30b8\u3001\u30d9\u30fc\u30b9\u30c0\u30a6\u30f3\u3001\u305d\u3057\u3066\u6226\u529b\u5024\u304c\u4eca\u3088\u308a\u4f4e\u3044\u7279\u5b9a\u306e\u5024\u306b\u5909\u308f\u308b\u52b9\u679c\u3092\u4e00\u5ea6\u3060\u3051\u7121\u52b9\u5316\u3059\u308b",
-      "text": "\u30b7\u30fc\u30eb\u30c9\uff1a\u300c\u30b7\u30fc\u30eb\u30c9\u300d\u30c8\u30fc\u30af\u30f3\u306f\u3001\u30c0\u30e1\u30fc\u30b8\u3001\u30d9\u30fc\u30b9\u30c0\u30a6\u30f3\u3001\u305d\u3057\u3066\u6226\u529b\u5024\u304c\u4eca\u3088\u308a\u4f4e\u3044\u7279\u5b9a\u306e\u5024\u306b\u5909\u308f\u308b\u52b9\u679c\u3092\u4e00\u5ea6\u3060\u3051\u7121\u52b9\u5316\u3059\u308b"
+      "raw": "<#600101>\u30b7\u30fc\u30eb\u30c9\uff1a</color>\uff08\u72b6\u614b\uff09\u6b21\u306b\u81ea\u8eab\u306b\u5411\u3051\u3089\u308c\u308b\u30c0\u30e1\u30fc\u30b8\u3092\u7121\u52b9\u306b\u3059\u308b",
+      "text": "\u30b7\u30fc\u30eb\u30c9\uff1a\uff08\u72b6\u614b\uff09\u6b21\u306b\u81ea\u8eab\u306b\u5411\u3051\u3089\u308c\u308b\u30c0\u30e1\u30fc\u30b8\u3092\u7121\u52b9\u306b\u3059\u308b"
     },
     "ko-KR": {
-      "raw": "<#600101>\ubcf4\ud638\ub9c9</color>: \ubcf4\ud638\ub9c9 \ud1a0\ud070\uc740 \uc774 \uc720\ub2db\uc5d0\uac8c \ud53c\ud574, \uc57d\ud654 \ub610\ub294 \uc804\ub825\uc744 \ub0ae\ucd94\ub294 \ud6a8\uacfc\uac00 \uc801\uc6a9\ub418\uc9c0 \uc54a\uac8c \ubcf4\ud638.",
-      "text": "\ubcf4\ud638\ub9c9: \ubcf4\ud638\ub9c9 \ud1a0\ud070\uc740 \uc774 \uc720\ub2db\uc5d0\uac8c \ud53c\ud574, \uc57d\ud654 \ub610\ub294 \uc804\ub825\uc744 \ub0ae\ucd94\ub294 \ud6a8\uacfc\uac00 \uc801\uc6a9\ub418\uc9c0 \uc54a\uac8c \ubcf4\ud638."
+      "raw": "<#600101>\ubcf4\ud638\ub9c9</color>: \uc720\ub2db\uc774 \ub2e4\uc74c\uc5d0 \ubc1b\ub294 \ud53c\ud574\ub97c \ucc28\ub2e8.",
+      "text": "\ubcf4\ud638\ub9c9: \uc720\ub2db\uc774 \ub2e4\uc74c\uc5d0 \ubc1b\ub294 \ud53c\ud574\ub97c \ucc28\ub2e8."
     },
     "pl-PL": {
-      "raw": "<#600101>Tarcza:</color> Znacznik tarczy jednorazowo chroni jednostk\u0119 przed efektem, kt\u00f3ry by j\u0105 zrani\u0142, os\u0142abi\u0142 lub zmieni\u0142 jej si\u0142\u0119 na ni\u017csz\u0105.",
-      "text": "Tarcza: Znacznik tarczy jednorazowo chroni jednostk\u0119 przed efektem, kt\u00f3ry by j\u0105 zrani\u0142, os\u0142abi\u0142 lub zmieni\u0142 jej si\u0142\u0119 na ni\u017csz\u0105."
+      "raw": "<#600101>Tarcza:</color> Status, kt\u00f3ry blokuje nast\u0119pnie obra\u017cenia zadane tej jednostce.",
+      "text": "Tarcza: Status, kt\u00f3ry blokuje nast\u0119pnie obra\u017cenia zadane tej jednostce."
     },
     "pt-BR": {
-      "raw": "<#600101>Escudo:</color> um marcador de escudo protege uma unidade do pr\u00f3ximo efeito que ferir, enfraquecer ou reduzir o seu poder.",
-      "text": "Escudo: um marcador de escudo protege uma unidade do pr\u00f3ximo efeito que ferir, enfraquecer ou reduzir o seu poder."
+      "raw": "<#600101>Escudo:</color> status que bloqueia a pr\u00f3xima inst\u00e2ncia de dano causado a uma unidade.",
+      "text": "Escudo: status que bloqueia a pr\u00f3xima inst\u00e2ncia de dano causado a uma unidade."
     },
     "ru-RU": {
-      "raw": "<#600101>\u0429\u0438\u0442:</color> \u044d\u0442\u043e\u0442 \u0441\u0438\u043c\u0432\u043e\u043b \u0437\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u043e\u0442\u0440\u044f\u0434 \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0433\u043e \u044d\u0444\u0444\u0435\u043a\u0442\u0430, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0435\u0433\u043e \u0443\u0440\u043e\u043d, \u043e\u0441\u043b\u0430\u0431\u043b\u044f\u044e\u0449\u0435\u0433\u043e \u0438\u043b\u0438 \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u044e\u0449\u0435\u0433\u043e \u0435\u0433\u043e \u0441\u0438\u043b\u0443.",
-      "text": "\u0429\u0438\u0442: \u044d\u0442\u043e\u0442 \u0441\u0438\u043c\u0432\u043e\u043b \u0437\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u043e\u0442\u0440\u044f\u0434 \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u0433\u043e \u044d\u0444\u0444\u0435\u043a\u0442\u0430, \u043d\u0430\u043d\u043e\u0441\u044f\u0449\u0435\u0433\u043e \u0443\u0440\u043e\u043d, \u043e\u0441\u043b\u0430\u0431\u043b\u044f\u044e\u0449\u0435\u0433\u043e \u0438\u043b\u0438 \u0443\u043c\u0435\u043d\u044c\u0448\u0430\u044e\u0449\u0435\u0433\u043e \u0435\u0433\u043e \u0441\u0438\u043b\u0443."
+      "raw": "<#600101>\u0429\u0438\u0442:</color> \u043e\u0442\u0440\u044f\u0434 \u0441 \u044d\u0442\u0438\u043c \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u043d\u0435 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u0443\u0440\u043e\u043d\u0430 \u043f\u0440\u0438 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u043c \u0443\u0434\u0430\u0440\u0435.",
+      "text": "\u0429\u0438\u0442: \u043e\u0442\u0440\u044f\u0434 \u0441 \u044d\u0442\u0438\u043c \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u043d\u0435 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442 \u0443\u0440\u043e\u043d\u0430 \u043f\u0440\u0438 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u043c \u0443\u0434\u0430\u0440\u0435."
     },
     "zh-CN": {
-      "raw": "<#600101>\u62a4\u76fe\uff1a</color>\u201c\u62a4\u76fe\u201d\u72b6\u6001\u53ef\u4f7f\u5355\u4f4d\u514d\u53d7\u4e00\u6b21\u4f24\u5bb3\u3001\u524a\u5f31\u6216\u4efb\u4f55\u4f1a\u4f7f\u8be5\u5355\u4f4d\u6218\u529b\u4e0b\u964d\u7684\u6548\u679c\u3002",
-      "text": "\u62a4\u76fe\uff1a\u201c\u62a4\u76fe\u201d\u72b6\u6001\u53ef\u4f7f\u5355\u4f4d\u514d\u53d7\u4e00\u6b21\u4f24\u5bb3\u3001\u524a\u5f31\u6216\u4efb\u4f55\u4f1a\u4f7f\u8be5\u5355\u4f4d\u6218\u529b\u4e0b\u964d\u7684\u6548\u679c\u3002"
+      "raw": "<#600101>\u62a4\u76fe\uff1a</color>\u4e00\u79cd\u72b6\u6001\uff0c\u4e3a\u8be5\u5355\u4f4d\u62b5\u6321\u4e0b\u4e00\u6b21\u53d7\u5230\u7684\u4f24\u5bb3\u3002",
+      "text": "\u62a4\u76fe\uff1a\u4e00\u79cd\u72b6\u6001\uff0c\u4e3a\u8be5\u5355\u4f4d\u62b5\u6321\u4e0b\u4e00\u6b21\u53d7\u5230\u7684\u4f24\u5bb3\u3002"
     },
     "zh-TW": {
       "raw": "<#600101>\u8b77\u76fe\uff1a</color>\u300c\u8b77\u76fe\u300d\u53ef\u4ee5\u4fdd\u8b77\u55ae\u4f4d\u724c\u4e0d\u53d7\u300c\u50b7\u5bb3\u300d\u3001\u300c\u524a\u5f31\u300d\u6216\u964d\u4f4e\u6230\u529b\u7684\u6548\u679c\u5f71\u97ff\u4e00\u6b21\u3002",
@@ -4345,8 +4795,8 @@
       "text": "Richiamare: spostare automaticamente sul campo di battaglia (non \u00e8 sinonimo di mettere in gioco)."
     },
     "ja-JP": {
-      "raw": "<#600101>\u53ec\u559a\uff1a</color>\u6226\u5834\u306b\u81ea\u52d5\u7684\u306b\u79fb\u52d5\u3055\u305b\u308b\uff08\u201c\u30d7\u30ec\u30a4\u201d\u306b\u306f\u30ab\u30a6\u30f3\u30c8\u3055\u308c\u306a\u3044\uff09",
-      "text": "\u53ec\u559a\uff1a\u6226\u5834\u306b\u81ea\u52d5\u7684\u306b\u79fb\u52d5\u3055\u305b\u308b\uff08\u201c\u30d7\u30ec\u30a4\u201d\u306b\u306f\u30ab\u30a6\u30f3\u30c8\u3055\u308c\u306a\u3044\uff09"
+      "raw": "<#600101>\u53ec\u559a\uff1a</color>\u6226\u5834\u306b\u81ea\u52d5\u7684\u306b\u79fb\u52d5\u3055\u305b\u308b\uff08\u201c\u30d7\u30ec\u30a4\u201d\u3068\u306f\u8a8d\u8b58\u3055\u308c\u306a\u3044\uff09",
+      "text": "\u53ec\u559a\uff1a\u6226\u5834\u306b\u81ea\u52d5\u7684\u306b\u79fb\u52d5\u3055\u305b\u308b\uff08\u201c\u30d7\u30ec\u30a4\u201d\u3068\u306f\u8a8d\u8b58\u3055\u308c\u306a\u3044\uff09"
     },
     "ko-KR": {
       "raw": "<#600101>\uc18c\ud658</color>: \ud574\ub2f9 \uce74\ub4dc\ub97c \uc804\uc7a5\uc73c\ub85c \uc62e\uae30\ub098 \ubc30\uce58 \ub2a5\ub825\uc740 \ubc1c\ub3d9\ud558\uc9c0 \uc54a\uc74c.",
@@ -4457,8 +4907,8 @@
       "text": "\u6210\u9577\uff1a\u81ea\u5206\u3088\u308a\u9ad8\u3044\u6226\u529b\u5024\u3092\u6301\u3064\u5473\u65b9\u30e6\u30cb\u30c3\u30c8\u304c\u30d7\u30ec\u30a4\u3055\u308c\u308b\u305f\u3073\u30011\u30d6\u30fc\u30b9\u30c8\u3092\u5f97\u308b"
     },
     "ko-KR": {
-      "raw": "<#600101>\ubc88\ucc3d:</color> \uc774 \uc720\ub2db\ubcf4\ub2e4 \ub354 \ub192\uc740 \uc804\ub825\uc758 \uc544\uad70 \ud558\ub098\uac00 \ub4f1\uc7a5\ud560 \ub54c\ub9c8\ub2e4 \uc774 \uc720\ub2db\uc774 1 \uc99d\ud3ed.",
-      "text": "\ubc88\ucc3d: \uc774 \uc720\ub2db\ubcf4\ub2e4 \ub354 \ub192\uc740 \uc804\ub825\uc758 \uc544\uad70 \ud558\ub098\uac00 \ub4f1\uc7a5\ud560 \ub54c\ub9c8\ub2e4 \uc774 \uc720\ub2db\uc774 1 \uc99d\ud3ed."
+      "raw": "<#600101>\ubc88\ucc3d</color>: \uc774 \uc720\ub2db\ubcf4\ub2e4 \uc804\ub825\uc774 \ub354 \ub192\uc740 \uc544\uad70 \ud558\ub098\uac00 \ub4f1\uc7a5\ud560 \ub54c\ub9c8\ub2e4 \uc774 \uc720\ub2db\uc774 1 \uc99d\ud3ed.",
+      "text": "\ubc88\ucc3d: \uc774 \uc720\ub2db\ubcf4\ub2e4 \uc804\ub825\uc774 \ub354 \ub192\uc740 \uc544\uad70 \ud558\ub098\uac00 \ub4f1\uc7a5\ud560 \ub54c\ub9c8\ub2e4 \uc774 \uc720\ub2db\uc774 1 \uc99d\ud3ed."
     },
     "pl-PL": {
       "raw": "<#600101>Pokrzepienie:</color> Wzmocnij t\u0119 jednostk\u0119 o 1 za ka\u017cdym razem, gdy zagrany zostanie silniejszy sojusznik.",
@@ -4914,9 +5364,53 @@
     }
   },
   "vitality": {
+    "de-DE": {
+      "raw": "<#600101>Vitalit\u00e4t:</color> Statuseffekt, der diese Einheit am Ende ihres Zugs um 1 verbessert. Hinweis: Vitalit\u00e4tsz\u00fcge sind stapelbar; 1 Zug Vitalit\u00e4t hebt 1 Zug Bluten auf.",
+      "text": "Vitalit\u00e4t: Statuseffekt, der diese Einheit am Ende ihres Zugs um 1 verbessert. Hinweis: Vitalit\u00e4tsz\u00fcge sind stapelbar; 1 Zug Vitalit\u00e4t hebt 1 Zug Bluten auf."
+    },
     "en-US": {
-      "raw": "<#600101>Vitality:</color> Status that boosts a unit by 1 on its turn end.",
-      "text": "Vitality: Status that boosts a unit by 1 on its turn end."
+      "raw": "<#600101>Vitality:</color> Status that boosts this unit by 1 on its turn end. Note: Vitality turns can accumulate; 1 turn of Vitality cancels out 1 turn of Bleeding.",
+      "text": "Vitality: Status that boosts this unit by 1 on its turn end. Note: Vitality turns can accumulate; 1 turn of Vitality cancels out 1 turn of Bleeding."
+    },
+    "es-ES": {
+      "raw": "<#600101>Vitalidad:</color> estado que potencia a esta unidad en 1 al final de su turno. Atenci\u00f3n: los turnos de vitalidad pueden acumularse; 1 turno de vitalidad cancela 1 turno de sangrado.",
+      "text": "Vitalidad: estado que potencia a esta unidad en 1 al final de su turno. Atenci\u00f3n: los turnos de vitalidad pueden acumularse; 1 turno de vitalidad cancela 1 turno de sangrado."
+    },
+    "es-MX": {
+      "raw": "<#600101>Vitalidad:</color> estado que a\u00f1ade 1 de potencia a esta unidad al final de su turno. Nota: los turnos de Vitalidad se pueden acumular; 1 turno de Vitalidad cancela 1 turno de Sangrado.",
+      "text": "Vitalidad: estado que a\u00f1ade 1 de potencia a esta unidad al final de su turno. Nota: los turnos de Vitalidad se pueden acumular; 1 turno de Vitalidad cancela 1 turno de Sangrado."
+    },
+    "fr-FR": {
+      "raw": "<#600101>Vitalit\u00e9\u00a0:</color> attribut am\u00e9liorant la pr\u00e9sente unit\u00e9 de 1\u00a0point \u00e0 la fin de son tour. Remarque\u00a0: les tours de Vitalit\u00e9 sont cumulables\u00a0; 1\u00a0tour de Vitalit\u00e9 annule 1\u00a0tour de Saignement.",
+      "text": "Vitalit\u00e9\u00a0: attribut am\u00e9liorant la pr\u00e9sente unit\u00e9 de 1\u00a0point \u00e0 la fin de son tour. Remarque\u00a0: les tours de Vitalit\u00e9 sont cumulables\u00a0; 1\u00a0tour de Vitalit\u00e9 annule 1\u00a0tour de Saignement."
+    },
+    "it-IT": {
+      "raw": "<#600101>Vitalit\u00e0:</color> stato che potenzia di 1 l'unit\u00e0 interessata alla fine del suo turno. Nota: i turni di Vitalit\u00e0 sono cumulabili e 1 turno di Vitalit\u00e0 annulla 1 turno di Sanguinamento.",
+      "text": "Vitalit\u00e0: stato che potenzia di 1 l'unit\u00e0 interessata alla fine del suo turno. Nota: i turni di Vitalit\u00e0 sono cumulabili e 1 turno di Vitalit\u00e0 annulla 1 turno di Sanguinamento."
+    },
+    "ja-JP": {
+      "raw": "<#600101>\u6d3b\u529b\uff1a</color>\uff08\u72b6\u614b\uff09\u81ea\u8ecd\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u306b1\u30d6\u30fc\u30b9\u30c8\u3092\u5f97\u308b\uff08\u30bf\u30fc\u30f3\u6570\u306f\u7d2f\u7a4d\u3057\u3001\u300c\u6d3b\u529b\u300d1\u30bf\u30fc\u30f3\u5206\u306f\u300c\u51fa\u8840\u300d1\u30bf\u30fc\u30f3\u5206\u306b\u3088\u3063\u3066\u76f8\u6bba\u3055\u308c\u308b\uff09",
+      "text": "\u6d3b\u529b\uff1a\uff08\u72b6\u614b\uff09\u81ea\u8ecd\u30bf\u30fc\u30f3\u7d42\u4e86\u6642\u306b1\u30d6\u30fc\u30b9\u30c8\u3092\u5f97\u308b\uff08\u30bf\u30fc\u30f3\u6570\u306f\u7d2f\u7a4d\u3057\u3001\u300c\u6d3b\u529b\u300d1\u30bf\u30fc\u30f3\u5206\u306f\u300c\u51fa\u8840\u300d1\u30bf\u30fc\u30f3\u5206\u306b\u3088\u3063\u3066\u76f8\u6bba\u3055\u308c\u308b\uff09"
+    },
+    "ko-KR": {
+      "raw": "<#600101>\ud65c\ub825</color>: \ud134\uc744 \uc885\ub8cc\ud560 \ub54c \uc774 \uc720\ub2db\uc744 1 \uc99d\ud3ed. \ucc38\uace0: \ud65c\ub825 \ud134\uc740 \ucd95\uc801\ud560 \uc218 \uc788\uc73c\uba70, \ud65c\ub825 \ud55c \ud134\uc73c\ub85c \ucd9c\ud608 \ud55c \ud134\uc744 \ucde8\uc18c\ud560 \uc218 \uc788\uc74c.",
+      "text": "\ud65c\ub825: \ud134\uc744 \uc885\ub8cc\ud560 \ub54c \uc774 \uc720\ub2db\uc744 1 \uc99d\ud3ed. \ucc38\uace0: \ud65c\ub825 \ud134\uc740 \ucd95\uc801\ud560 \uc218 \uc788\uc73c\uba70, \ud65c\ub825 \ud55c \ud134\uc73c\ub85c \ucd9c\ud608 \ud55c \ud134\uc744 \ucde8\uc18c\ud560 \uc218 \uc788\uc74c."
+    },
+    "pl-PL": {
+      "raw": "<#600101>Witalno\u015b\u0107:</color> Status, kt\u00f3ry wzmacnia t\u0119 jednostk\u0119 o 1 na koniec jej tury. Uwaga: tury witalno\u015bci mog\u0105 si\u0119 kumulowa\u0107; 1 tura witalno\u015bci anuluje 1 tur\u0119 krwawienia.",
+      "text": "Witalno\u015b\u0107: Status, kt\u00f3ry wzmacnia t\u0119 jednostk\u0119 o 1 na koniec jej tury. Uwaga: tury witalno\u015bci mog\u0105 si\u0119 kumulowa\u0107; 1 tura witalno\u015bci anuluje 1 tur\u0119 krwawienia."
+    },
+    "pt-BR": {
+      "raw": "<#600101>Vitalidade:</color> status que refor\u00e7a em 1 esta unidade no fim de seu turno. Observa\u00e7\u00e3o: os turnos de vitalidade podem acumular; 1 turno de vitalidade cancela 1 turno de sangramento.",
+      "text": "Vitalidade: status que refor\u00e7a em 1 esta unidade no fim de seu turno. Observa\u00e7\u00e3o: os turnos de vitalidade podem acumular; 1 turno de vitalidade cancela 1 turno de sangramento."
+    },
+    "ru-RU": {
+      "raw": "<#600101>\u0412\u044b\u043d\u043e\u0441\u043b\u0438\u0432\u043e\u0441\u0442\u044c:</color> \u0432 \u043a\u043e\u043d\u0446\u0435 \u0441\u0432\u043e\u0435\u0433\u043e \u0445\u043e\u0434\u0430 \u043e\u0442\u0440\u044f\u0434 \u0441 \u044d\u0442\u0438\u043c \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 1 \u0435\u0434. \u0423\u0447\u0442\u0438\u0442\u0435, \u0447\u0442\u043e \u0445\u043e\u0434\u044b \u0432\u044b\u043d\u043e\u0441\u043b\u0438\u0432\u043e\u0441\u0442\u0438 \u043c\u043e\u0436\u043d\u043e \u043d\u0430\u043a\u0430\u043f\u043b\u0438\u0432\u0430\u0442\u044c, \u0430 \u043e\u0434\u0438\u043d \u0445\u043e\u0434 \u0432\u044b\u043d\u043e\u0441\u043b\u0438\u0432\u043e\u0441\u0442\u0438 \u043e\u0442\u043c\u0435\u043d\u044f\u0435\u0442 \u043e\u0434\u0438\u043d \u0445\u043e\u0434 \u043a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u044f.",
+      "text": "\u0412\u044b\u043d\u043e\u0441\u043b\u0438\u0432\u043e\u0441\u0442\u044c: \u0432 \u043a\u043e\u043d\u0446\u0435 \u0441\u0432\u043e\u0435\u0433\u043e \u0445\u043e\u0434\u0430 \u043e\u0442\u0440\u044f\u0434 \u0441 \u044d\u0442\u0438\u043c \u0441\u0442\u0430\u0442\u0443\u0441\u043e\u043c \u0443\u0441\u0438\u043b\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u043d\u0430 1 \u0435\u0434. \u0423\u0447\u0442\u0438\u0442\u0435, \u0447\u0442\u043e \u0445\u043e\u0434\u044b \u0432\u044b\u043d\u043e\u0441\u043b\u0438\u0432\u043e\u0441\u0442\u0438 \u043c\u043e\u0436\u043d\u043e \u043d\u0430\u043a\u0430\u043f\u043b\u0438\u0432\u0430\u0442\u044c, \u0430 \u043e\u0434\u0438\u043d \u0445\u043e\u0434 \u0432\u044b\u043d\u043e\u0441\u043b\u0438\u0432\u043e\u0441\u0442\u0438 \u043e\u0442\u043c\u0435\u043d\u044f\u0435\u0442 \u043e\u0434\u0438\u043d \u0445\u043e\u0434 \u043a\u0440\u043e\u0432\u043e\u0442\u0435\u0447\u0435\u043d\u0438\u044f."
+    },
+    "zh-CN": {
+      "raw": "<#600101>\u6d3b\u529b\uff1a</color>\u4e00\u79cd\u72b6\u6001\uff0c\u83b7\u6b64\u72b6\u6001\u7684\u5355\u4f4d\u5728\u5176\u56de\u5408\u7ed3\u675f\u65f6\u83b7\u5f97 1 \u70b9\u589e\u76ca\u3002\u63d0\u793a\uff1a\u6d3b\u529b\u7684\u56de\u5408\u6570\u53ef\u4ee5\u7d2f\u79ef\uff1b1 \u56de\u5408\u7684\u6d3b\u529b\u6548\u679c\u53ef\u4ee5\u62b5\u6d88 1 \u56de\u5408\u7684\u6d41\u8840\u6548\u679c\u3002",
+      "text": "\u6d3b\u529b\uff1a\u4e00\u79cd\u72b6\u6001\uff0c\u83b7\u6b64\u72b6\u6001\u7684\u5355\u4f4d\u5728\u5176\u56de\u5408\u7ed3\u675f\u65f6\u83b7\u5f97 1 \u70b9\u589e\u76ca\u3002\u63d0\u793a\uff1a\u6d3b\u529b\u7684\u56de\u5408\u6570\u53ef\u4ee5\u7d2f\u79ef\uff1b1 \u56de\u5408\u7684\u6d3b\u529b\u6548\u679c\u53ef\u4ee5\u62b5\u6d88 1 \u56de\u5408\u7684\u6d41\u8840\u6548\u679c\u3002"
     }
   },
   "weaken": {

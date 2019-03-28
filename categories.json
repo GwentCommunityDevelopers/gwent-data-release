@@ -1229,6 +1229,34 @@
     "zh-CN": "\u65af\u74e6\u52c3\u6d1b",
     "zh-TW": "\u65af\u74e6\u73bb\u5fb7"
   },
+  "card_category_88": {
+    "de-DE": "Bombe",
+    "en-US": "Bomb",
+    "es-ES": "Bomba",
+    "es-MX": "Bomba",
+    "fr-FR": "Bombe",
+    "it-IT": "Bomba",
+    "ja-JP": "\u7206\u5f3e",
+    "ko-KR": "\ud3ed\ud0c4",
+    "pl-PL": "Bomba",
+    "pt-BR": "Bomba",
+    "ru-RU": "\u0411\u043e\u043c\u0431\u0430",
+    "zh-CN": "\u70b8\u5f39"
+  },
+  "card_category_89": {
+    "de-DE": "Natur",
+    "en-US": "Nature",
+    "es-ES": "Naturaleza",
+    "es-MX": "Naturaleza",
+    "fr-FR": "Nature",
+    "it-IT": "Natura",
+    "ja-JP": "\u81ea\u7136",
+    "ko-KR": "\uc790\uc5f0",
+    "pl-PL": "Natura",
+    "pt-BR": "Natureza",
+    "ru-RU": "\u041f\u0440\u0438\u0440\u043e\u0434\u0430",
+    "zh-CN": "\u81ea\u7136"
+  },
   "card_category_9": {
     "de-DE": "Test",
     "en-US": "Test",
@@ -1243,5 +1271,19 @@
     "ru-RU": "\u0422\u0435\u0441\u0442",
     "zh-CN": "\u6d4b\u8bd5",
     "zh-TW": "\u6e2c\u8a66"
+  },
+  "card_category_90": {
+    "de-DE": "Ent",
+    "en-US": "Treant",
+    "es-ES": "Treant",
+    "es-MX": "Treant",
+    "fr-FR": "Sylvain",
+    "it-IT": "Treant",
+    "ja-JP": "\u30c8\u30ec\u30f3\u30c8",
+    "ko-KR": "\ub098\ubb34\uadc0\uc2e0",
+    "pl-PL": "Drzewiec",
+    "pt-BR": "Ente",
+    "ru-RU": "\u0414\u0440\u0435\u0432\u0435\u043d\u044c",
+    "zh-CN": "\u6811\u4eba"
   }
 }
