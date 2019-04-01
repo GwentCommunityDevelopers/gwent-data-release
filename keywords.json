@@ -1663,8 +1663,8 @@
       "text": "Todeswunsch: Diese F\u00e4higkeit wird ausgel\u00f6st, wenn die Karte zerst\u00f6rt wird."
     },
     "en-US": {
-      "raw": "<#600101>Deathwish:</color> Trigger this ability when destroyed.",
-      "text": "Deathwish: Trigger this ability when destroyed."
+      "raw": "<#600101>Deathwish:</color> Trigger this ability when destroyed and moved from the battlefield to the graveyard. Note: Banished units are not sent to the graveyard.",
+      "text": "Deathwish: Trigger this ability when destroyed and moved from the battlefield to the graveyard. Note: Banished units are not sent to the graveyard."
     },
     "es-ES": {
       "raw": "<#600101>Sue\u00f1o mortal:</color> activa esta habilidad cuando se destruye.",
