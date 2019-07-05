@@ -2,6 +2,9 @@
 
 JSON produced by the script in gwent-data.
 
+# DEPRECATED
+This project is no longer actively maintained. I haven't played Gwent in a long time and have finally lost interest in maintaining my own personal Gwent project that uses gwent-data. Thank you for your support since the closed beta.
+
 ## How long does it take this repo to get updated after a Gwent update?
 
 It usually takes a couple of days after a Gwent update for this repo to be updated. Card data can be collected from the game files immediately, however it takes a couple of days for CDPR to send over the card images and then for them to be uploaded to the Google Cloud Storage bucket.
