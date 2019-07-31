@@ -43,6 +43,34 @@
     "ru-RU": "\u041d\u0438\u0437\u0443\u0448\u0435\u043a",
     "zh-CN": "\u534a\u8eab\u4eba"
   },
+  "card_category_101": {
+    "de-DE": "Muhme",
+    "en-US": "Crone",
+    "es-ES": "Moira",
+    "es-MX": "Moira",
+    "fr-FR": "Moire",
+    "it-IT": "Megera",
+    "ja-JP": "\u5996\u5a46",
+    "ko-KR": "\ud06c\ub860",
+    "pl-PL": "Starucha",
+    "pt-BR": "Coroa",
+    "ru-RU": "\u0412\u0435\u0434\u044c\u043c\u0430",
+    "zh-CN": "\u8001\u5deb\u59aa"
+  },
+  "card_category_102": {
+    "de-DE": "Kriegsf\u00fchrung",
+    "en-US": "Warfare",
+    "es-ES": "Guerra",
+    "es-MX": "B\u00e9lica",
+    "fr-FR": "Guerre",
+    "it-IT": "Guerra",
+    "ja-JP": "\u8ecd\u4e8b",
+    "ko-KR": "\uc804\uc7c1",
+    "pl-PL": "Dzia\u0142ania Wojenne",
+    "pt-BR": "Mil\u00edcia",
+    "ru-RU": "\u0412\u043e\u0435\u043d\u043d\u043e\u0435 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u043e",
+    "zh-CN": "\u6218\u4e89"
+  },
   "card_category_11": {
     "de-DE": "Taktik",
     "en-US": "Tactic",
