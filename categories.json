@@ -71,6 +71,9 @@
     "ru-RU": "\u0412\u043e\u0435\u043d\u043d\u043e\u0435 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u043e",
     "zh-CN": "\u6218\u4e89"
   },
+  "card_category_103": {
+    "en-US": "Raid"
+  },
   "card_category_11": {
     "de-DE": "Taktik",
     "en-US": "Tactic",
@@ -862,7 +865,7 @@
     "ko-KR": "\ube14\ub8e8\uc2a4\ud2b8\ub77c\uc774\ud504",
     "pl-PL": "Niebieskie Pasy",
     "pt-BR": "Listras Azuis",
-    "ru-RU": "\u0421\u0438\u043d\u0438\u0435 \u043f\u043e\u043b\u043e\u0441\u043a\u0438",
+    "ru-RU": "\u0421\u0438\u043d\u0438\u0435 \u041f\u043e\u043b\u043e\u0441\u043a\u0438",
     "zh-CN": "\u84dd\u8863\u94c1\u536b",
     "zh-TW": "\u85cd\u8863\u9435\u885b"
   },
