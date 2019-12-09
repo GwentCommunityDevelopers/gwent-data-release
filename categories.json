@@ -113,6 +113,20 @@
     "ru-RU": "\u0421\u0430\u043b\u0430\u043c\u0430\u043d\u0434\u0440\u0430",
     "zh-CN": "\u706b\u8725\u8734\u5e2e"
   },
+  "card_category_106": {
+    "de-DE": "Adliger",
+    "en-US": "Aristocrat",
+    "es-ES": "Arist\u00f3crata",
+    "es-MX": "Arist\u00f3crata",
+    "fr-FR": "Aristocrate",
+    "it-IT": "Aristocratico",
+    "ja-JP": "\u8cb4\u65cf",
+    "ko-KR": "\uadc0\uc871",
+    "pl-PL": "Arystokrata",
+    "pt-BR": "Aristocrata",
+    "ru-RU": "\u0410\u0440\u0438\u0441\u0442\u043e\u043a\u0440\u0430\u0442",
+    "zh-CN": "\u671b\u65cf"
+  },
   "card_category_11": {
     "de-DE": "Taktik",
     "en-US": "Tactic",
