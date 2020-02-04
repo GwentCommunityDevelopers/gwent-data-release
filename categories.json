@@ -11,7 +11,7 @@
     "pl-PL": "Podw\u00f3jny Agent",
     "pt-BR": "Agente Duplo",
     "ru-RU": "\u0414\u0432\u043e\u0439\u043d\u043e\u0439 \u0430\u0433\u0435\u043d\u0442",
-    "zh-CN": "\u53cc\u9762\u95f4\u8c0d",
+    "zh-CN": "\u53cc\u6599\u5bc6\u63a2",
     "zh-TW": "\u96d9\u9762\u9593\u8adc"
   },
   "card_category_10": {
@@ -126,6 +126,20 @@
     "pt-BR": "Aristocrata",
     "ru-RU": "\u0410\u0440\u0438\u0441\u0442\u043e\u043a\u0440\u0430\u0442",
     "zh-CN": "\u671b\u65cf"
+  },
+  "card_category_107": {
+    "de-DE": "Szenario",
+    "en-US": "Scenario",
+    "es-ES": "Escenario",
+    "es-MX": "Escenario",
+    "fr-FR": "Sc\u00e9nario",
+    "it-IT": "Scenario",
+    "ja-JP": "\u30b7\u30ca\u30ea\u30aa",
+    "ko-KR": "\uc2dc\ub098\ub9ac\uc624",
+    "pl-PL": "Scenariusz",
+    "pt-BR": "Cen\u00e1rio",
+    "ru-RU": "\u0421\u0446\u0435\u043d\u0430\u0440\u0438\u0439",
+    "zh-CN": "\u5267\u60c5"
   },
   "card_category_11": {
     "de-DE": "Taktik",
@@ -1114,7 +1128,7 @@
     "pl-PL": "S\u0142uga",
     "pt-BR": "Ficha",
     "ru-RU": "\u0421\u0438\u043c\u0432\u043e\u043b",
-    "zh-CN": "\u9000\u573a",
+    "zh-CN": "\u884d\u751f\u7269",
     "zh-TW": "\u53d7\u547d"
   },
   "card_category_75": {
